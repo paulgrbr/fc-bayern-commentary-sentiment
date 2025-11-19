@@ -2,7 +2,7 @@
 
 Projekt der Vorlesung **Natural Language Processing** an der **DHBW Ravensburg**.
 
-Dieses Projekt untersucht, ob Spielzusammenfassungen des ZDF-„sportstudio fußball“ eine messbare Parteilichkeit zugunsten oder zulasten des FC Bayern München aufweisen. Grundlage ist ein selbst erstellter Datensatz aus rund **70 YouTube-Videos** der Spielzeiten **2023/24** und **2024/25**.
+Dieses Projekt untersucht, ob Spielzusammenfassungen des ZDF-„sportstudio fußball“ eine messbare Parteilichkeit zugunsten oder zulasten des FC Bayern München aufweisen. Grundlage ist ein selbst erstellter Datensatz aus rund **70 YouTube-Videos** (ausschließlich Bundesliga) der Spielzeiten **2023/24** und **2024/25**.
 
 ---
 
