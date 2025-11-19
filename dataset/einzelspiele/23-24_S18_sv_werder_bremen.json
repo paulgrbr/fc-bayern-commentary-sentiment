@@ -1,0 +1,1232 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 18,
+    "heim_auswaerts": "Heim",
+    "gegner": "SV Werder Bremen",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.72"
+  },
+  "ergebnis": {
+    "bayern": 0,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Marco Fritz",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der FC Bayern begrüßt in der heimischen Arena das auswärtsschwächste Team der Liga, Werder Bremen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "In Dunkelgrün hofft Bremen auf eine kleine Überraschung.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Kane ersetzt beim Rekordmeister Coman, Müller ist in der Startelf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Bei Bremen schmerzhaft die Ausfälle von Bittencourt und Topstürmer Marvin Ducksch, die jeweils gegen Bochum die fünfte Gelbe Karte sahen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Ole Werner betonte vor der Partie, man wolle vor allem in den Umschaltsituationen zielstrebig abschließen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "Werder steht tief und konzentriert sich in der Anfangsphase genau auf das Umschaltspiel.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Stay und erster Arbeitsnachweis für Manuel Neuer in der neunten Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Es ist ein guter Auftakt für die Norddeutschen, die mittlerweile seit vier Bundesligaspielen ungeschlagen sind.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Angetrieben von 5000 Bremen-Fans soll das auch nach dieser Partie so bleiben.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Weiser hat den Blick für Woltemade, der dann noch gut bedrängt wird.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Der Franzose verteidigt heute wieder neben de Ligt, der noch rechtzeitig fit geworden ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "In der vergangenen Woche flog Thomas Tuchel mit seinem Team für ein kurzes Trainingscamp ins portugiesische Faro.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Da konnte auch die dicke Winterjacke zu Hause gelassen werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Die Bayern haben noch nicht die Kontrolle über das Spiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Der Ball läuft gut, der Ball läuft viel in den eigenen Reihen, aber zwingende Abschlüsse fehlen noch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Kimmich mit einem wunderbaren Chipball auf Musiala und C.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Für den Torhüter ist die Partie in der bayerischen Landeshauptstadt die Rückkehr in seine Geburtsstadt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Früher war er hier mit seinem Vater in der Arena.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Noch wenig zu sehen von Kane und Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Bremen verteidigt konzentriert.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Jetzt gibt es mal ein bisschen Platz für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Sané, zuletzt Ende Oktober gegen Darmstadt getroffen, es wird langsam mal wieder Zeit für den Mann, der acht Saisontore auf seinem Konto hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Wir blicken auf die andere Seite, auf die Defensive der Bayern, die in dieser Saison große personelle Baustellen aufweist und jetzt gefordert ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Weiser bekommt den Ball zurück, Weiser und dann Manuel Neuer mit einer Weltklasse-Parade.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Der war richtig ungemütlich abgefälscht von Davies und dann reaktionsschnell auf der Linie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Zum 114. Mal treffen beide Vereine aufeinander, das Rekord der Bundesliga-Geschichte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Nach einem neuen Torrekord sieht es bisher aber nicht aus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Ballgewinn Werder und dann wieder das schnelle Umschaltspiel.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Ginm ist auf und davon.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Ginm, 25. Minute, 1:0 Werder Bremen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Aber hat der Treffer Bestand?",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Schiedsrichter Marco Fritz soll sich den Zweikampf zwischen St und Musiala noch mal anschauen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Und die Bilder zeigen: Es ist ein Foulspiel der ST, der dadurch den Treffer einleitet.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Fritz hat genug gesehen und nimmt das Tor zurück.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Weiterhin also 0:0.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Seit 2008 hat Bremen nicht mehr gegen die Bayern gewinnen können.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Damals standen noch Thomas Schaaf und Jürgen Klinsmann an der Seitenlinie und Buddhas an der Säbener Straße.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Sané, Upamecano und za gut durchgesetzt von Sané und dann zwingt Upamecano C zur Parade.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Über eine halbe Stunde gespielt, der Rekordmeister hat mittlerweile mehr Ballbesitz, aber Bremen bleibt gefährlich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Immer wieder Dinanma und immer wieder auch Upamecano, der Verteidiger, der bislang hellwach ist und hier eine Grätsche mit einem perfekten Timing auspackt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Prädikat: blendend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Passiert noch was vor der Pause?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Kimmich, Laimer, Coman, wieder Kimmich und dann Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Nächster Versuch und wieder nicht zwingend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Nicht mehr lange bis zum Pausenpfiff.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Freistoß für die Gäste.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Die Norddeutschen gestalten die Partie weiter offen und auch auf der Tribüne hält Werder dagegen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Eine Aktion gibt es noch in Durchgang 1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Weiser auf Schmid, warum nicht einfach mal drauf?",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Es ist der letzte Abschluss der ersten 45 Minuten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "0:0 zur Pause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Das auswärtsschwächste Team der Liga macht ein sehr gutes Spiel und der FC Bayern muss etwas kreativer werden.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Beide Trainer nehmen keine Wechsel vor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Die 22 Akteure der ersten Hälfte starten auch in den zweiten Durchgang.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Wer kommt jetzt besser aus der Kabine?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Erstmal kommt C aus dem Tor und muss ein bisschen nachjustieren.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Knappes Ding.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Musiala lauerte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Was macht eigentlich der 100-Millionen-Euro-Mann, der schon 22 Tore erzielt hat?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Harry Kane wartet noch auf seinen ersten Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "50 Minuten hat es gedauert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Auch gegen Hoffenheim war der Stürmer lange unauffällig, erzielte dann aber in der 90. Minute noch so einen Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "In dieser Phase haben die Münchner die Kontrolle übernommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Bremen hat Mühe, sich zu befreien, kommt jetzt aber über Weiser über die rechte Seite.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Weiser im Zweikampf gegen Davies, Weiser vorbei an Davies und rein damit.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "59. Minute, 1:0 Werder Bremen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Der beste Spieler auf dem Platz besorgt die Führung.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Es ist eine starke Einzelleistung, ein bisschen halbherzig das Zweikampfverhalten von Davies.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Der Rechtsfuß Weiser lässt Neuer mit seinem linken keine Chance.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Zweiter Saisontreffer, aber insgesamt an über 20% der Bremer Treffer beteiligt.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Die Gäste belohnen sich für eine starke Partie.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Wie reagieren die Bayern jetzt?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Man will Druck auf Leverkusen ausüben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Unangenehmer Eckball, 64. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Tuchel hat genug gesehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Dreierwechsel: Goretzka, Tel und Müller rein, Guerreiro, Davies und Kimmich raus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Und Müller hat ein paar frische Informationen und Anweisungen im Gepäck.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Gute 20 Minuten bleiben dem Rekordmeister noch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Musiala und Jung macht die Szene noch mal spannend und klärt auf Kosten einer Ecke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Und auf die schauen wir jetzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Goretzka, Kane, aber da stehen nur Bremer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Klärungsversuch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Die Münchner setzen nach.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Coman, Musiala, C.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Das waren dann endlich mal zwei gute Möglichkeiten für den Tabellenzweiten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Kane, der ganz bewusst noch einmal nach einem Mitspieler sucht und sich gegen einen eigenen Abschluss entscheidet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Weiter 0:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Die Uhr tickt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Bremen steht weiter tief und lauert auf mögliche Konter.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Die Bayern im Stile einer Handballmannschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "S und za, der den Ball früh sieht und dann sicher parieren kann.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "10:2, das Eckenverhältnis mittlerweile für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Und Keeper ist hellwach, trifft immer die richtigen Entscheidungen und lässt die Bayern langsam aber sicher etwas verzweifeln.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Freistoß, 83. Minute, Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Bremen kann etwas durchatmen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Es gibt seit langer Zeit keine Entlastung mehr.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Irgendwie wollen die Gäste das Spiel über die Ziellinie bringen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Müller gewechselt, Choupo-Moting auf den eingewechselten Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "C, Pfosten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Immer wieder der Werder-Keeper.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Wahnsinn, was für eine Vorstellung, was für eine Partie von Michael Zetterer.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "87. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Bremen muss fighten und Bremen hat jetzt eine Kontermöglichkeit.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Weiser hat noch Kraft.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Weiser und von hinten kommt S angerauscht.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Freistoß, sagt Schiedsrichter Fritz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Schlussphase.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Gibt es noch das Bayernusel?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Musiala, Tel, der hat noch mal richtig frischen Wind reingebracht, aber auch er kann den Ball nicht unterbringen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Gibt es den ersten Werder-Sieg gegen München seit 2008?",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Nachspielzeit: 5 Minuten gibt es oben drauf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "Es fliegen nur noch hohe Bälle in den Strafraum.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Gorka, zu wenig, zu ungenau.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Die letzten Sekunden, die letzten Sekunden vor der ganz großen Überraschung.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Tel, wenn einer für Gefahr sorgt, dann er.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Tel, immer noch Tel, aber das war sie, die letzte Chance der Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "Das schwächste Auswärtsteam der Liga ist plötzlich nicht mehr das schwächste Auswärtsteam der Liga.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "1:0 nach 90 Minuten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 118,
+        "text": "Bremen überrascht die Liga und Bremen überrascht die Bayern.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 119,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 120,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

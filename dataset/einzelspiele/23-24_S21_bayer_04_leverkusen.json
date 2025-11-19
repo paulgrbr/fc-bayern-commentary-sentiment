@@ -1,0 +1,1232 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 21,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "Bayer 04 Leverkusen",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.61"
+  },
+  "ergebnis": {
+    "bayern": 0,
+    "gegner": 3
+  },
+  "offizielle": {
+    "schiedsrichter": "Felix Zwayer",
+    "kommentator": "Oliver Schmidt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Vor Anpfiff erst einmal der Anwurf: Kamelle zu Karneval, rheinisches Motto.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Die DFL hat hier nichts zu Kamellen übersetzt, nichts zu melden, kein Skandal, ein bunter, friedlicher Protest gegen den sich anbahnenden Investoren-Deal.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Mit 8 Minuten und 12 Sekunden Verspätung pfeift Schiedsrichter Felix Zwayer die Partie an: Bayer 04 Leverkusen in Schwarz gegen den FC Bayern München.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Bisher ist es eine Saison ohne Niederlage für die Werkself.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Sind die Unbesiegten tatsächlich auch unbesiegbar?",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Gäste in den ersten Minuten mit mehr Ballbesitz, Leverkusen lauert auf Tempomomente.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Radet dann Tella gegen Upamecano, orientierungslos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Die Tür geht auf für Tella und die Neuen im Duett, erster Torschuss in der 11. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der Titelverteidiger als Herausforderer, das bayerische Ziel: Mit einem Sieg heute die Tabellenführung erobern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Bei einer Niederlage würde jedoch der Rückstand auf fünf Punkte wachsen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Rechenschieber hin und her, es ist erst der vierte Rückrundenspieltag, es folgen noch 13.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Die Bayern pressen hoch, mutig und hier auch erfolgreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Sané legt auf für Leon Goretzka, Minute 13.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Nach dem Fußballfest ist vor dem Fußballfest: Am Dienstag das Pokalspektakel mit Leverkusener Happy End.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Vier Tage später nimmt das Spitzenspiel Fahrt auf über den Hochbegabten Florian Wirtz.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Die Bayern legen einen grünen Teppich aus, die Mitte öffnet sich, der Pass auf Adli.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Kim, Neuer, Upamecano, Bayerns Tatortreiniger.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Viel zu viel Raum für Wirtz.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Bayer stresst Bayern mit Geschwindigkeit, die bisher beste Bayern-Chance in der 18. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Gleich im Anschluss Florian Wirtz mit dem schnellen Einwurf, die Bayern sortieren sich noch.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Robert Andrich vogelfrei, ohne Gegnerdruck, und 1:0 Leverkusen.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Josip Stanišić, 18. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Bayerns Leihgabe trifft für Bayer, ausgerechnet Stanišić, geboren in München, 7 Jahre beim FCB.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Der Meister macht dem Tabellenführer das Tore schießen leicht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Sané und Co. keinerlei Gegnerdruck und dann ein bekanntes Muster: Am zweiten Pfosten lauert der Torschütze im Rücken von Boey, diesmal Stanišić.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Der Neue, im Winter geholt für 30 Millionen.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Boey verliert das Duell gegen den alten Außenverteidiger, der ausgeliehen wurde im Sommer.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Was für eine Geschichte!",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Personalauswahl geglückt, Alonso mit Doppelfaust.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Andere Coachingzone, gleiche Uhrzeit, andere Laune und sein Trainerstab.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Fehler bestraft.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Nach einer 1:0-Führung hat Leverkusen nie verloren in dieser Saison.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Bayerns Ballbesitzmonopol schon Vergangenheit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Hincapié diagonal, Tella direkt, aber wird geblockt, 23. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Nach der Führung die Heimelf mit Rückenwind.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Die anschließende Ecke ein Fall für Alejandro Grimaldo, Bayers bester Vorbereiter.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "In der Mitte Jonathan Tah und Neuer, Reaktion schnell.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Dienstag Pokalsiegtor, heute wieder Torschütze.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "1,95 m Tah gegen 1,78 m Neuer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Wird es noch ein Spiel für und mit Thomas Müller, noch ein prominenter Bankbesucher?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Es ist kein atemberaubendes Abendspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Bayern offensiv unsichtbar, ein Indiz: die acht Ballkontakte von Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Bayern mit kontrollierter Dominanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Tella, Doppeltorschütze gegen Darmstadt, gegen Kim.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Grimaldo oft halbrechts, der Linksverteidiger.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Xhaka der Stratege und dann Piero Hincapié, 4 Minuten vor der Pause.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Eine Saison bisher ohne Niederlage, Pokalhalbfinale, Europa League Halbfinale und in der Liga die Streber.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Monate ist es schon her, im Mai in Bochum, Leverkusens letzte Punkte Nullnummer.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "1:0 vorne in der Liga-Hitparade, aktuell fünf Zähler vorne.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Es gibt auch mal Fehler, aber dann Xhaka mit Außenrist, Adli auf und davon, verfolgt von Upamecano, der die Fußspitze noch dazwischen bekommt.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "42. Minute, auf der letzten Rille das mögliche 0:2 verhindert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Oberschenkelverletzung hat ihn nicht kommen hören.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Die Bayern liegen hinten zur Pause, kein offensives Durchkommen gegen die beste Defensive der Liga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Und auch Tuchel prallt ab am vierten Offiziellen Bart Stübner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Xabi Alonso führt im Coaching-Gipfel Leverkusen, seine dritte Trainerstation, seine erste erstklassige.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Bald Bayers erster Meistertrainer?",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Müller muss sich noch gedulden, Pausencoach für Kane, titellos in Tottenham und jetzt auch in München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Noch ist nichts verloren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Zweite Hälfte, erstmal keine Personal- und keine Formationswechsel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Bayer überspielt die erste Pressinglinie, Upamecano will klären, Tella kommt in den Ballbesitz.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Grimaldo, Hincapié startet links, Grimaldo nimmt Tella mit und der bedient Alejandro Grimaldo.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Das ganz schnelle 2:0 nach Wiederanpfiff, 50. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Halleluja vor der Heimtribüne.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Alejandro Grimaldo, erstes Bundesligator gegen die Bayern in der Hinrunde, heute sein achtes.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Upamecano im Pech, aber noch fernab vom eigenen Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Aber Bayers Verteidigung, die zweitbeste der Liga, alles andere als niet- und nagelfest.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Defensiv unsortiert, die einen offensiv durchchoreografiert, der Vortrag der anderen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Tella auf Grimaldo, hier der Spanier mit acht Toren und zehn Vorlagen, jetzt gleichauf mit Topscorer Boniface, der beste Linksfuß der Liga.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Rosentag am Samstag und Thomas Tuchel erlebt das 0:2 überraschend leblos heute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Spitzenspiel, Mittwoch Champions League, es droht die erste titellose Saison seit 2012.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Die Gesichter der Bosse Heiner und Dresen passend zum Zwischenstand.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Der Moment sei gekommen, um die Karten auf den Tisch zu legen, sagte Tuchel vor der Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Bayers Blatt aber ist bisher das bessere.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Andrich schickt Grimaldo, in der Mitte trifft Goretzka, strafbares Handspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Zwayer winkt ab, kein Elfmeter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Wir versuchen aufzuklären: Der Arm geht nicht in die Flugbahn, steht vorher ein wenig ab, aber vergrößert kaum die Abwehrfläche.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Die Schiri-Entscheidung also definitiv nicht klar und offensichtlich falsch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Eine Stunde schon rum, Müller und Kimmich kommen für Upamecano und Pavlovic.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Frisches Personal inklusive Formationswechsel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Zu spät oder gerade noch rechtzeitig?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Ecke für Leverkusen, wieder ein Fall für Grimaldo.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Im Nebenjob Kunst, um ein Haar das 3:0 mit einer direkt verwandelten Ecke.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Tah hält Bayer in Ballbesitz, seine Hereingabe nicht ganz so kreativ wie die Variante von Grimaldo.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Da hat Bayers bester bei Manuel Neuer erwischt, ein Ausdruck der Leverkusener Leichtigkeit.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Bayer 04 dominiert und kontrolliert die Bayern.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Nicht durch Glanzvoll, der Vortrag, aber beeindruckend souverän wie eine Meistermannschaft.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Auch ohne echte Neuner.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Nächstes Beispiel: Xhaka auf den eingewechselten Frimpong, vorbei, 73. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Die Neuauflage eines alten Schlagers ist zu hören.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Antwort der Gästefans: \"Ihr werdet nie deutscher Meister.\"",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Kane gegen Hofmann und Nachweis Rad, allerdings im Vorfeld Abseits.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Es bleibt dabei: Null Torchancen FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Das Mir-san-mir-Imperium wollte zurückschlagen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Fehlpass Kimmich, bis hierhin klappt es aber nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Stanišić mobilisiert die letzten Kräfte, Sprinter Frimpong, der hat noch genug davon.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Pfosten, 88. Minute.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Wenigstens der rechte Pfosten, ein standhafter bayerischer Verteidiger.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Stark, Stanišić, Bayerns Leihspieler und sein Meisterstück mit Bayer.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Und Kimmichs Bein hat auch noch einen Anteil am Alutreffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "90 plus 5, die letzte Minute der Nachspielzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Noch einmal Ecke für den FC Bayern und auf dem Weg nach vorn Kapitän Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Ein Akt der Verzweiflung oder geht da doch noch was?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Kimmich schnappt sich den Ball, Flanke auf den ersten Pfosten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Tah schickt Bayers Schnellsten auf die Reise.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Jeremie Frimpong gegen 1, 2, 3, 4.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Schnell und präzise, 3:0, Deckel drauf.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Alle außer Rand und Band.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Tah gewinnt das Kopfballduell gegen Neuer, es folgt das Solo des Jeremie Frimpong, beispielhaft für die Kräfteverhältnisse in diesem Topspiel.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Allein gegen den Rest der bayerischen Defensive, gar nicht so einfach, wie es aussieht.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Bayer stellt die Welt der Bayern auf den Kopf.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "0:3 verloren, das Meisterabo der Bayern also könnte 2024 ablaufen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 111,
+        "text": "Defensiv fehlerhaft, offensiv chancenlos, eine toxische Mixtur.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 112,
+        "text": "Der Matchplan ging gerade mal 10 Minuten auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 113,
+        "text": "In vier Tagen folgt das Achtelfinale in der Königsklasse, die Champions League als letzte Titelchance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 114,
+        "text": "Das klingt nach diesem trostlosen Abend verwegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 115,
+        "text": "Ganz anders Xabi Alonso, seine Trainerriege und ganz Bayer 04 Leverkusen.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 116,
+        "text": "Das 31. Pflichtspiel ohne Niederlage, den Verfolger distanziert auf fünf Punkte, 13 Spieltage vor dem Ende.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 117,
+        "text": "Als Spieler ein Dirigent und auch als Trainer.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 118,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 119,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier, sind aktuelle Videos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 120,
+        "text": "Klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

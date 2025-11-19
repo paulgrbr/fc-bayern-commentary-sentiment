@@ -1,0 +1,982 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 17,
+    "heim_auswaerts": "Heim",
+    "gegner": "TSG Hoffenheim",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.68"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Benjamin Brand",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Diese Woche hat der Tod von Franz Beckenbauer die Fußballwelt erschüttert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Lieber Franz, ruhe in Frieden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Es ist ein emotionaler Start in das Fußballjahr 2024.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Eine Schweigeminute für die große Legende Franz Beckenbauer bei der Partie seines FC Bayern gegen die TSG Hoffenheim, dem Abschluss der Hinrunde.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Die Münchner in rot-weißen Sondertrikots mit der Aufschrift \"Danke Franz\", Hoffenheim in Blau und mit dem ersten Abschluss: Stach in der dritten Minute.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Nach der Wochen-Bundesliga-Pause müssen beide Mannschaften erst einmal ihren Rhythmus finden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Es geht noch nicht allzu viel zusammen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Kimmich auf Müller, der hat viel Platz, aber die Flanke findet nur Kabak als Abnehmer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Immerhin gibt es einen Eckball für die Münchner, und dieser wird kurz ausgeführt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Sané nimmt Musiala mit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Musiala, 18. Minute, 1:0 Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Und Ohren gespitzt: Es gibt die ganz besondere Torhymne bei diesem Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Auch der Pfosten ist ein Freund der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Schöner Abschluss von Musiala, und Ecken gehören sowieso zu den Stärken der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Es ist bereits das siebte Tor nach einem Eckball, nur Gladbach ist in dieser Kategorie erfolgreicher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Der erste Torschuss besorgt die Führung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Der Rekordmeister hat nach einer halben Stunde mehr Ballbesitz, aber die Kraichgauer sind das drittbeste Auswärtsteam und dementsprechend gibt es auch keinen Grund, sich hier zu verstecken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Upamecano unfreiwillig die Vorlage für Stach.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Hoffenheims Coach Matarazzo sagte vor dem Spiel mit einem Augenzwinkern, er wolle Harry Kanes Schuhe in den Kühlschrank packen und dadurch den Engländer am Tore schießen hindern.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Bisher scheinen aber auch die Minustemperaturen in München zu reichen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Von Kane noch wenig zu sehen, vielleicht jetzt:",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Kane weiter auf Guerreiro und Baumann mit einer sehr starken Tat in der 37. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Die zweite Chance für den FC Bayern, und die war ordentlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Bis auf wenige Ausnahmen fehlt den Münchnern das Tempo im letzten Drittel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Hoffenheim steht kompakt.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Kane, und das ist kein Problem für Baumann, der eine richtig starke Saison spielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Nachdem die TSG in der vergangenen Spielzeit lange im Abstiegskampf steckte, hat sich Hoffenheim klar stabilisiert und sich aktuell sogar in der oberen Tabellenhälfte festgesetzt.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Neuer bestreitet sein 500. Pflichtspiel für den FC Bayern und zieht dadurch mit Bastian Schweinsteiger gleich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es ist noch nicht das große Highlightspiel, beide Mannschaften bemüht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Und dann stempelt Prömel Müller auf den Fuß, eine klare gelbe Karte, die zweite in der Partie.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Zuvor wurde bereits Anton Stach verwarnt.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "45. Minute, es gibt gleich denus, aber noch wurde der Wasserkocher nicht angestellt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Es rollt ein letzter Bayernangriff auf die TSG-Defensive zu, die teilweise mit zehn Mann im eigenen 16er steht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Musiala, Kimmich, Baumann und Pause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Der Tabellenzweite führt dank des vierten Saisontreffers von Musiala mit 1:0, und damit wurde auch ein weiterer Bundesliga-Rekord geknackt: Im 65. Heimspiel in Folge haben die Münchner mindestens ein Tor erzielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 35,
+        "text": "Ohne personelle Veränderung geht es weiter, und auch das Spiel bleibt unverändert, was die Großchancen angeht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 36,
+        "text": "Acht Minuten in der zweiten Halbzeit gespielt, Baumann und dann Sané.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 37,
+        "text": "Durchschnittlich benötigt der FC Bayern nur sechs Torschüsse, um einen Treffer zu erzielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "Es hapert noch an der Qualität der Abschlüsse.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "Thomas Tuchel betonte im Vorfeld, man wolle in einen Lauf kommen und Leverkusen unter Druck setzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "Aktuell stimmt zumindest das Ergebnis.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "Kimmich wird sich in den kommenden Wochen wohl komplett auf seinen Verein konzentrieren können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Der deutsche Nationalspieler wurde für seine Tätlichkeit im Spiel gegen Österreich für die anstehenden drei Länderspiele gesperrt, allerdings kann der DFB noch Berufung einlegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "Es ist jetzt eine kleine Druckphase der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Kane mit der Balleroberung, und der hat den Ball erneut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Kane auf Sané, 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Von wegen ein kurzer Jubel, die Fahne geht hoch, es ist Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Schön zu sehen, der Engländer steht in der verbotenen Zone, der Treffer zählt nicht, auch wenn Thomas Müller das natürlich ganz anders gesehen hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Hoffenheim hat jetzt doch etwas mehr Probleme, sich offensiv zu zeigen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Immer wieder gehen die Bayern früh drauf, Ballverlust und dann Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Zum zweiten Mal rettet das Aluminium für die TSG.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Diesbezüglich sind sie die Glückspilze der Liga, und noch ist hier alles drin, aber dafür braucht es jetzt Entlastung aus Sicht der Gäste.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Wieder die Bayern, Müller auf Laimer und Baumann, der macht sich groß und klärt zur Ecke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Nächste gute Gelegenheit für die Hausherren und diesmal auch keine Abseitsposition.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Schauen wir auf den folgenden Eckball, und die werden kurz ausgeführt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Was einmal klappt, klappt vielleicht auch ein zweites Mal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Der Ball auf Wandertour, bis Alphonso Davies sich ein Herz fasst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Baumann, es ist der erwartete lange Arbeitstag für Oliver Baumann im Kasten der Hoffenheimer.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Die Frage natürlich: Wann werden die Gäste etwas mutiger?",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Irgendwas muss man unternehmen, wenn man zumindest einen Punkt mitnehmen will.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Zweite Chance nach diesem Eckball, Kramaric und dann Kabak auf Bayern.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Neuer, Wahnsinnsparade von Manuel Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Die beste Chance auf den Ausgleich verhindert, weil der Keeper hier früh antizipiert und die Arme hochreißt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Das ist die Extraklasse von Manuel Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Aber der Kopfball lässt nicht nur das Stadion lauter werden, er weckt auch die Hoffenheimer Spieler aus dem Winterpausenschlaf auf.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Upamecano verlängert unglücklich auf Kramaric, eins gegen eins gegen Neuer, und wieder bleibt Neuer der Sieger.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Solche Chancen muss man gegen den FC Bayern eigentlich nutzen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Es ist natürlich kein Abseits, weil der Ball von Upamecano kommt, und dann steht Manuel Neuer perfekt auf Höhe des Elfmeterpunkts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Jetzt macht diese Partie richtig Spaß, es ist ein deutlich höheres Niveau als in der ersten Halbzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Nur eine Minute nach der Kramaric-Chance erneut der Kroate, diesmal mit der Vorlage.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Beier und Latte, die TSG mit drei Möglichkeiten hintereinander, den Ausgleich zu erzielen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Zweimal verbietet Neuer in Funktion als Türsteher das Feiern, und einmal klatscht der Ball ans Aluminium.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Es gilt jetzt auch für die Bayern, die Balance aus stabiler Defensive und kontrollierter Offensive zu finden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Upamecano auf Musiala, 70. Minute, 2:0 FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Doppelpack für den 20-Jährigen, und wenn der seine Tanzschuhe auspackt, kommst du mit deinen Fußballschuhen einfach nicht mehr hinterher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Musiala und auch Sané behalten in dieser Situation die Ruhe und die Übersicht, der Abschluss dann eiskalt vorbei an Baumann, der noch ganz leicht mit den Fingerspitzen am Ball ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Das 2:0 in einer so wichtigen Phase in dieser Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Jetzt muss Hoffenheim natürlich das Risiko deutlich erhöhen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Prömel gegen den eingewechselten Tel, und das ist ein ähnliches Einsteigen von Prömel wie in Halbzeit eins gegen Müller.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Es gibt erneut die gelbe Karte, und das macht in der Endsumme Gelb-Rot.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Die TSG eine gute Viertelstunde vor dem Ende der Partie in Unterzahl.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Blicken wir auf den nächsten Eckball für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "11:2 am Ende das Eckenverhältnis für die Bayern, und diesmal wird er nicht kurz ausgeführt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "De Ligt und Baumann, es sieht jetzt sehr nach einem geglückten Start in das Fußballjahr 2024 für den FC Bayern aus, und das, obwohl der Toptorschütze Harry Kane einen sehr ruhigen Abend hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Noch bleiben ihm aber ein paar Minuten hier, vielleicht doch noch einen Treffer zu erzielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Kimmich, und da ist Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Es bleibt vorerst bei den beeindruckenden 21 Bundesligatoren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Hoffenheim ist seit dem Platzverweis abgemeldet.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "90. Minute, das Spiel natürlich entschieden, aber die Bayern kommen noch mal über Goretzka auf Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Harry, ich treffe, wie es mir gefällt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Kane, 3:0 FC Bayern, und es ist ein ganz besonderes Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "22 Hinrundentreffer, das gelang bisher nur Robert Lewandowski, und im Nachholspiel gegen Union Berlin kann sich Kane den alleinigen Rekord schnappen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Lange war er abgemeldet und am Ende dann doch zugeschlagen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Das 3:0 gleichzeitig auch der Endstand an einem sehr besonderen, sehr emotionalen Abend in München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier, sind aktuelle Videos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 95,
+        "text": "Klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

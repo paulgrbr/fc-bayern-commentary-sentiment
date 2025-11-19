@@ -1,0 +1,1122 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 4,
+    "heim_auswaerts": "Heim",
+    "gegner": "Bayer 04 Leverkusen",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.51"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Daniel Schlager",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Kölns Trainer Steffen Baumgart hätte lieber Victor Boniface gekauft statt Harry Kane.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 1,
+        "text": "Der Leverkusener muss im Topspiel beim FC Bayern früh an der Lippe behandelt werden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Sein Team spielt in den schwarzen Trikots von links nach rechts, und weil der Stürmer noch an der Seitenlinie steht, sind die Rheinländer erst einmal in Unterzahl.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Das registriert natürlich auch Kimmich, der gut Druck macht: Ballgewinn, Müller, Gnabry, Sané – es geht verdammt schnell und dann [Applaus].",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Während der Länderspielpause war er mehr Trainer als Spieler an der Säbener Straße gewesen, so Thomas Tuchel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Anfangsphase macht aber gleich mal deutlich, was der Matchplan der Bayern ist: frühes Pressing, die starke Offensive der Gäste gar nicht erst ins Spiel kommen lassen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Tapfer tapst Leverkusen in die Falle der Bayern, verliert den Ball, Sané nimmt Müller mit und es gibt den ersten Eckball für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Eigentlich ja so etwas wie der private Hobbyraum von Joshua Kimmich, für den heute aber auch Leroy Sané den Schlüssel bekommen hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Er kümmert sich um den Eckball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "17 Minuten, 1:0 für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Viertes Bundesligaspiel, vierter Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Vorlage von Jahr, tatsächlich von einem Leverkusener, Tapsoba verlängert unglücklich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Aber dann verliert Xhaka den Engländer auch aus den Augen und schaltet gefühlt in dem Moment ab, in dem sein Teamkollege zum Kopfball geht.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Der Rest ist dann ein Geschenk für Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Für Leverkusen ist es der vierte Gegentreffer in dieser Saison und es ist das vierte Kopfballgegentor nach einer Standardsituation.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Die Münchner wirken in dieser Anfangsphase gedankenschneller, griffiger und laufen immer wieder an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Leverkusen wirkt ängstlich.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Müller, irgendwie landet der Ball bei Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "\"Er kann die Liga dominieren\", sagte Tuchel über den Nationalspieler vor gut zwei Wochen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Bisher ist es eine sehr starke Saison von Leroy Sané, alles unter den Augen von Manuel Neuer, mit minimalen Problemen aktuell, so sein Coach.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Neuers Genesung soll wohl doch noch etwas länger dauern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "24 Minuten gespielt, jetzt meldet sich auch mal Leverkusen, und natürlich über Boniface.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Der Nigerianer hat die meisten Torschüsse der Liga abgegeben.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Hier kommt ein weiterer hinzu.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Freistoß aus guter Position für Leverkusen.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Zwei Neuverpflichtungen stehen bereit, der eine aus Gladbach, der andere aus Lissabon, und der macht alles andere: Grimaldo.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "24. Minute, der Ausgleich.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Wie viel Gefühl Grimaldo da reinpackt, so streicheln andere ihre Haustiere.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es ist ein absolutes Traumtor, nichts, rein gar nichts zu halten für Sven Ulreich im Kasten.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Zusehen und staunen.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Leverkusen jetzt endgültig angekommen in dieser Partie, und einer will das nicht wahrhaben: Thomas Tuchel sieht Gelb, weil er immer noch über die Freistoßentscheidung hadert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Aber Müller kommt gegen Grimaldo eine halbe Sekunde zu spät, der Pfiff also korrekt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "1:1 im Spitzenspiel, das einen sehr hohen Unterhaltungsfaktor mit sich bringt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Xhaka, super Zuspiel auf Hofmann, weitergeleitet auf Boniface, Boniface und Ulreich.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "\"Er sei nicht wie ein klassischer Bomber, er sei komplett\", sagt Alonso über seinen neuen Stürmer.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Und Boniface ist jetzt auf Betriebstemperatur.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Wieder Boniface, das Tor hat ihm Selbstvertrauen gegeben.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Die Gäste sind in dieser Phase spielbestimmend, immer wieder auch angekurbelt von Florian Wirtz.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Was für ein Zuspiel auf Boniface, aber der Ball im Tor und der Pfiff im Ohr.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Die Fahne geht hoch, es ist Abseits, und auch diese Entscheidung ist korrekt.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Alonso dürfte aber jetzt zufrieden sein mit der Leistung seiner Mannschaft.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "35. Minute, jetzt mal wieder die Gastgeber: Kimmich, Müller, Hrádecký, Gnabry, Doppelchance FCB, und wieder zittert Leverkusen bei einer Standardsituation.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Dieses Mal ist es auch gut gegangen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Noch immer nicht Halbzeit, es wird einiges geboten an diesem Freitagabend.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Halbherzig verteidigt, Sané hat Zeit, hat Platz, und tatsächlich ist Hrádecký noch mit den Fingerspitzen am Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Die nächste richtig gute Aktion vom Keeper.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Mittlerweile sind zwei Tore viel zu wenig für diese Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Vor allem die Bayern drängen auf den nächsten Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Gnabry, tolle Ballmitnahme, und dann ist es Hrádecký und Grimaldo in letzter Not.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Aber das bedeutet, der FC Bayern wird noch einen Eckball bekommen, und die Standardschwäche der Leverkusener wurde bereits angesprochen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Wieder Leroy Sané, rausgeköpft, aber der Ball kommt zurück zu Sané und landet dann bei Gnabry [Applaus].",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Diesmal hätte Hrádecký nichts mehr machen können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Es ist dann aber tatsächlich die letzte Chance in der ersten Halbzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "1:1 zur Pause im Spitzenspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Leverkusen mit einem Wechsel: Andrich raus, für ihn kommt Palacios, der Argentinier, der erst am Donnerstag von seiner Länderspielreise zurückkehrte.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Geht die Chancenflut jetzt genauso weiter wie in Halbzeit 1?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Boniface, kurz weggerutscht, geschaut und einfach mal auf den Kasten aus 50 Metern.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Man könnte meinen, ein Traumtor reicht den Leverkusenern nicht.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Es ist natürlich auch ein Stürmerduell zwischen Boniface und Kane.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Beide stehen bei vier Treffern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Wer legt jetzt wieder vor?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Da ist der Engländer, Kane, mit der Riesenchance, und den lässt er liegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Aber es ist auch eine überragende Tat von Hrádecký.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Die zweite Halbzeit kann, was die Chancen angeht, dann aber nicht mehr ganz mit der ersten mithalten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Gute Viertelstunde noch zu spielen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Leverkusen über Wirtz und Boniface im Zusammenspiel, und dann ist Wirtz durch, und Luft anhalten in der Allianz Arena.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Die Riesenchance für die Gäste auf das 2:1, klasse gespielt von Boniface und Wirtz.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Natürlich lebt das Spiel jetzt von der Spannung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Gibt es noch einen Sieger im Spiel um den ersten Platz?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Kimmich kurbelt noch mal an, Boniface, Boniface und Ulreich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Auch hier Kompliment an den Keeper, diese Tat von Ulreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Schlussphase, was geht noch für die Münchner?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Musiala gegen Tah, kurzer Schlenker, aber dann ist der Ball erstmal weg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "De Ligt eingewechselt auf Tel, auch er eingewechselt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Tänzchen, Tel macht das gut, findet Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "2:1, 86. Minute, Erleichterung auch auf der Tribüne.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Drei Einwechselspieler bereiten vor, und Leon Goretzka vollstreckt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Die Einzelaktion von Tel ist entscheidend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Kimmich schaut und staunt über die Beinarbeit des 18-Jährigen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Und Goretzka bringt seinen FC Bayern vorerst an die Spitze der Bundesliga-Tabelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Kommt jetzt noch mal eine Antwort, eine Reaktion der Gäste?",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Kossounou schaltet sich natürlich mit in die Offensive ein.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Adli, neu im Spiel, Grimaldo.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Vielleicht wäre sogar noch Zeit für eine Ballannahme gewesen, aber Boniface' erster Instinkt lautet fast immer Abschluss.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Fünf Minuten Nachschlag gibt es obendrauf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Leverkusen probiert es noch mal.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Wirtz sucht Jonas Hofmann, Zweikampf gegen Davies.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Spiel läuft weiter, und wieder Kossounou mit langen Schritten Richtung Strafraum.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Eckball, aber Jonas Hofmann liegt am Boden, und Schiedsrichter Daniel Schlager soll sich die Szene noch mal angucken.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Und nach sehr kurzer Betrachtung der Bilder entscheidet Schlager auf Elfmeter.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Eine Szene für die Kommentarspalten im Internet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Es gibt eine Berührung, und es ist ein Foul.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Hofmann macht es natürlich auch abgezockt.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Vierte Minute der Nachspielzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Palacios, wie ausgeschlafen ist der Argentinier nach den Reisestrapazen?",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Palacios, 2:2.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Leverkusen zu diesem Zeitpunkt wieder Tabellenführer und im Partymodus.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Thomas Tuchel hat weiterhin enormen Gesprächsbedarf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Ulreich ist noch dran, aber zu platziert geschossen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Ein Wahnsinn in der Allianz Arena.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Topspiel stand drauf, und Topspiel ist auch drin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Und noch ist nicht Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Eckball Bayern, 90.+8.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Thema Standard, und Leverkusen muss den Ball einfach mal rein damit.",
+        "kontext": "Bayer 04 Leverkusen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Und dann Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Das Stadion bebt, aber es ist Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Gleich drei Münchner in der verbotenen Zone, und danach ist Feierabend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Bayern München und Bayer Leverkusen trennen sich am 4. Spieltag nach einem packenden Duell mit 2:2.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 108,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 109,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

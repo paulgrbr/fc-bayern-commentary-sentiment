@@ -1,0 +1,942 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 24,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "VfB Stuttgart",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.47"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Benjamin Brand",
+    "kommentator": "Moritz Zschau"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Fünf Tage vor dem Champions-League-Kracher gegen Leverkusen sind die Bayern in Stuttgart gefordert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Da gilt es, den vollen Fokus auf das Spiel heute zu legen, doch der ist erstmal noch nicht ganz da bei den Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Sané und Davies lassen Vagnoman da durchlaufen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Glück für die Bayern, dass Vagnomans Abschluss eher einer Rückgabe gleicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Am letzten Spieltag hat der Rekordmeister beim 4:0 gegen Frankfurt schon ein Statement gesetzt, gerade nach den viel kritisierten Auftritten gegen Bayer in der Liga und Celtic in der Champions League.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die erste Viertelstunde ist vorbei, die Bayern kommen über Michael Olise.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Nübel ist zum ersten Mal gefordert.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Stuttgart hat aus den letzten fünf Spielen nur vier Zähler geholt, deshalb ist der VfB auch auf Rang 7 abgerutscht.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Jetzt soll es ausgerechnet gegen die Bayern wieder aufwärts gehen.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Stuttgart macht das eigentlich sehr ordentlich in den ersten 20 Minuten, dann aber dieses Missverständnis zwischen Jeltsch und Vagnoman.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Jetzt hat auch der VfB Glück.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Es ist nicht erklärbar, was da in der Kommunikation zwischen Jeltsch und Vagnoman schief läuft.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Fakt ist, solche Geschenke solltest du den Bayern nicht zu oft machen, denn normalerweise lässt Musiala solche Chancen nicht ungenutzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Eine halbe Stunde ist gleich vorbei.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Beiden Mannschaften ist der Respekt voreinander durchaus anzumerken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Woltemade auf Leweling, warum denn auch nicht einfach mal aus der Distanz draufhalten?",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Lewelings letzter und einziger Treffer in dieser Saison ist schon ziemlich lange her, im August letzten Jahres gegen Mainz.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Aber der VfB übernimmt jetzt mehr und mehr das Kommando.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Leweling Doppelpass mit Vagnoman, stark gemacht, immer noch Leweling, wollte durch für Undav.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Beste Stuttgarter Möglichkeit, und das ist super herausgespielt.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Die Bayern kommen überhaupt nicht in die Zweikämpfe, weil der VfB das so schnell und zielstrebig ausspielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Es fehlt allein die Krönung, und Undavs Abschluss touchiert noch den Pfosten.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Es ist die bislang mit Abstand beste Phase der Schwaben.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Sané rutscht da weg und darf wieder auf Vagnoman.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Der verzögert und spielt dann auf Stiller.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Traumtor!",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Und dieses 1:0 ist absolut verdient, weil der VfB sich deutlich mehr Chancen erarbeitet.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Vagnoman behält die Übersicht, und Stillers Abschluss ist nahe der Perfektion.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Keine Chance für Manuel Neuer.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Stillers erster Treffer, und was für einer!",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Der VfB führt also nach 34 Minuten.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Sollte es heute tatsächlich einen Dreier geben, wäre das der 50. Pflichtspielsieg für Sebastian Hoeneß als Trainer des VfB.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Kurz vor der Pause wird Sané von Chabot gefoult.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Das gibt Freistoß und Gelb für den Stuttgarter Verteidiger.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Thomas Müller übernimmt den Standard, direkter Versuch, am Ende aber eine leichte Aufgabe für Alexander Nübel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Nur eine Minute später langer Ball von Nübel, der kommt allerdings als Boomerang wieder zurück.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Sané in den Lauf von Olise, Michael Olise, Ausgleich!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "So gut drauf gegen Frankfurt hat Olise schon getroffen, jetzt legt er nach mit Saisontor Nummer 8.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Aber der Treffer wird lange vom VAR auf Abseits überprüft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Letztendlich wird er gegeben, weil die kalibrierte Linie gleiche Höhe anzeigt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Stuttgarter Restzweifel an dieser Entscheidung bleiben, aber mehr dazu später.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Fest steht, Olise bleibt ganz cool vor Nübel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Den Bayern gelingt in der 45. Minute das 1:1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Das ist dann auch das Halbzeitergebnis.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Vincent Kompany dürfte damit zufriedener sein als die Stuttgarter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Vor allem Sebastian Hoeneß moniert immer noch eine falsche Abseitsentscheidung.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Was drinnen wirklich besprochen wurde, bekommen wir leider nicht mit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "45 Minuten bleiben beiden Teams noch für drei mögliche Punkte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Der VfB eröffnet den zweiten Abschnitt.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Kim köpft genau zu Woltemade, Leweling auf Undav, Dennis Undav!",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Neuer ist zur Stelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Ein Treffer hätte aber ohnehin nicht gezählt, Abseits angezeigt, alles richtig gesehen vom Schiedsrichter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Das Hinspiel ging mit 4:0 deutlich an den Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Nach einer Stunde ist im Rückspiel noch alles offen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Ecke von Olise, direkt aufs Tor gezogen, Nübel muss dahin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Frecher Versuch vom Franzosen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Insgesamt werden die Münchner jetzt aber stärker und stärker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Musiala, Olise auf Kane, gute Bewegung von Harry Kane, beim Abschluss fehlt aber der nötige Druck hinter dem Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Rund 25 Minuten bleiben noch regulär.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Kompany schickt sein Team nach vorne.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Nübel spielt den Ball zu Stiller, Leon Goretzka!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Dieser Jubel steht mal für sich selbst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Leon Goretzka mit einer absoluten Willensleistung, damit dreht er das Spiel für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Nübel bringt Stiller mit diesem riskanten Ball in Bedrängnis.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Goretzka klebt an Stiller besser als jeder Bastelkleber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Das vierte Saisontor für Leon Goretzka, und plötzlich ist jetzt wieder der VfB gefordert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Vagnoman, Woltemade für Mio, gerade mal drei Minuten auf dem Platz, für Leweling gekommen.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Stuttgarts Joker gehören ja zu den Besten der Liga.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Elfmal haben seine Einwechselspieler schon getroffen, aber so langsam läuft den Schwaben die Zeit davon.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "85. Minute, wieder Woltemade als Ableger, und da wird geblockt von Olise.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Nächster Anlauf, und noch mal Woltemade.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Es fehlen jetzt aber die zwingenden Aktionen beim VfB.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Kompany bringt kurz vor Schluss noch drei frische Kräfte, die helfen sollen, die Führung über die Zeit zu bringen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Ito, Müller und Gnabry sind neu mit dabei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Gnabry fängt gleich mal einen Ball von Nübel ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Kane aus rund 18 Metern, der ist dann einer für Nübel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Wir sind in der 90. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Stuttgart wartet weiter vergeblich auf die Chance zum Ausgleichstreffer.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Vagnoman mit dem zu kurzen Rückpass für Nübel, Coman geht vorbei, Coman zum 3:1, Deckel drauf!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Oh, Abfahrt für Vincent Kompany.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Dieser Jubel zeigt, da stimmt alles zwischen Team und Trainer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Das 3:1 sorgt für pure Ekstase bei den Münchnern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Aber ist denn schon wieder Weihnachten?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Der VfB verteilt zumindest mehr Geschenke als der Weihnachtsmann.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Bei allen drei Gegentreffern hinterlässt Stuttgarts Abwehr keinen guten Eindruck.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Diesmal kommt der Fehler von Vagnoman, Coman sagt artig danke.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Einige haben gedacht, dass die Bayern in Stuttgart Punkte liegen lassen könnten, doch der Rekordmeister marschiert unbeirrt in Richtung weißer Schale.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Die letzte Aktion des Spiels gehört dann auch noch mal den Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Freistoßmöglichkeit für Harry Kane, etwas zu hoch getreten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Der Engländer bleibt heute ohne Treffer, darf aber trotzdem jubeln, denn die Bayern gewinnen mit 3:1 in Stuttgart.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 90,
+        "text": "Der Abstand von acht Punkten auf Leverkusen bleibt also bestehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 91,
+        "text": "Es scheint, als wären die Münchner bereit für den großen Showdown im Achtelfinale der Königsklasse gegen Leverkusen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

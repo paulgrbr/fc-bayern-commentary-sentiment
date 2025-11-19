@@ -1,0 +1,992 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 29,
+    "heim_auswaerts": "Heim",
+    "gegner": "1. FC Köln",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.69"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Frank Willenborg",
+    "kommentator": "Martin Quast"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Bayern in Weiß-Rot gegen Köln in Rot-Weiß: In den Farben vereint, in der sportlichen Situation Lichtjahre getrennt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Hier der Blick von Platz 2, dort der Blick in den Abgrund.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Bayern will die Meisterschaft Leverkusens auf dem Sofa verhindern, Köln die fast unmögliche Sensation in München schaffen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Der erste Aufreger des Spiels sieht schon mal derbe aus: Das linke Sprunggelenk von Harry Kane in 90°-Stellung, aber nichts Ernsthaftes passiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Gelb für Christensen, komplett richtig.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Bayerns Trainer Tuchel ist gelb gesperrt, nur Zuschauer hoch oben in der Loge.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Seine Bilanz in der Rückrundentabelle: Platz 6, 11 Spiele, fünf Siege, fünf Niederlagen, ein Remis.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "So schwach waren die Bayern letztmals vor 32 Jahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Köln traut sich was zu.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Neunte Minute: Bayern in weißen Trikots, roten Hosen, Köln in roten Trikots, weißen Hosen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Adamyan, Ljubičić, Alidou – da kann man wegen der Farben schon mal durcheinander kommen.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Wer ist denn hier der große Favorit?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Top-Chance für Alidou, der kann respektive muss eigentlich das 1:0 hier machen.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Kölns Coach Schulz angetan.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Gegenüber auf der Bayern-Bank diesmal Tuchels Assistent Zsolt Löw.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Seine Chef-Premiere hatte er schon in der Hinrunde, da war Tuchel gegen Man United ebenfalls gesperrt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Die Bayern auf sieben Positionen gegenüber dem letzten Arsenal-Spiel verändert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Da ist ein bisschen Gewöhnungszeit durchaus eingepreist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Nach 12 Minuten ist es Tel mit dem ersten Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Kölns Keeper Schwäbe problemlos.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Wer weiß, was dieser Last-Minute-Sieg des FC gegen Bochum alles bewirkt.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Gerade der Abstiegskampf lebt doch so sehr von Wille, Leidenschaft, Glaube an den Lucky Punch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Ein Team, das sowas mal erlebt hat, ist unberechenbar.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Dem muss man alles zutrauen in Sachen Rettung, selbst in München.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "20. Minute: Finkgräfe auf Adamyan, Ulreich – super Chance der Gäste.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Aber was macht Bayerns Abwehr da?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Das ist die Fortsetzung der schwachen Rückrunde: 11 Spiele, keines ohne Gegentor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Das hier ist die Einladung zum nächsten Gastgeschenk.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Ulreich verhindert Schlimmeres, der Mann, der Manuel Neuer vertritt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Die Nummer 1 hat Adduktorenprobleme, Gnabry mit Muskelfaserriss auch draußen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Nach einer halben Stunde: Köln mit den dicken Chancen.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Macht Bayern jetzt nicht gerade komplett zuversichtlich, was den nächsten Gegner Arsenal angeht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Müller, Kane, Guerreiro – was ein Ärger, dass da hinten einer mit acht Armen steht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Super Reaktion von Marvin Schwäbe.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Müller blitzgescheit, Kane – das kannst du nicht lernen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Und Guerreiro weiß jetzt, wo Marvin Schwäbe wohnt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Super Spielzug der Bayern mit dem guten Ende für Köln.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Der FC macht das wirklich gut, hinten und vorne ebenso mutig.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Aufmüpfig, meint er diesmal weniger Not für Sven Ulreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "35. Minute: Kimmich, Hübers, Coman, Müller, Kane – Alu!",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Nichts mit Treffer Nummer 33, dafür aber zum 19. Mal in dieser Saison das Torgestänge als Bayern-Gegner.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Über eine halbe Stunde ist der Torgarant nicht zu sehen, aber dann und zwar richtig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Minuten später wieder Kane, jetzt gegen Chabot.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Harry Kane, für den Kölner ist das wie eine Erscheinung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Er hat den leibhaftigen getroffen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Das Duell ist ja fast ungerecht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Vom Drehwurm wird sich der Verteidiger erst mal erholen müssen.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Und wieder nur 3 Minuten später: Pavlovic, Coman, Kimmich und Harry Kane zum dritten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Es bleibt dabei: Schwäbe macht da einfach nicht mit.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Kleiner überraschender Fakt: Köln hat 2024 seltener verloren als der FC Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "2 Minuten vor der Pause: Der FC darf mal wieder ungestört.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Finkgräfe, Alidou – du liebes bisschen, was werden zu dieser nachlässigen Bayern-Verteidigung wohl die Arsenal-Scouts im Stadion notieren?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "So wird gegen Englands Topteam vermutlich nichts werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Dann haben Bayerns Ersatztrainer wieder ihren Chef bei sich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Hin und her geht es unmittelbar vor der Pause: Kimmich, Müller, über Umwege der Ball zu Tel und die nächste Kerbe wird ins Holz geschnitzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "20 Mal Pfosten oder Latte in dieser Saison, man nennt es auch Ligarekord.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Danach Pause in München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Ein mehr als respektables 0:0 der Kölner und der Blick des FC geht nach dem Bayernspiel auf zwei eminent wichtige Partien: zwei Endspiele, in denen sich voraussichtlich das eigene Schicksal entscheidet.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Zu Hause gegen den Tabellenletzten Darmstadt, dann beim härtesten Konkurrenten um den Relegationsplatz in Mainz.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die erste Aktion der zweiten Hälfte: Der Dauerballbesitz der Bayern findet seine Fortsetzung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Kimmich, Schwäbe, Coman – und jetzt wird's schmerzhaft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Ein ganz harter Moment für Kingsley, dessen Saison hier höchstwahrscheinlich vorüber ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Schwere Muskelverletzung, der nächste Ausfall bei den Bayern, die in Sachen kaputte Bänder, Sehnen und Co. diese Saison wirklich die Seuche gepachtet haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Coman, Gnabry – Bayern vor dem Arsenal-Rückspiel mit einem offensiven Lazarett.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Gute Besserung an dieser Stelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Für Coman kommt Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Direkt danach: de Ligt, Kimmich, Müller, Kimmich, Musiala, Mazraoui, Guerreiro, Musiala – sein zweiter Ballkontakt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Der legt sich Gegner immer wieder gerne zurecht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Eine Minute später: Thomas Müller, Kane, Müller und dann rüber zu Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Der Mann zwischen den Pfosten heißt Marvin Schwäbe und das ist ein Uhrwerk, das zuverlässig tickt.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Tel macht ihn frisch, aber da steht ja noch die gelbe Wand.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Kann das Arsenal und die Kölner Chance sein?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Bayern hat in dieser Saison unmittelbar vor den Partien in der Königsklasse nur drei von neun Spielen gewonnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Tel entwischt jetzt Thielmann, Müller fliegt vorbei.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Unter Trainer Schulz hat Köln auswärts noch kein einziges Mal verloren, aber gewonnen auch noch nie.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Alle fünf Gastspiele endeten unentschieden.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Gute Stunde gespielt und jetzt wird's kurios: Adamyan Handspiel, Freistoß Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Ljubičić hat schon Gelb aus Hälfte eins, heißt also jetzt Gelb-Rot.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Von wegen alle Unparteiischen sehen das nicht und deshalb keine Verwarnung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Eben noch in London das glasklare Handspiel ungeahndet, jetzt schon wieder Kinderfehler.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Bayern braucht mehr Esprit, Köln noch gut 20 Minuten Durchhaltevermögen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Guerreiro, Tel, Musiala – und in der Summe jetzt absolut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Schwäbe hat bislang alles weggefischt, aber irgendwann sind dann auch dessen großartige Fähigkeiten nicht mehr ausreichend.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Gut 20 Minuten später: Nichts passiert in diesem Abschnitt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Jetzt schon die Schlusssekunden der offiziellen Spielzeit: Kimmich, Upamecano – du lieber Gott, Waldschmidt und dann tickt die große Kölner Chance auf das nächste Wahnsinnsfinale.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Upamecano mit seinen Aussetzern, der kann langsam ein Buch mit all diesen Kapriolen füllen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Und er kann sich einfach nur bei Ulreich bedanken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Die Null steht zum ersten Mal übrigens in dieser Rückrunde.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "90 plus 3: Kane verliert die Kugel, zwei Kölner, aber keiner auf Zack.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Das ist nur Müller und so geht die Entscheidung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Müller höchstpersönlich schließt die Bude hier ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Müller profitiert dabei von Kölner Uneinigkeit: Christensen, Waldschmidt, Heintz – jeder überlässt irgendwie dem anderen das Zugriffsrecht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Und damit ist die Niederlage besiegelt.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Durch den deutlichen Mainzer Sieg hat Köln nun schon vier Punkte und 11 Tore Rückstand auf den Relegationsplatz.",
+        "kontext": "1. FC Köln",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 94,
+        "text": "Der FC Bayern dagegen muss an diesem Spieltag nach 11 Jahren Dauermeisterschaft Leverkusen zum Titel gratulieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 95,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 96,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

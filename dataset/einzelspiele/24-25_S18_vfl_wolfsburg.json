@@ -1,0 +1,932 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 18,
+    "heim_auswaerts": "Heim",
+    "gegner": "VfL Wolfsburg",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.71"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Tobias Reichel",
+    "kommentator": "Daniel Gahn"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der FC Bayern ist mit zwei Siegen in das Jahr 2025 gestartet – der beste Jahresauftakt für den Rekordmeister seit fünf Jahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Gegen Wolfsburg wollen die Bayern in Rot ihre Erfolgsserie natürlich weiter ausbauen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Leroy Sané mit dem ersten offensiven Ausrufezeichen in der dritten Minute: starker Antritt, der Abschluss dann eine kleine Reminiszenz an Arjen Robben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Die Latte steht einer frühen Führung der Kompany-Elf im Weg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "In diesem Spiel wird früh klar, dass es mal wieder schwierig werden könnte für die Wolfsburger, die noch nie bei den Bayern gewinnen konnten.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Täglich grüßt das Murmeltier: 27 Mal haben sie es versucht, 27 Mal gab es für die Wölfe keinen Dreier bei den Bayern.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Kane in der vierten Minute: Bayern spannt die Muskeln an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Hasenhüttels Wolfsburger müssen sich in der Anfangsphase defensiv strecken.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Bei den Hausherren sind Musiala und Müller zunächst auf der Bank, in der Offensive Kane auf Coman, der völlig frei, aber im Abseits steht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Keine zehn Minuten gespielt, Münchner Dominanz, und Wolfsburg kommt bislang kaum aus der eigenen Hälfte heraus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Nach den jüngsten Siegen gegen Gladbach und Hoffenheim drängen die Bayern gegen ihren Lieblingsgegner auf die Führung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Der lange Ball auf Sané, Koulierakis mit beiden Händen am Münchner am Boden, doch Schiedsrichter Reichel lässt weiterspielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Der VfL läuft rund zehn Minuten fast nur hinterher.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Dann mal Amoura gegen Upamecano, der Wolfsburger bricht ab und geht zu Boden.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Der Angreifer muss behandelt werden, kann aber wenig später weiterspielen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Wölfe-Trainer Ralph Hasenhüttel setzt in diesem Spiel von Beginn an auf Lukas Nmecha.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Gute Viertelstunde gespielt, die Bayern mit sehr viel Ballbesitz – der übliche Modus Operandi also der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Der auffällige Coman, guter Antritt, Kane drüber, aber der Angreifer am Boden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Harry Kane von Koulierakis getroffen, kein Pfiff von Schiedsrichter Reichel, auch Köln meldet sich wegen dieser Szene nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Kane mit einer humpelnden Protestbewegung, doch allen Protesten zum Trotz kein Elfmeter für die Bayern, die weiterhin vor heimischer Kulisse alles im Griff haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Es stimmt viel bei Bayern: die Übersicht, die Pass- und Laufwege.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Goretzka mit Platz aus der Distanz, warum denn nicht? 1:0 Bayern, 20. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Leon Goretzka, wuchtig, hart und trocken, sein zweites Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Goretzka bei den Münchnern im Sommer schon auf dem Abstellgleis, nun lässt er Taten sprechen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Zuvor stark im Zweikampf, Kane mit dem Auge für Goretzka, und die Wolfsburger Abwehr mit zu viel Abstand.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Die Führung hochverdient.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Hört, hört: Leon Goretzka macht sportlich wieder von sich reden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Alles scheint so wie immer, wenn die Wölfe zu Gast in München sind.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Bayern nach der Führung weiter hungrig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Davies dazwischen und aus dem Hintergrund kommt der Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Wolfsburg weiter ohne einen einzigen Torschuss.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Kurz darauf Freistoß für die Gäste, Standard durchaus eine Spezialität aus der Autostadt.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Wimmer, die spielerische Variante auf Gerhardt, Amoura plötzlich frei, und dann ist es passiert: der Ausgleich, 24. Minute.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Erstes Saisontor von Amoura, dafür gibt es natürlich die extra Umarmung vom Trainer.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Der erste Torschuss der Wolfsburger, der VfL mitten rein in die bayerische Überlegenheit.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Wimmer ungestört auf dem Weg in Richtung Strafraum, Goretzka unglücklich dazwischen, der Rest sehr cool von Amoura.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Eiskalte Wölfe vor dem Tor der Bayern.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Das 1:1 durchaus ein Wirkungstreffer.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Bayern braucht im Anschluss etwas, um die Dominanz der Anfangsphase wiederherzustellen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Freistoß München, Fall für Michael Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Gegen Bochum hat er zuletzt getroffen per Freistoß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Olise mit Schnitt, und Grabara mit einer Flugparade, stark von beiden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Zehn Minuten vor der Pause, kurz darauf wieder die Bayern mit Kimmich und Sané als Ballabfang-Kollektiv.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Olise, und der passt: 2:1 Bayern, 39. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Der Rekordmeister wieder in Führung, sechstes Saisontor des Franzosen, der zuletzt neun Spiele in der Liga auf einen Treffer warten musste.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Vavro bekommt den Ball durch die Hosenträger, Grabara sieht den Ball wohl erst zu spät und dann mit einer nicht ganz so Hollywood-verdächtigen Parade.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Bayern wieder obenauf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kurz vor der Pause Wolfsburg im Aufbauspiel, und was ist das denn bitte?",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Querpass auf [Applaus] Wahnsinn, Koulierakis von allen guten Fußballgeistern verlassen, fast schon mit einer Einladung für den Engländer.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Vavro gerade noch so dazwischen, die anschließende Ecke bringt nichts ein.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Der VfL insgesamt offensiv sehr zurückhaltend.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Die 44. Minute, Amoura am Ziel vorbei.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Rein in die Nachspielzeit dieser einseitigen ersten Hälfte, noch mal Freistoß für die Bayern, ein Fall für Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Grabara, München setzt nach und drückt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Kingsley Coman, gute Flanke, Kimmich, Tor: 3:1 für den Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Joshua Kimmich per Kopf, Sachen gibt's.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Doch dann wird der Treffer überprüft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Schiedsrichter Reichel zeigt es an: Das war nicht der Kopf, sondern der Oberarm von Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Richtig gesehen, Kimmich will den Ball mit dem Kopf drücken, ihn aber dann mit der Schulter ins Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Der Treffer zählt nicht, ergo nur eine 2:1-Pausenführung für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Keine Wechsel zur Halbzeit, auch kein Wechsel in Sachen Dominanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "Sané, Leroy Sané, seine Zukunft wie auch die von Kimmich, Davies, Musiala und Co. derzeit das Thema an der Säbener Straße.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Gute Stunde gespielt, Freistoß für die Bayern, Olise scharf und schnittig, Goretzka, 3:1 Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Doppelpack für den Münchner, klasse Kopfball, starker Abschluss des einst schon abgeschriebenen Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Nummer 8 mit einer absolut eindrucksvollen Leistung an diesem Nachmittag.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Sané zuvor nicht strafbar im Abseits, Goretzka dann wuchtig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Leistung statt öffentliches Leiden, so spielt man sich wieder in die Startelf des Rekordmeisters.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Wolfsburg auf der Gegenseite seit der 44. Minute ohne einen Torschuss.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Dann dieser lange Ball auf Coman, plötzlich so frei, und dann die Riesenchance, hier alles klar zu machen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Doch der Franzose verpatzt den Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Und apropos wackelig: das Abwehrverhalten der Wölfe, mehr als nur das.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Es folgt die Zeit der Wechsel bei den Bayern: Gnabry, bei den Gästen Tiago Tomás, Fran Wind und Svanberg gekommen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Doch an der Spielrichtung ändert das wenig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Die Bayern wollen nachlegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Laimer, Kane am Ziel vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Im Anschluss kommt bei den Münchnern Musiala für Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Rund zehn Minuten noch, und tatsächlich auch mal wieder Wolfsburg im Vorwärtsgang.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Neuer hält gegen Amoura.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Die Schlussphase dann wieder mit den Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Davies schlampig, die Wölfe dazwischen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Tiago Tomás, ein Antritt, ein Solo, das Auge für Amoura, der Anschlusstreffer.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Auch Amoura mit dem Doppelpack kurz vor Schluss, nur noch 2:3 aus Sicht der Gäste, 88. Minute.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Ausgangspunkt der Ballverlust von Davies, der Kanadier hat da wohl gerade von einem neuen hochdotierten Vertrag geträumt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Tiago Tomás als Tempoläufer, Bayerns Defensive kommt nicht hinterher, der Abschluss von Amoura kaiserlich mit dem Außenspann, Neuer machtlos.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Amoura mit seinem achten Saisontor, Hoffnung für die Niedersachsen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Dann allerdings wieder die Bayern: Gnabry, Grabara, Vavro auf der Linie, nicht die Entscheidung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Bayern zwar mit viel mehr Ballbesitz und Abschlüssen, aber eine gewisse Spannung bleibt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Noch mal Wolfsburg, Arnold, Koulierakis mit dem Kopfball über das Tor.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Es bleibt beim 3:2, danach ist Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 89,
+        "text": "Und es ist wie immer, wenn Wolfsburg zu den Bayern fährt: Am Ende jubeln die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 90,
+        "text": "Dank Goretzkas Doppelpack feiert der FC Bayern den nächsten Sieg und grüßt weiter von der Tabellenspitze.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

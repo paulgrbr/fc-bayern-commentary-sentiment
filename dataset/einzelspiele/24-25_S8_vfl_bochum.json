@@ -1,0 +1,1022 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 8,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "VfL Bochum",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.72"
+  },
+  "ergebnis": {
+    "bayern": 5,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Florian Exner",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Tief im Westen ist der Stern des Südens zu Gast.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Bochum in Dunkelblau empfängt den FC Bayern in Rot.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Olise auf Laimer und dann geht Olise zu Fall.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Das Spiel läuft weiter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Musiala und jetzt gibt es für Schiedsrichter Florian Exner Zeit, sich die Szene noch mal anzuschauen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Also, Masovic' Arm ist da sehr weit oben und draußen, da gehört er nicht hin, aber es reicht aus Sicht von Exner nicht für einen Strafstoß.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Weiter geht's mit Eckball für die Münchner in der sechsten Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Palhinha und Drewes.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der neue VfL-Cheftrainer Markus Feldhoff sagt, es ist das einfachste Spiel des Jahres, alle freuen sich, auch losgelöst vom Tabellenplatz.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "\"Klingt nach \"dabei sein ist alles\", aber Punkte würden dem Tabellenletzten ganz gut zu Gesicht stehen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Und vielleicht gibt es den Überraschungsdreier für den VfL.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Broschinski, Neuer mit dem Sonntagsausflug und jetzt wird das Stadion laut.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Doch dann findet Kim noch rechtzeitig die Mutetaste auf der Fernbedienung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Starke Aktion von Kim, bei dem sich Manuel Neuer bedanken kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Die Fankritik am Keeper nimmt zu.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Von 13 Torschüssen hat Neuer in dieser Saison nur sechs gehalten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Damit hat der Bayern-Keeper die schlechteste Quote aller Bundesliga-Torhüter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Tabellenführung oder Krise?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Klingt paradox, aber aus medialer Sicht gibt es häufig nur Extreme, wenn es um Bayern München geht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Davies, Vorteil, Laimer, Drewes und jetzt entscheidet er dann doch noch auf Freistoß.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Interessante Vorteilsauslegung des Schiedsrichters, der aus dieser Situation jetzt eine Doppelchance macht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Gute Position für Kimmich oder Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Der Franzose macht es und wie! 16. Minute, 1:0 FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Freistoß, das passende Tempo und dann senkt sich der Ball wie die untergehende Sonne hinter der Mauer ins Netz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Fünf Saisontreffer für den Franzosen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Feldhoff setzte bis zum Gegentor auf Sicherheitspolitik gegen die Münchner, mehr Defensive wagen, aber jetzt ist die Offensive gefragt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Broschinski, im dritten Bundesliga-Jahr in Folge ist Bochum nach acht Spieltagen noch sieglos.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Das gab es noch nie zuvor in der höchsten deutschen Spielklasse.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Nun gut, kein Alleinstellungsmerkmal, auf das man stolz sein sollte.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Der folgende Eckball, Masovic.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Bochum ist im Spiel, das wird auch Vincent Kompany registrieren, aber im Daily Business in der Bundesliga läuft es bisher rund.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Kimmich, Musiala mit Köpfchen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "26. Minute, 2:0 FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Schöne Variante und Musiala, der Schlüsselspieler oder vielleicht sogar der Schlüsseldienst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "So viele Türen, wie sich in der Offensive durch seine Präsenz öffnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Das vierte Saisontor für den 21-Jährigen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Gute halbe Stunde gespielt, die Herren in Rot haben sich eingegroovt, aber einer hat noch nicht auf sich aufmerksam machen können: Harry Edward Kane, hier am Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Kane, zuletzt mit dem Dreierpack gegen Stuttgart, nähert sich langsam an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Die Bochumer sind nach einem guten Start jetzt zunehmend mehr in der Defensive gefordert.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Nächstes Beispiel: Kimmich auf Musiala, der hat sein Schlüsselbund dabei und ist kaum zu stoppen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Es wäre übrigens der 50. Sieg der Bayern gegen den VfL, aber noch ist hier viel Zeit auf der Uhr, nur in der ersten Halbzeit nicht mehr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "40. Minute, Bayern weiter druckvoll.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Musiala erst mit dem Ballgewinn und dann geht's wieder mit Tempo von rechts nach links.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Coman und erneut Musiala, der sprüht nur so vor Spielfreude.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Toller Abschluss und na ja, ein bisschen weiter drüber war er schon, aber Kompany kann zufrieden sein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Seine Mannschaft geht mit einer 2:0-Führung in die Kabine.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Feldhoff wechselt einmal in der Pause.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Gamboa kommt für Passlack, der bereits Gelb gesehen hat und es mit Davies und Coman aufnehmen musste.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Was hat sich der VfL für den zweiten Durchgang überlegt?",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Er steht jetzt etwas höher.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Gamboa gegen Palhinha, es gibt den Freistoß für die Hausherren und so nimmt man auch die Fans wieder mit.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Wittek, Wittek auf Neuer, aber Bochum bekommt die zweite Chance.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Gamboa, der viel Betrieb macht.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Neuer, der sieht jetzt natürlich, dass die Herren in Blau mal ihre Hälfte verlassen haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Da ist Platz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Musiala, Olise und Coman, 3:0, aber Rolle rückwärts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Das Tor zählt nicht und das ist auch korrekt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Coman beim Zuspiel von Olise im Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Die tolle Kombination wird also nicht belohnt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Das wäre wohl der Knockout gewesen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Nur ein Sieg aus den vergangenen fünf Pflichtspielen, der Rekordmeister arbeitet an der Trendwende.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Kimmich, Musiala, der ist überall zu finden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Kane, Harry Kane, 57. Minute, 3:0 FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Immer wieder Musiala, wie eine blaue Lampe Insekten anzieht, zieht Musiala Gegenspieler an und das verschafft seinen Teamkollegen Platz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Kane, trocken und nüchtern, Saisontor Nummer 9 am achten Spieltag.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Zahlen lügen nicht, er ist und bleibt in Topform.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Wenige Minuten später hat der überragende Mann der Partie Feierabend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Musiala verlässt den Platz, mit ihm Palhinha und Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Neu dabei: Müller, Sané und der Ex-Bochumer Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Und die eingewechselten Spieler brennen noch mal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Bochum hängt komplett in den Seilen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Medic in die Füße von Sané, Leroy Sané, 65. Minute, es steht 4:0 für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Medic darf diesen Ball so natürlich nicht spielen und was Sané dann damit macht, ist Extraklasse.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Den kann man nicht halten, perfekt platziert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Im August 2022 und im September 2023 gab es jeweils ein 7:0 für die Bayern gegen Bochum.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Auch das ist, Stand jetzt, noch ein realistisches Ergebnis.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Der VfL muss jetzt noch 20 Minuten überstehen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Das Problem: Keiner hat den Bayern gesagt, dass sie aufhören sollen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Coman, Rums, 71. Minute, 5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Der pure Wahnsinn, was der FCB hier für Distanzschüsse auspackt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Kategorie Traumtor vom Franzosen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Da kann sich Drewes strecken, wie er will, da ist nichts zu holen für den Keeper.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Jetzt fehlen nur noch zwei Treffer, um einen weiteren 7:0-Erfolg zu feiern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Rein in die Schlussphase, die Partie entschieden, aber Bochum lässt sich nach langer Zeit auch mal wieder im gegnerischen Sechzehner blicken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Sissoko, der eingewechselte Miyoshi sucht, aber findet keinen Abnehmer.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Feldhoffs kommende Aufgaben mit Bochum: Frankfurt, Leverkusen und Stuttgart.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Da hat jemand bei der Spieltagsplanung Humor bewiesen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Null Punkte wären keine Überraschung, aber vielleicht gelingt ihm ja zumindest eine große Überraschung.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Gegen Bayern bleibt sie aus.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Müller, wunderbar auf Goretzka, Drewes, der muss natürlich rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Goretzka, Claud Müller, hier eine Torvorlage.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Der 50. Sieg der Münchner gegen Bochum ist nur noch eine Frage der Zeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Keine 10 Minuten mehr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Coman und Tel machen sich noch mal auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Tel, Drewes, der gut den Winkel verkürzt, aber die Bayern setzen nach.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Vielleicht will er seiner alten Liebe einfach nicht weh tun.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Bochum hat schließlich auch genug gelitten.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Wenig später ist Feierabend.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 98,
+        "text": "Der FC Bayern zeigt nach der Pleite in der Champions League eine Reaktion in der Bundesliga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 99,
+        "text": "Nach dem 5:0-Erfolg beim VfL Bochum grüßt man wieder von ganz oben in der Tabelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

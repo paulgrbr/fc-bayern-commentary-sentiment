@@ -1,0 +1,822 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 16,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "VfL Wolfsburg",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.61"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Sascha Stegemann",
+    "kommentator": "Adrian von der Groeben"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der VfL Wolfsburg in giftgrün von rechts nach links hat den FC Bayern München zu Gast, und die Gastgeber halten in der vierten Minute ein freundliches Gastgeschenk von Raphaël Guerreiro.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 1,
+        "text": "Matthias Svanberg ist auf und davon gegen Manuel Neuer, aber die erste gute Möglichkeit gehört den Niedersachsen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Der Abschluss des Schweden ist zu unplatziert für den deutschen Nationaltorhüter.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Eine Minute später ist Jamal Musiala an der Strafraumkante.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Standards bei den Münchnern sind seit dem Sieg gegen Stuttgart ein Fall für Youngster Alexander Pavlović, und es wird gefährlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Gut getreten, aber am Fünfer behindern sich Müller und Kim.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "In der achten Minute erneut Freistoß für Bayern, erneut Pavlović, diesmal aus dem rechten Halbfeld, und wieder wird es gefährlich mit Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Der Freistoß bleibt an Bornauw hängen, dessen Kopfballkerze holt Kane ausgebufft runter, trifft den Ball aber dann nicht voll.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Die Bayern versuchen es offensiv über die Außen, um die Geschwindigkeitsvorteile auszuspielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Leidtragend ist in der 11. Minute Cedric Zesiger, der Schweizer mit dem Stellungsfehler gegen Sané und der frühen gelben Karte.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Bayern nach 20 Minuten mit über 70% Ballbesitz auf der Suche nach der Lücke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Wolfsburg steht kompakt und versucht, nach Balleroberung zu kontern, taktisch unterbrochen durch Alexander Pavlović.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Der 19-Jährige ganz routiniert auf Kosten einer gelben Karte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Noch wenig Highlights und Spielfluss, so schaut Felix Magath an der Seite von Dieter Hecking lieber auf das Smartphone.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Magath, der Wolfsburger Meistercoach 2009, der die Bayern 2005 und 2006 zum Titel führte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "In der 23. Minute der nächste Freistoß für die Gäste, weil Moritz Jenz Harry Kane foult.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Den Standard übernimmt Leroy Sané, zu zentral für Koen Casteels.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Doch die Münchner werden stärker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Fehlpass von Laimer, allerdings sofort zurückgeholt vom Österreicher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Leroy Sané bricht durch, dreht Zesiger ein und sucht Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Der Ball landet erneut bei Müller, und der legt ab für Guerreiro, aber vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Beste Gästechance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Sané mit Tempo und Zug zum Strafraum, der Ball für Müller schwer zu verarbeiten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Durcheinander im Wolfsburger Strafraum, und dann verzieht der Portugiese.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Die Hausherren sind in dieser Phase viel zu passiv.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Bayern kann sich den Gegner zurechtlegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Laimer auf Sané, Casteels pariert, aber der zweite Ball landet bei Alphonso Davies, und der flankt direkt auf Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Alutreffer und Glück für Wolfsburg bei dem gefühlvollen Kopfball von Thomas Müller.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Sorgenvolle Miene bei VfL-Coach Niko Kovač, denn der Rekordmeister ist immer dominanter und schnürt Wolfsburg um den eigenen 16er ein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Und irgendwann ist die Führung dann überfällig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "33. Minute, 1:0 für die Bayern durch Jamal Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Thomas Müller mit der optimalen Flanke, und Musiala mit seinem 26. Treffer im Bundesligaspiel, und das mit dem Köpfchen, eine Rarität.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Und dafür gibt's dann auch die Gratulation von Alphonso Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "10 Minuten danach: Bayern hat die komplette Spielkontrolle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Upamecano auf Müller, der behauptet den Ball gut und bedient den vor dem 16er hängenden Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Das 2:0, ein Traumtor aus 22 Metern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Der Kapitän der Three Lions beweist seine überragende Schusstechnik.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Das 21. Saisontor für den Bundesliga-Toptorjäger.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Casteels fliegt vergeblich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Alles läuft nach Plan für die Bayern und für Thomas Tuchel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Wolfsburg ist zu harmlos, bis kurz vor der Pause.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Und dann kommt diese Fackel von Maxi Arnold.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Der Anschlusstreffer aus dem Nichts für die Niedersachsen in der ersten Minute der Nachspielzeit.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Der Wölfe-Kapitän erwischt Manuel Neuer mit einem strammen Schuss im kurzen Eck und gibt seiner Mannschaft Hoffnung für den zweiten Durchgang und sorgt für Frust und Unverständnis bei den Bayern.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Denn nach der Pause werden die Hausherren selbstbewusster und stärker.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Aster Vranckx mit dem Diagonalball auf den eingewechselten Rogerio.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Gute Hereingabe, und in der Mitte verpasst Jonas Wind in der 56. Minute.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Gute Möglichkeit für den VfL Wolfsburg.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Zwei Minuten später die Wolfsburger erneut über links und wieder mit Rogerio.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Der Brasilianer lässt Laimer stehen, zieht zum Strafraum und zieht ab.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Neuer mit der Fußabwehr, aber der Ball ist noch heiß und landet beim eingewechselten Tiago Tomás.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Auch der Portugiese lässt Laimer stehen und dann vorbei.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Es ist die beste Phase der Wölfe bis hierhin.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Erst Rogerio, Neuer mit der Fußabwehr, und dann Tiago Tomás am Tor vorbei.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Die Bayern im zweiten Abschnitt offensiv teilnahmslos bis zur 73. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Nach einem Eckball der erste Abschluss von Alphonso Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Der folgende Abstoß von Casteels ist kurios.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Der belgische Schlussmann schießt Moritz Jenz ab und schenkt den Bayern die nächste Ecke.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Und Geschenke sollte man auch in der Weihnachtszeit nicht an die Bayern verteilen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Harry Kane scheitert an Casteels, allerdings stand der Engländer bei der Kopfballverlängerung von Upamecano klar im Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Doch plötzlich sind die Bayern wieder im Spiel mit Harry Kane, der sich gegen drei Gegenspieler behauptet und nur unfair gestoppt werden kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Freistoß für die Münchner aus zentraler Position, 30 Meter Torentfernung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Erneut eine Angelegenheit für Leroy Sané, aber nicht scharf genug geschossen, um Casteels in Bedrängnis zu bringen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Die zweite Hälfte im Vergleich zur ersten highlightarm und ohne Tempo.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Wolfsburg fehlen die Mittel, Bayern schon mit einem Bein in der Winterpause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Alexander Pavlović verzieht in der 85. Minute aus 20 Metern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Drei Minuten später stellt Alphonso Davies seine offensiven Qualitäten als Linksverteidiger unter Beweis.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Der riskante, aber öffnende Pass von Upamecano leitet einen Münchner Konter über Davies ein, und der Kanadier spielt sein Wahnsinnstempo aus, bedient Musiala, der spielt rüber zu Konrad Laimer, dessen Schuss wird geblockt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Aber ein starker Angriff der Münchner aus der eigenen Defensive.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Was kommt noch von den Wolfsburgern?",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "In der ersten Hälfte spät zugeschlagen durch ihren Kapitän Maxi Arnold, und wir sind bereits in der zweiten Minute der Nachspielzeit.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Und es ist wieder Maxi Arnold, der einen raushaut.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Manuel Neuer reißt die Arme hoch, ein unangenehmer Flatterball.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Es ist allerdings die letzte Möglichkeit und die beste in der zweiten Hälfte zum Ausgleich für die Niedersachsen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Nach einer dominanten ersten Hälfte mühen sich die Bayern in der zweiten Halbzeit zu einem insgesamt verdienten Sieg und schließen die Hinrunde auf Platz 2 ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 75,
+        "text": "Thomas Müller verrät Harry Kane seine Beweggründe für die Vertragsverlängerung bei seinem Heimatverein und darüber hinaus vielleicht auch, wie im Hause Müller Weihnachten gefeiert wird.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 76,
+        "text": "Die Bayern haben allen Grund zu feiern: in der Champions League im Achtelfinale und in der Meisterschaft in Schlagdistanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 77,
+        "text": "Wolfsburg überwintert auf Platz 10 und kann nach der ordentlichen Vorstellung gegen den Rekordmeister erhobenen Hauptes in die Winterpause gehen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 78,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 79,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,1022 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 19,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "FC Augsburg",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.58"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Christian Dingert",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Den vielzitierten, zu dünnen Münchner Kader plagen große Verletzungssorgen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Gegen Augsburg muss der FC Bayern in den schwarzen Trikots auch noch auf Kimmich, Upamecano und Laimer verzichten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Es gibt das Startelf-Debüt für Dier, der mit seinen Defensivkollegen auch gleich mal vom FCA gefordert wird.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Nach dem Arbeitssieg am Mittwoch gegen Berlin will der Rekordmeister auch in Augsburg die drei Punkte mitnehmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Allerdings: Die vergangenen beiden Auswärtspartien in der Liga bei den Fuggerstädtern verloren die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "Und auch hier kommen die Augsburger besser in die Partie.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 6,
+        "text": "Zweikampf de Ligt gegen Demirović, und Schiedsrichter Christian Dingert entscheidet auf Handspiel und Elfmeter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 7,
+        "text": "Das Stadion jubelt, aber natürlich wird das Ganze noch mal überprüft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 8,
+        "text": "Die Bilder zeigen: Handspiel ja, aber nicht im Sechzehner.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 9,
+        "text": "Es gibt Freistoß statt Elfmeter für Augsburg, und um diesen wird sich Vargas kümmern.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 10,
+        "text": "Zwei Mauern, er entscheidet sich für die Augsburger.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 11,
+        "text": "\"Wir werden das Spiel gewinnen\", ließ Thomas Tuchel vor der Partie verkünden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 12,
+        "text": "Optimistische und offensive Aussage vom Münchner Coach, der aber mit der Anfangsphase nicht zufrieden sein dürfte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 13,
+        "text": "Augsburg wirkt wacher und griffiger.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 14,
+        "text": "Iago auf Demirović, rein damit, aber die Fahne geht hoch.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 15,
+        "text": "Es soll eine Abseitsposition gewesen sein, und tatsächlich: Es ist eine ganz knappe Angelegenheit.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 16,
+        "text": "Den Zuschauern wird hier früh einiges geboten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 17,
+        "text": "\"Es ist unglaublich wichtig für uns, zu Hause vor ausverkauftem Haus zu spielen.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 18,
+        "text": "Das ist unser zwölfter Mann auf dem Platz\", sagte jetzt Thorup.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 19,
+        "text": "Und die zwölften Augsburger stellen die Münchner vor Aufgaben.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 20,
+        "text": "Neunte Minute: Erster Abschluss für die Gäste.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Die Flanke kommt von Guerreiro, über den eine große deutsche Tageszeitung nach dem Unionspiel titelte: \"Flanken ins Nichts, Schuss ins Tor\".",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Das Team von Thomas Tuchel erzielte bereits 22 Treffer vor dem Seitenwechsel und damit mehr als jedes andere Team in dieser Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Auf der Gegenseite kassierte der FCA klar die meisten Gegentore in der ersten Halbzeit.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Festgedribbelt, immerhin erster Eckball für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Guerreiro tritt an, dann Pavlovic: 23. Minute, 1:0 FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Eine Szene, in der eine Menge passiert: Erst bearbeitet Torschütze Pavlovic Keeper Dahmen, dann gibt es die unglückliche Vorlage von Tietz, der mit Coman in einen Zweikampf kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Das wird auch noch ein Thema, aber erst einmal freuen sich die Münchner über den ersten Bundesligatreffer des 19-Jährigen Pavlovic, der nicht im Abseits steht, weil der Kopfball von Jakic kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Der Rest ist reine Formsache.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Und damit zurück zu Coman, für den es nicht weitergeht: Diagnose Innenbandriss im linken Knie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Die Personalsituation des FC Bayern verschärft sich noch einmal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Tuchel muss zum ersten Mal wechseln, Tel kommt für Coman in die Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Die Bayern haben also wieder ihren Treffer in der ersten Halbzeit, und beim FC Augsburg bleibt es dabei: Nicht eine Partie in der aktuellen Saison überstand man ohne Gegentor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Guerreiro, der das erste Mal seit seinem Wechsel nach Deutschland 2016 die Rechtsverteidigerposition bekleidet bzw. bekleiden muss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Es ist nicht so, dass die Bayern das Spiel jetzt nach der Führung komplett dominieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Augsburg bleibt weiterhin konzentriert und mutig.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Neuer: Die Münchner haben zwar mehr Ballbesitz, mehr Torschüsse, verzeichnen aber die Gastgeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Nachspielzeit erste Halbzeit: Noch wenig zu sehen vom Topjäger der Liga, Harry Kane, versucht sich aber immer wieder einzubinden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Kane gegen Bremen zuletzt ohne Tor, gegen Union nur ein Abseitstor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Es ist nur noch eine Frage der Zeit, bis es erste ernstgemeinte Analysen gibt, die sich um die Torkrise des Engländers kümmern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "45 + 5: Goretzka im Spielaufbau, Davies: 2:0 Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Alphonso \"Fons\" Davies, zuletzt im Formtief, ihm fehle laut Tuchel etwas Selbstvertrauen, haut den Ball aus gut 20 Metern mit rechts ins Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Das ist eigentlich sein Standbein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Viel wurde zuletzt über ihn geschrieben, endlich sorgt er auch mal wieder aus sportlicher Sicht für positive Schlagzeilen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Das 2:0 ist gleichzeitig auch der Pausenstand.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Nach 45 Minuten führt der Leverkusen-Jäger aus München vielleicht ein Tor zu hoch mit 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Personell gibt es keine weiteren Wechsel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Die Münchner im Angriff: Tel, Pavlovic, und Tel macht sich auf in Richtung Strafraum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Sané bemerkt das, wieder Tel und Dahmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Thomas Tuchel selbst hat eine Augsburger Vergangenheit: In der Jugend spielte er für den FCA, zudem trainierte er erst die U19, anschließend die zweite Mannschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Und sein ehemaliger Arbeitgeber hat sich hier noch nicht aufgegeben.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Auf der rechten Seite Mbabu, der hat so viel Platz, da könnte man ein Einkaufszentrum errichten.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Mbabu auf Demirović: 52. Minute, nur noch 1:2 aus Sicht der Augsburger.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Keiner will Mbabu am Flanken hindern.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Demirović erzielt dann sein neuntes Saisontor.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Eine Aufholjagd kann Augsburg: Ganze 15 Zähler sammelten die Fuggerstädter in der laufenden Spielzeit, obwohl sie zuvor ins Hintertreffen geraten waren.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Das ist Liga-Höchstwert.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Es ist ein sehr unterhaltsames Fußballspiel, weil beide Mannschaften offensiv denken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Jetzt wieder der Sprung auf die andere Seite: Sané, seine wohl konstanteste Saison in der Bundesliga, immer wieder sorgt er für Gefahr im und um den gegnerischen Strafraum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Wie viel Risiko geht der FCA?",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "1:2, aber es ist noch eine Menge Zeit auf der Uhr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Jensen: Der FC Bayern ist nach dem Ausrutscher gegen Bremen natürlich unter Druck, wenn man den Anschluss an Leverkusen nicht verlieren will.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Sané mit etwas Tempo, der Ball landet bei Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "58. Minute: Der Ball geht rein, und die Fahne geht hoch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Klare Abseitsposition von Kane, aber spielt das hier überhaupt eine Rolle?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Es wird wieder der VAR um Rat gefragt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Erste Frage: Kommt der Ball von Jakic und nicht von Musiala?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Es ist tatsächlich Jakic.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Aber zweite Frage: Hat der Augsburger die klare Kontrolle?",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Denn dann ist es egal, wo Kane steht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Dingert schaut und grübelt lange, entscheidet dann aber auf Tor für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Der Zwei-Tore-Vorsprung ist also wiederhergestellt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Augsburg muss jetzt noch mal das Risiko erhöhen.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Uduokhai: Den hält nichts mehr hinten.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Be und Neuer, der nie abschaltet und in der Situation bleibt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Und das war wichtig, sonst steht es hier zum 2:2.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Das Spiel gönnt sich für eine gute Viertelstunde eine kleine Pause, was Highlights angeht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "80 Minuten mittlerweile gespielt, und plötzlich hat viel Rasen und Dahmen vor sich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Hätte hier für die Entscheidung sorgen können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Das Warten auf sein viertes Saisontor geht weiter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Zuletzt durfte der 18-Jährige im September beim 7:0 gegen den VfL Bochum jubeln.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Schlussphase: Ecke für den FCA.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Neuer kommt raus, Uduokhai bleibt liegen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Die Partie läuft erstmal weiter, aber wenige Augenblicke später meldet sich wieder der VAR.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Es geht um die Bewegung von Manuel Neuer: Der Keeper trifft Uduokhai, er trifft ihn im Sechzehner, und jeder weiß, was das bedeutet: Strafstoß für Augsburg in der 88. Minute.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Der eingewechselte Michel: Michel gegen Neuer.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Manuel Neuer: Einen Elfmeter verursacht, einen gehalten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Kein Grund zur Aufregung, der Nationalkeeper hält es weiterhin 3:1 für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Aber es gibt noch einmal 7 Minuten oben drauf, und Augsburg gibt nicht auf.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Demirović gegen Müller: 90+3, es gibt wieder Elfmeter für den FCA, und diesmal kann der VAR eine Pause machen.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Für das Foul braucht es keine fünf Kameraperspektiven.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Diesmal schnappt sich Demirović den Ball.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Demirović gegen Neuer: 2:3.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Neuer entscheidet sich wieder für das Michel-Eck, aber Demirović hat andere Pläne.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Alles oder nichts aus Augsburger Sicht.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Michel noch mal im Strafraum, Guerreiro geht dazwischen, Neuer klärt, und sichert dem FC Bayern den Auswärtssieg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Denn wenige Augenblicke später ist Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 97,
+        "text": "3:2 gewinnen die Münchner das Spiel, aber verlieren mit Coman einen weiteren Stammspieler für die kommenden Wochen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 98,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 99,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

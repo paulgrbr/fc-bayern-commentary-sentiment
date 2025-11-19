@@ -1,0 +1,1652 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 27,
+    "heim_auswaerts": "Heim",
+    "gegner": "Borussia Dortmund",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.61"
+  },
+  "ergebnis": {
+    "bayern": 0,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Harm Osmers",
+    "kommentator": "Oliver Schmidt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Die vergangenen 14 Meisterschaften haben sie unter sich ausgemacht: Bayern München und Borussia Dortmund.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Diesmal aber ein Spitzenspiel ohne Spitzenreiter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Zwei, die hinter ihren Erwartungen und dem eigenen Selbstverständnis geblieben sind, aber auch zwei, die aktuell unter den Top 8 der Champions League stehen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Dritte Minute: Bayerisches Ballbesitzmonopol.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Kimmich und das erste Foul hier von Linksverteidiger Maatsen gegen Rechtsverteidiger Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Erster Freistoß für die Mannschaft mit den meisten Toren nach Standards.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Rechtsfuß Joshua Kimmich an den zweiten Pfosten, Leon Goretzka und aus dem Hintergrund Lothar.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Vierte Minute: erstmals erhöhter Pulsschlag.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Lothar seit 22 Pflichtspielen torlos.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Hier steht Maatsen im Weg.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Rot und Weiß gegen Schwarz und Gelb.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Die beste Offensive der Liga im Anmarsch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Kane allein hat mehr Treffer erzielt als Dortmunds drei Toptorjäger addiert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Laimer, Kimmich früh und oft gesucht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Ryerson kann hier klären, vorübergehend.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Laimer, Müller, die Bayern mit Übersicht im Ballungsgebiet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Wieder Kimmich in der Mitte, Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Siebte Minute: drei Tore beim 4:0 im Hinspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Der wiedergenesene Engländer hier aber mit Stürmerfoul gegen Ryerson.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Die ersten neun Minuten rum.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Im Hinspiel führten die Bayern da schon 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Ein Dortmunder Gastspiel in München seit Jahren trostlos.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Die letzten neun Auswärtspartien in der Liga gingen für den BVB alle verloren.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Der Rekordmeister im Aufbau über Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "An der Schlotterbeck, Brandt, Emre Can, Füllkrug machen aus der Umschalt- eine Kontersituation.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Brandt und Karim Adeyemi hängt de Ligt ab.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "1:0 BVB, zehnte Minute.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Der erste Torschuss sitzt.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Ausgangspunkt der Dortmunder Führung: Müllers Malheur im Mittelfeld, Fehlpass ohne Druck, und dann schaltet Dortmund direkt um.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Bayerns Restverteidigung nicht nur löchrig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Am Ende hängt Sprinter de Ligt ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Ein gebürtiger Münchner mit S auch z Jahre bei den Bayern trifft in München und Sven Ulreich wird, sagen wir mal, kalt erwischt.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Zum Zuschauen verdammt: die Nummer 1 Manuel Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Und Thomas Tuchel ruft er sicher nicht unhaltbar.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "0:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Eine Coaching-Zone weiter: Edin Terzic.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Als Trainer hat er noch nie gewonnen gegen die Bayern.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Und Tuchel: Sieg-Premiere vielleicht, auf jeden Fall Tor-Premiere gegen die Bayern für Adeyemi.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Der BVB führt.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Die Bayern bisher in allen Rückrunden-Spielen nicht zu Null.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Und aus der westfälischen Ecke wird da ein bayerischer Konter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Davies, Musiala, Nico Schlotterbeck.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Ballrückeroberung Deluxe.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Moukoko, dann Sancho.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Davies war ja schon im Vorwärtsgang, deshalb viel Raum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Und da ist Mats Hummels.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "18. Minute: Der Innenverteidiger, kein Torjäger, hätte den doch der Füllkrug bekommen, wird sich vielleicht auch Terzic denken.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Bayern in der Blitztabelle aktuell 13 Punkte vor den Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Bis hierhin fehlt es dem kommenden Vizemeister an Tempo und Tiefe.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Müller, Kimmich, vielleicht ja jetzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Wieder Kimmich und Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Die Gelegenheit zum Ausgleich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "So einen lässt King Kane selten liegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Für Lewandowskis Saisonrekord benötigt Bayerns Neuner noch so einige Tore.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Sein Trainer Thomas Tuchel hadert mit der Entschlossenheit seiner Mannschaft, offensiv wie defensiv.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Und die Musiala-Magie, die fehlt auch noch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Bayerns Hochbegabte am nach einem grenzwertigen Einsatz von Ryerson, nicht mit letzter Brutalität, aber mit offener Sohle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Dafür gab es zuletzt schon einige rote Karten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Ryerson kommt aber bei Schiedsrichter Harm Osmers ohne Verwarnung davon.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Der Videoassistent greift auch nicht ein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Glück gehabt.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "Aus dem Spiel heraus die Hausherren zu selten gefährlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Vielleicht ja nach einem ruhenden Ball oder einem zweiten Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 63,
+        "text": "Hier für versucht, geblockt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 64,
+        "text": "Dafür bekommt Kimmich zweite Gelegenheit, die Brandt ermöglicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 65,
+        "text": "Kimmich, Müller und dann Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 66,
+        "text": "Ist hier alles regelkonform abgelaufen?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 67,
+        "text": "Tuchel sieht Protestpotenzial.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 68,
+        "text": "Also schauen wir noch mal hin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 69,
+        "text": "Das ist dem Regelwerk nach kein gefährliches Spiel von Hummels, aber es ist ein strafbares Handspiel.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 70,
+        "text": "Der Unparteiische Osmers hat laufen lassen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 71,
+        "text": "Videoassistent Cortus checkt, denn von der eigenen Fußspitze, wir sehen es gleich, springt Hummels der Ball an die eigenen Fingerspitzen hier.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 72,
+        "text": "Und das ist nach aktueller Auslegung kein Regelverstoß.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 73,
+        "text": "Weiter geht's.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 74,
+        "text": "Heute Dortmunds erstes Duell mit einem Top-Fünf-Club in der Rückrunde.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 75,
+        "text": "In der Hinserie gab es keinen Sieg und nur einen Punkt in vier Spitzenspielen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 76,
+        "text": "Bis hierhin läuferisch im Positionsspiel und was die Zweikampfstärke angeht, top.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 77,
+        "text": "Sancho gegen Davies, nächstes Beispiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 78,
+        "text": "Den lässt er links liegen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 79,
+        "text": "Goretzka klärt vor Moukoko.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 80,
+        "text": "1:0 Pausenführung Dortmund.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 81,
+        "text": "Die langen Chefgesichter passen nicht zum positiven Zwischenstand.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 82,
+        "text": "Bayerns Meister-Abo läuft aus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 83,
+        "text": "Gesucht wird auch noch ein neuer Trainer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 84,
+        "text": "Seit gestern offiziell: Xabi Alonso wird's nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 85,
+        "text": "Fernglasabstand zu Leverkusen in der Champions League.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 86,
+        "text": "Arsenal vor der Brust.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 87,
+        "text": "Den Bayern droht die erste titellose Saison seit 2012.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 88,
+        "text": "Zweite Hälfte: Kimmich, Sané, Kane schnell und schnörkellos.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Davies am Ende der Linksverteidiger mit seinem schwächeren rechten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Wegweisende Wochen für die Borussia in Liga und Königsklasse.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Rang 4 der neue Rang 1 für den BVB.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Es geht um die sichere Qualifikation für die Champions League.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Und drei Punkte gegen die Bayern wären ein echter Coup im Fernduell mit RB.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Schwarz-Gelb bleibt griffiger, hartnäckiger gegen phasenweise körperlose Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Adeyemi gegen Laimer und dann spaziert Adeyemi zum 2:0.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Nein, de Ligt mit dem perfekten Timing bei der Grätsche.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "51. Minute: Die Bayern schwächen gegen starke Borussen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Schnell, handlungsschneller das Ganze, aber auch hier ohne Gegnerdruck.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Brandt, Sancho, Brandt, Ryerson und Felix Nmecha scheitern dann an Ulreich.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Minute 53: So schön Schwarz-Gelb kombiniert, nahezu perfekt.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "So glanzvoll auch die Parade von Bayerns Nummer 2.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Das 2:0 liegen lassen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Rächt sich das noch für den Vizemeister?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Es wird Zeit, hat Trainer Terzic geantwortet auf die Frage nach einem Ende der langen Negativserie in München.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Nach etwas mehr als einer Stunde dann bayerischer Dreifachwechsel: Tel, Laimer und Gnabry für Müller, Sané und Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Stinksauer, berechtigt, was seine eigene Vorstellung angeht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Neue Kräfte und endlich neue Energie und Torgefahr.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Laimer, nächster leichter Ballverlust gegen Brandt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Der Balleroberer bleibt stabil und schickt Adeyemi auf die Reise.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Die Winterleihe aus Chelsea nicht zu stoppen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "Maatsen vorbei.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "65. Minute: Nur holt auf, aber der Niederländer nicht einzuholen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Die Gelegenheit aufs 2:0 ohne Happy End.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Trotzdem Daumen hoch von Terzic.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Vor zwei Wochen konnten die Münchner nach einem 0:1 gewinnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "Der Gegner aber mit Verlaub Darmstadt und nicht Dortmund.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "Unter anderem die beiden Innenverteidiger Hummels und Schlotterbeck mit einer starken Antwort auf die Nichtberücksichtigung durch den Bundestrainer.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 118,
+        "text": "Serge Gnabry kommt über links und dann in der Mitte Reinigungskraft Mats Hummels.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 119,
+        "text": "Keiner hat mehr Klassiker gespielt als er.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 120,
+        "text": "29 für beide Seiten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 121,
+        "text": "Die folgende Ecke von Kimmich und am zweiten Pfosten Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 122,
+        "text": "67. Minute: Auch das ein Problem.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 123,
+        "text": "Die Rot-Weißen bekommen ihren Torjäger zu selten in Abschlusspositionen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 124,
+        "text": "Die Borussia dagegen in Champions-League-Form.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 125,
+        "text": "Aber die Bayern stecken nicht auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 126,
+        "text": "Reus, Kimmich, Kingsley Coman.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 127,
+        "text": "Endlich kann sich Alexander Meyer auch mal auszeichnen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 128,
+        "text": "Es ist schon die 75. Minute und es ist Meyers erstes Auswärtsspiel überhaupt in München.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 129,
+        "text": "Der FCB schafft es aber weiter nicht, den BVB konsequent unter Druck zu setzen, ob mit oder ohne Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 130,
+        "text": "Im Gegenteil, phasenweise ist es ein schwarz-gelber Abendspaziergang im bayerischen Hoheitsgebiet.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 131,
+        "text": "Joker Özcan, Joker Haller und dann Julian Ryerson.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 132,
+        "text": "2:0 Borussia Dortmund, 83. Minute: Die Entscheidung.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 133,
+        "text": "Schwarz-gelbe Partystimmung.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 134,
+        "text": "Diese Perspektive offenbart Bayerns kollektive Tatenlosigkeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 135,
+        "text": "Die Abstände zum Gegner, die Abstände untereinander viel zu luftig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 136,
+        "text": "Dem BVB wird das Tore schießen leicht gemacht.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 137,
+        "text": "Ist das der verwandelte Matchball zum ersten Bundesligasieg seit Jahren?",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 138,
+        "text": "Der erste überhaupt gegen Bayern und Tuchel.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 139,
+        "text": "Das kleine Dienstjubiläum droht ein Reinfall zu werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 140,
+        "text": "Die zweite Niederlage blüht unter Thomas Tuchel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 141,
+        "text": "Und nicht wenige machen sich dann auch gleich auf den Heimweg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 142,
+        "text": "Servus Arena, servus Meisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 143,
+        "text": "89. Minute: Bruchte ein Blitz-Comeback der Bayern ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 144,
+        "text": "Immerhin belebendes Element nach seiner Rückkehr aus der Verletzungspause.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 145,
+        "text": "Auch eingewechselt und dann Anschlusstreffer und fünf Minuten Nachspielzeit soll es ja noch geben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 146,
+        "text": "Ein bayerischer Hoffnungsschimmer, aber auch ein Abseits-Anfangsverdacht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 147,
+        "text": "Minuten Kontakt mit dem Keller.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 148,
+        "text": "Ein Spannungsbogen für alle mit folgendem Ergebnis: kein Tor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 149,
+        "text": "Kane eine Schuhlänge im Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 150,
+        "text": "Die Technik offenbart die Fehlstellung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 151,
+        "text": "Der BVB hat heute einfach das Momentum auf seiner Seite.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 152,
+        "text": "Weiter 2:0 für die von Terzic.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 153,
+        "text": "Das Topspiel plätschert aus, torlos und trostlos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 154,
+        "text": "Auch nach diesem letzten Angriff die Vorstellung des FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 155,
+        "text": "13 Punkte Rückstand auf Leverkusen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 156,
+        "text": "Für Edin Terzic ein besonderer Sieg, einer mit Genugtuung.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 157,
+        "text": "Erstmals in dieser Saison ein, was die Tabelle angeht, Topteam geschlagen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 158,
+        "text": "Den München-Fluch gebrochen.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 159,
+        "text": "Das könnte noch ein schöner April werden, zumindest für die Borussia.",
+        "kontext": "Borussia Dortmund",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 160,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 161,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 162,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

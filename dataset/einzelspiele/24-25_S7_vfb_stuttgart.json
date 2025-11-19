@@ -1,0 +1,1252 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 7,
+    "heim_auswaerts": "Heim",
+    "gegner": "VfB Stuttgart",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.65"
+  },
+  "ergebnis": {
+    "bayern": 4,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Tobias Stieler",
+    "kommentator": "Gari Paubandt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Die Bayern in den roten Trikots: Davies kann sich sehr leicht vom Gegenspieler lösen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 1,
+        "text": "Olise und Guerreiro laufen mit, sind völlig frei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Stuttgart ist nicht geordnet.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "In der dritten Minute die erste Torannäherung der Begegnung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Für Bayern geht es nicht nur um drei Punkte, sondern auch um den Beweis, dass der eingeschlagene Weg und die offensive Spielweise richtig sind, auch wenn es zuletzt zwei Remis gegen Leverkusen und Frankfurt sowie die Pleite gegen Aston Villa gab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Anfangsphase ist sehr lebendig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Keine Minute später: Neuer auf Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Stuttgart presst hoch, wie erwartet, und doch überrascht es die Münchner.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Fehler von Davies, Stiller und Dennis.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Vier Tore hat der 28-Jährige an den ersten sechs Spieltagen erzielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Gegen Bosnien-Herzegowina traf er sogar doppelt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Schön, wie er sich eigentlich löst, doch für den Geschmack von Sebastian Hoeneß ist der Abschluss noch zu harmlos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "In der sechsten Minute zucken dann alle Bayern-Fans zusammen: Alexander Pavlovic verliert in der Luft die Balance, knallt auf die Schulter.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Das tut selbst beim Zuschauen extrem weh.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Kompany sieht, wie Pavlovic behandelt werden muss, und schnell ist klar: Der 20-Jährige kann nicht mehr weitermachen.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Verdacht auf Schlüsselbeinbruch.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Er würde damit erstmal fehlen.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Bayern reagiert, bringt den 50-Millionen-Neuzugang João Palhinha.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Ein Wechsel, der den deutschen Rekordmeister aber nicht aus dem Konzept bringt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Müller, Olise, der Franzose, und wieder geht es schnell, zu schnell für den VfB.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Guerreiro, Nübel zur Stelle.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Bayerns zweiter gefährlicher Angriff erneut über Stuttgarts linke Defensivseite mit dem neuen Mann Hendriks.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Der Abschluss allerdings zu unplatziert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Die Bayern-Legenden Giovane Élber und Rai hätten den sicher gemacht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Die Münchner haben längst die Kontrolle übernommen, fast 65% Ballbesitz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Guerreiro sehr auffällig in der Anfangsphase.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Müller mit der Flanke, Harry Kane: Seit vier Pflichtspielen wartet der Engländer persönlich nun schon auf einen Treffer, und das nervt die Münchner, das nervt aber allen voran am meisten ihn selbst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Kurz darauf Ecke für die Gastgeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es geht schon darum, die Tabellenführung zu verteidigen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Olise, keiner kommt so richtig ran, aber wieder wirkt das sehr luftig, was Stuttgart defensiv anbietet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Und so gibt es eine weitere Ecke direkt hinterher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Wird es ähnlich gefährlich?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Andere Variante: Olise, erstmal geklärt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Da ist aber Davies, sein Schuss noch entscheidend abgefälscht von Stuttgarts Rouault.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Sebastian Hoeneß kündigt an: Es geht um Mut und Klarheit.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Klar zu erkennen sind bislang nur die Probleme der Gäste.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "31. Minute: Müller schickt Guerreiro, hat viel Platz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Guerreiro, Harry Kane, und auch das ist nicht das 1:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Es ist verhext.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Letzte Saison erzielte der Stürmerstar drei der vier Bayern-Treffer gegen Stuttgart, doch aktuell ist einfach der Wurm drin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Dennoch gibt's den aufmunternden Applaus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Der Wurm drin scheint übrigens auch auf Vorstandsebene.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Der Vorstandsvorsitzende Jan-Christian Dreesen befindet sich wohl im internen Machtkampf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Ein Vorwurf: schwieriges Führungsverhalten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Sein Vertrag endet im Sommer 2025.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Die Entscheidung über seine Zukunft soll im November fallen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Ein Urteil über die erste Hälfte gibt es früher von Uli Hoeneß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Sein Blick sagt mehr als 1000 Worte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Rein in die zweite Hälfte: Die Bayern behalten erstmal die Kontrolle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Olise schickt Gnabry, super Timing, super Zuspiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Gnabry, und da kommt wieder Harry Kane, und wieder ist der nicht drin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Es ist nicht zu glauben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "51. Minute und es bleibt bei 0:0, weil Harry Kane, die personifizierte Tormaschine, noch immer menschliche Züge offenbart.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Die Bayern machen eigentlich alles richtig, doch sie nutzen halt die Chancen nicht, allen voran er, Harry Kane, der damit weiter auf einen Treffer wartet und weiter auf der Suche bleibt nach dem verlorenen Torriecher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Stuttgart, das Team mit den meisten Großchancen der Liga, findet offensiv gar nicht statt.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Bis jetzt endlich mal ein Lebenszeichen: Demirović abgeblockt, Leweling, der Mann, der das Siegtor erzielt hat gegen die Niederlande.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Immer noch Leweling, setzt sich da stark durch, und dann ist das Vagnoman.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Aus dem Nichts hat der Gast die Chance auf die Führung, nutzt diese aber nicht.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Wenn sich das mal nicht rächt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Trotz dieser Chance fühlt sich der Südschlager nicht wirklich nach Südgipfel an, weil Musik nur von den Münchnern kommt, wobei auch nicht jeder Ton bislang sitzt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Aber das ist das gewohnte Bild: Kimmich behauptet den Ball auf Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Harry Kane zieht einfach mal ab, und der ist drin!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Die Leiden des jungen Kanes haben ein Ende.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "57. Minute, nach also 32 Minuten ohne Treffer, darf der 31-Jährige wieder jubeln.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Doch wie kurios ist das denn bitte?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Aus wenigen Metern Entfernung trifft er mehrfach nicht, aber jetzt aus 28 Metern schon.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "122 km/h hat er im Angebot.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Dennoch: Nübel im Tor nicht frei von Schuld, der Mann, der im nächsten Sommer der neue Neuer werden könnte.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Aber was für eine Erlösung für Kane, für Kompanys Bayern, und natürlich wird das auch den neuen englischen Nationaltrainer, den Ex-Münchner Thomas Tuchel, freuen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Wen das gar nicht freut, ist per Naturgesetz Sebastian Hoeneß.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Stuttgart wartet weiter auf das erste Ligaspiel zu null in dieser Saison.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Wenig später: Gnabry gibt Gas, richtig Gas.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Gnabry auf Kimmich, dazwischen, super Reaktion.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Palhinha abgefälscht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Die Szene läuft ungeschnitten weiter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Bayern drückt und drückt und drückt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "54% beträgt die Zweikampfquote, 63% Ballbesitz haben sie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Stuttgart muss also gewarnt sein, nicht zu früh das zweite Gegentor hinnehmen zu müssen, um selbst die Chance auf den Ausgleich noch zu haben.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Aber dafür muss der VfB erstmal wieder an den Ball kommen.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Davies, Gnabry, Müller, Kane zum ersten, Harry Kane zum zweiten, artistisch und erfolgreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "3 Minuten und 44 Sekunden nach der Führung liegt der deutsche Rekordmeister nach Standing Ovations gibt's von ganz oben für den ganz großen Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Gegen drei Stuttgarter setzt er sich durch, bemerkenswert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Zudem die Ablage von Thomas Müller, denn der hat Harry Kane im Blick, legt per Hacke auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Fast einen Monat traf Kane gar nicht, jetzt wieder doppelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Bemerkenswert auch, wie Kompany mitfiebert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Der kaut die Szene regelrecht mit durch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Im Mai hat Stuttgart daheim die Bayern geschlagen, die Saison auf Rang 2 beendet, also vor den Münchnern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Diesen Stachel hat der Rekordmeister mit dem 2:0 rausgezogen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Und noch ist ja reichlich Zeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Konter Bayern München: Davies ist der Schnellste, schaut immer wieder, sucht und findet Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "67. Minute, die große Chance für den Engländer, auch noch das dritte und damit den lupenreinen Hattrick innerhalb von nur 11 Minuten zu erzielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Diese lässt er aus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Das Bild bleibt aber unverändert: Bayern, immer wieder diese Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Längst ist diese Torgier wieder erkennbar, die sie an den ersten Spieltagen auszeichnete.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Erneut der Engländer, super Verlagerung, Sané reingekommen, neu dabei, aber Endstation Nübel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Es hätte auch nicht zu diesem Abend gepasst, wenn jetzt ein anderer auf einmal treffen würde als Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Die Stuttgarter schaffen es gar nicht mehr in die gegnerische Hälfte, was an der Aggressivität der Bayern liegt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Palhinha nimmt Stiller den Ball ab, Kimmich in seinem Spiel für die Münchner, Gnabry, der wird doch nicht, Nübel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Es ist der neunte Torschuss allein von Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Der VfB hat insgesamt nur vier.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Nübel, abgesehen vom 0:1, gehört auch aufgrund dieser Statistik und solcher Paraden zu den besten beim VfB.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "10 Minuten vor dem Ende: Kane auf Sané, abseitsverdächtig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Spiel läuft erstmal aber weiter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Coman, Laimer, mit viel Geduld tragen sie diesen Angriff vor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Sinnbildlich: Bayern lässt den Ball laufen, Stuttgart kriegt keinen Zugriff.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Dann super diese Ablage, Palhinha versucht, und da ist Harry Kane dann doch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Der Hattrick!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Zwar ist Coman tatsächlich im Abseits, danach vergehen aber noch 28 Sekunden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Es ist also eine völlig neue Situation, weshalb der VAR das Tor nicht einkassieren kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Es ist Kanes erster lupenreiner Hattrick im Trikot der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Wer hätte das gedacht nach den ersten 45 Minuten, als die Gastgeber sich für das Chancenplus nicht belohnen konnten?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "In vier Spielen trafen sie nun also mindestens dreimal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Der Spaß am Fußball ist zurück, Kompany sei Dank.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Und Sebastian Hoeneß, der selbst den Bayern-Nachwuchs trainierte, hat längst die Flasche leer.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Na ja, fast.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Es ist in jedem Fall eine der schwächsten VfB-Vorstellungen seiner Amtszeit.",
+        "kontext": "VfB Stuttgart",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "Gerade mit der zweiten Hälfte zeigt sich der Gastgeber bereit für den Königsklassen-Kracher am Mittwoch in Barcelona, wenn es gegen Ex-Coach Flick geht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "Und ein weiteres Tor gibt's dann noch: Coman jubelt über das 4:0 in der 89. Minute, sein erstes Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 118,
+        "text": "Und das ist der Endstand.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 119,
+        "text": "Nach drei Spielen ohne Sieg lassen die Münchner jegliche aufkommende Kritik verstummen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 120,
+        "text": "Im 1008. Bundesliga-Heimspiel gibt es den 750. Sieg, und das vor allem dank des Dreitoremannes Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 121,
+        "text": "Seine Leistung an diesem Abend: ein echter Hingucker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 122,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

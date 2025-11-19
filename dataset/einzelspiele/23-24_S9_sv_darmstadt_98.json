@@ -1,0 +1,1182 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 9,
+    "heim_auswaerts": "Heim",
+    "gegner": "SV Darmstadt 98",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.54"
+  },
+  "ergebnis": {
+    "bayern": 8,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Martin Petersen",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der letzte Gegner hieß Costa Rica.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Es folgte eine Verletzung im Skiurlaub im Dezember und jetzt das Comeback für Manuel Neuer im Tor der Münchner gegen Darmstadt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Bayern in Weiß-Rot und Kimmich mit einem ungewohnten Fehler.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Mehlem, Kimmich letzter Mann, und deswegen zeigt Schiedsrichter Martin Petersen Rot.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Vierte Minute, Schockstarre in der Allianz Arena.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Ein klares Foul vom Rekordmeister, der früh in Unterzahl ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Jetzt muss sich das Team erstmal neu sortieren und wird angetrieben von Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Der nimmt Davies mit, Halb-Schuss, Halb-Flanke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der FC Bayern traf in all seinen acht Bundesligaspielen in dieser Saison mindestens doppelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Auch mit einem Mann weniger will der Gastgeber diese Serie fortsetzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Kane und wieder Schuhen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Darmstadt kann die Überzahl noch nicht entscheidend nutzen.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Im Gegenteil, Konter München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Sané auf Laimer, Laimer gegen Gjasula, Elfmeter und zusätzlich Gelb gegen Gjasula.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Aber die Szene wird nochmal überprüft und dann entscheidet Petersen auf Freistoß und statt Gelb gibt es die rote Karte für Darmstadts Klaus Gjasula.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Die nächste Notbremse der Partie, also zehn gegen zehn.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Wenige Minuten später dieser Freistoß, de Ligt und es ist wieder Schuhen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Seit 25 Spielen in der Bundesliga warten die Lilien auf eine Partie ohne Gegentor.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Vielleicht klappt es ja ausgerechnet gegen den großen FC Bayern.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Mutig will man auftreten, so Torsten Lieberknecht vor der Partie.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Und tatsächlich versteckt sich Darmstadt nicht.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Skarke und Neuer, man könnte meinen, der Keeper hat in den vergangenen Wochen bei einer Volleyballmannschaft mittrainiert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Thomas Tuchel ist jedenfalls happy, dass Neuer zurück im Tor ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Er mache jeden Abwehrspieler besser und Neuer bekommt auch die eine oder andere Möglichkeit, sich auszuzeichnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Mehlem und Neuer, der bleibt lange ruhig und vereitelt die nächste Chance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Bisher ein sehr gelungenes Comeback.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Darmstadt in dieser Phase die etwas aktivere Mannschaft.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Die Bayern werden gefordert und kommen über Laimer, der schickt Kane und ja, es ist ein Déjà-vu.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Diesmal Maglica gegen Kane, 41. Minute, die dritte Notbremse der Partie bzw. die dritte rote Karte in der ersten Halbzeit.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Ein trauriger Bundesliga-Rekord eingetütet von einem Experten auf diesem Gebiet.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Es ist bereits der zweite Platzverweis für Maglica in dieser Saison.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Und einen Freistoß gibt es ja auch noch für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Kane, weiterhin 0:0, aber trotzdem bei weitem kein langweiliges Spiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Noch zwei Minuten bis zum Pausenpfiff.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Da ist wieder der Engländer Kane und Schuhen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Der FC Bayern will hier noch einen Treffer erzielen, bevor es in die Kabine geht und macht weiter Druck.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Davies, Musiala, Sané macht das stark und dann ist der Ball im Netz, aber die Fahne geht hoch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Es ist Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Sanés Fuß ist beim Zuspiel Zentimeter in der verbotenen Zone.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Entscheidung korrekt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Danach ist Pause, nur 0:0.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Tuchel sichtlich unzufrieden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "7140 Quadratmeter für 19 verbleibende Akteure, etwas mehr Platz und Privatsphäre als bei einem normalen Bundesligaspiel für die Profis.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Und damit rein in Halbzeit 2.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Freistoß Bayern, de Ligt und wieder Schuhen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Die Riesenchance zur Führung, aber es gibt kein Vorbeikommen am Darmstädter Keeper.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Die Münchner zuletzt mit vier Pflichtspielsiegen in Folge kommen besser aus der Kabine.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Musiala, kaum zu trennen vom Ball, Mazraoui, der hat eine Menge Platz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "51. Minute, 1:0 Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Nach drei roten Karten endlich der erste Treffer der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Harry Kane, Flugkopfball und aus dieser kurzen Distanz kann auch Schuhen nichts mehr ausrichten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Sechstes Bundesligator im neunten Spiel, überragende Quote.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Wie reagiert jetzt der Aufsteiger?",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Um hier mehr ins Risiko zu gehen, ist es eigentlich noch zu früh.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Zimmermann klärt den Schuss von Kane.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Die Münchner Offensive ist jetzt aber endgültig auf Betriebstemperatur.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Kane, Musiala, Laimer, der hat Zeit und er hat die Übersicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Leroy Sané, 56. Minute, 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Sané ist genau wie Harry Kane seit dem ersten Spieltag in Topform.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Hier muss der Nationalspieler aber gar nicht mehr so viel machen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Herrlich herausgespielt von Musiala und Laimer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Glaubt Darmstadt jetzt noch an einen Punkt?",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Die intensive Laufarbeit kostet.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Bayern kann jetzt mit der Führung im Rücken sogar den ein oder anderen Konter fahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Das ist wieder Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Es wäre wohl die Entscheidung gewesen, aber die Gastgeber lassen nicht locker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Freistoß Kane, zweimal zuvor hat er den Freistoß in die Mauer gesetzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Jetzt wird er kurz ausgeführt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Musiala, 60. Minute, 3:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Innerhalb von neun Minuten erzielen die Münchner drei Treffer und sichern sich wohl den fünften Pflichtspielsieg in Folge.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Musialas Abschluss gegen die Aufrichtung von Schuhen, für den das hier hinten raus noch ein ganz unangenehmer Arbeitstag werden kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Die Bayern zu diesem Zeitpunkt noch ohne Wechsel laufen weiter an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Kane an Sané, 64. Minute, 4:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Endlich hat die Partie mehr Tore als rote Karten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Doppelpack Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Es sind die Saisontore sieben und acht für den 27-Jährigen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Damit hat Sané bereits jetzt so viele Treffer erzielt wie in der kompletten Vorsaison in 23 Spielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Und Thorsten Lieberknecht, der bringt schon mal das Handtuch.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Danach gibt es dann auch die ersten Auswechslungen auf Seiten der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Davies und Coman haben Feierabend, für sie kommen Krätzig und Thomas Müller, der sich langsam aber sicher an seine Rolle als Einwechselspieler gewöhnen muss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Thomas Tuchel ist mit den aktuellen Startelfkandidaten in der Offensive zufrieden, sieht keinen Grund, große Rotation vorzunehmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Da ist Müller und da ist Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "69. Minute, 5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Junge, Junge, klar steht Schuhen etwas weit vor seinem Kasten, aber die Schusstechnik muss man eben auch erstmal mitbringen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Der Ball ist dann so lange in der Luft, der bräuchte schon fast einen eigenen Fluglotsen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Traumtor vom Engländer und das dürfte Manuel Neuer ganz ähnlich sehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Es ist eine ganz bittere Phase für die Spieler in den blauen Trikots.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Sie werden regelrecht überrannt.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Wieder der FC Bayern, Mazraoui, Müller, 71. Minute, 6:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Das halbe Dutzend ist voll.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Jokertor Thomas Müller, sechs Treffer in nur 20 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Es ist ein komplett verrücktes Bundesligaspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Die Bayern blühen in dieser zweiten Halbzeit regelrecht auf und die Lilien, sie verwelken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Die Beine werden schwerer und schwerer und dadurch lässt auch die Konzentration nach.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Honsak mit dem Fehler im Spielaufbau, Musiala, Doppelpass mit Müller, Musiala, 76. Minute, es steht 7:0 für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Doppelpack Kane, Doppelpack Sané und jetzt auch Musiala mit seinem zweiten Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Es ist gleichzeitig seine letzte Aktion.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Danach wird der 19-Jährige zusammen mit Laimer und de Ligt ausgewechselt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Choupo-Moting, Tel und ein Bundesliga-Debütant kommen in die Partie: Alexander Pavlovic, ein 19-jähriges Mittelfeldtalent.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Also nochmal frische Kräfte für die Schlussphase.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Müller, Choupo-Moting, es klappt viel, aber eben auch nicht alles.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Den darf, den muss der Stürmer aus dieser Position eigentlich verwandeln.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Am Mittwoch geht es für die Münchner im Pokal gegen Saarbrücken weiter, bevor es dann am Wochenende zum Topspiel gegen Borussia Dortmund kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Sané nimmt nochmal Anlauf und nimmt vor allem Kane mit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Harry Kane, 88. Minute, 8:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Es ist eine klasse Vorarbeit von Sané und dann ist es auch die pure Willenskraft von Kane, der den Ball im Fallen noch irgendwie Richtung Tor befördert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Es ist bereits der zweite Dreierpack seiner jungen Bundesliga-Karriere und noch immer nicht Schluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Das Torverhältnis der Bayern trägt ein breites Grinsen an diesem Tag.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Der neue Mann Pavlovic, Pavlovic, es hätte gepasst zu diesem verrückten Fußballspiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Wir sind schon in der 90. Minute und schauen nochmal auf ein Lebenszeichen der Darmstädter.",
+        "kontext": "SV Darmstadt 98",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Skarke, der hält einfach mal drauf, aber da steht ja auch noch ein Manuel Neuer, der behält bei seinem Comeback die weiße Weste.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "Denn kurze Zeit später ist Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Drei rote Karten, acht Tore, eine denkwürdige Partie, in der der FC Bayern den fünften Pflichtspielsieg in Serie einfährt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 113,
+        "text": "Der einzige Wermutstropfen: Gegen den BVB werden die Münchner ohne Joshua Kimmich planen müssen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 114,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier, sind aktuelle Videos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 115,
+        "text": "Klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

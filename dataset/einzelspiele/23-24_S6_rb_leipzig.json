@@ -1,0 +1,1032 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 6,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "RB Leipzig",
+    "tabelle": 3,
+    "ballbesitz_bayern": "0.65"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Marco Fritz",
+    "kommentator": "Oliver Schmidt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Mit einem Auswärtssieg wieder auf die einzelnen Bundesliga-Charts: Das können und wollen die Münchner Meister-Abonnenten in den dunklen Trikots.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Ein erstes Foul von Schlager, die Bayern früh aufsteher, die Leipziger im Schlummermodus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Kimmich, Köln, 2 Minuten und 20 Sekunden sind gespielt, während RB Ball und Gegner aus den Augen verliert, initiieren K&K die Großchance.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Das letzte Tor von Musiala bleibt das Meistermacher-Tor in Köln und lässt mich jetzt 328 Minuten ohne Gegentor von Statthalter zum Stammkeeper.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Noch im verletzten Status der Superkampfschreck, alle drei Treffer beim 13:0 in München.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Bayern mit der einen Gelegenheit und mehr Ballbesitzanteil.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Eine Ecke kurz ausgeführt, Kimmich im Rückraum, Davies, viele Beine, kein Durchkommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Der zweite Ball für Kane oder doch nicht?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Charlie Simons und noch wird das was.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Ulreich aufmerksam, dann schludrig, irgendwie Fußballberghausen, mehr als 40 Metern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Das Tor war leer und bleibt leer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Eine erste bayerische Unsicherheit, beinahe als Torvorlage für die Gastgeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Vorlage Ulreich und dann Forsberg, dem fehlt nicht viel zum Leipziger Glück.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Und wir schauen auf Thomas Tuchel, der sieht das Unheil früh kommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Der Trainer staunt, der Zuschauer und dann irgendwie fassungsloser Analyst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "12 Minuten sind rum, Marco Rose ein erstes Mal im Paarlauf-Modus.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Mehr Ballbesitz Bayern, bessere Zweikampfquote Leipzig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Einwurf RB, Poulsen, Schlager, Münchens Mitte, Schlager gegen Verteidiger, zwei neue unterwegs.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Schauen wir auf die Entstehung des Führungstreffers.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Entscheidend abgefälscht von einem Gegentor in der Entstehung eines Meisters nicht würdig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Tuchel ist sauer und die Videoanalyse wirkt ja sicherlich nicht als Stimmungsaufheller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Im Mai und August gegen Leipzig verloren, heute ein drittes Mal in Serie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Die Rasenballsportler bleiben die schnellere Mannschaft.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Schiedsrichter Marco Fritz gibt Ecke Leipzig, die Bayern wollen Abstoß.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Die Wiederholung offenbart: kein Foulspiel, aber auch keine Ballberührung von Openda zuletzt am Ball oder nicht.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Das darf vom VAR nicht geprüft werden, also bleibt es dabei.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "RB dafür Traum, der Linksfuß unternimmt das mit Zug zum Tor.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Was macht Ulreich? Castello Lukeba, 2:0, 26 Minuten.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Dritter Vorstoß, zweiter Treffer für den Pokalsieger und wieder mit freundlicher Unachtsamkeit der Bayern.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Ulreich auf Irrwegen im eigenen Hoheitsgebiet, Openda mehr Zufallsvorlage, aber egal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Torpremiere für den 20-Jährigen Innenverteidiger, für 30 Millionen geholt aus Lyon.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Openda, Verletzungspech, sein Spielglück.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Bayerns sechstes Gegentor der Saison, das vierte nach einer Standardsituation.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Supercup deutet sich nicht nur an, so langsam werden dem Meister diese Leipziger lästig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Immer noch ein deutliches Plus an Ballbesitz, aber sie sehen ja, wo: fernab der torgefährlichen Räume.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Ein sinnloses Solo, Kimmichball, Bayerns einzige Chance, die war ganz früh nach weniger als 3 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Diese Herausforderer aus Sachsen machen sich aber, wenn sie offensiv agieren, dann zerreißt es eine bayerische Defensive.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Und Henrichs, wieder ein Steilpass, wieder Openda, vorbei an Ulreich, keine Elfmeter, Abseits zeigt Schiri Fritz an.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Diese Entscheidung steht auch nach Videoüberprüfung und Strafstoß wäre für mich eh nicht gewesen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "45. Minute, Rose als Ruhepol im Leipziger Bällebad.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Nachspielzeit dann in der ersten Hälfte, nimmt Leipzig die 2:0-Führung mit in die Pause.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Leipzig greift in die Trickkiste, endlich mal offene Räume tief im Angriffsspiel Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Fast 45 Minuten Pause, München, zweiter Torschussraum, vollendet, leitet er seine einzige Chance selbst ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Ein Hoffnungsschimmer vor dem Pausenpfiff.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Der Bundestrainer Julian Nagelsmann beim Topspiel seiner beiden Ex-Clubs.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Starke Bayern wären wichtig für seinen Job.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Oben digital, unten analog, Thomas Tuchel bringt Raphael Guerreiro, er kommt für Goretzka und geht auf die Doppelacht bis Zehn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Neu ebenfalls Mathys Tel als Linksaußen für Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Neues Personal, altbekannter Protest.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Die Bayern-Fans vergeben sich selbst die Sicht und offenbaren ihre Abneigung gegen RB.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Sportlich rein in die zweite Hälfte, 55. Minute, Freistoß Kimmich, jetzt Solo-Sechser, unsere Nähe stehen bereit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Die Bayern brauchen Abschlüsse.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Sané, der Ball bleibt hängen an der Mauer, kein Tor der Ecke und ein Protest.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Aufgepasst, Henrichs' Ellbogen geht raus, eine aktive Bewegung in die Schussbahn.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Marco Fritz besucht die Stadion-Videothek, Videoassistent Pascal Müller, und am Ende folgt die logische Entscheidung: Handspiel, und deshalb Strafe für die Bayern, völlig korrekt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Rose gefasst und dann Harry Kane gegen Janis Blaswich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Unsichtbar, neun Ballkontakte Harry Kane, nur noch eins, zwei aus München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Vom Punkt her bisher makellos, vier Elfmeter, vierter Treffer, erstmals schießt er nach rechts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Blaswich kann es doch nicht verhindern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Bayern sind wieder dran.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Thomas Müller und Thomas Tuchel stehen für ein Halleluja.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Seine Bayern übernehmen den Taktstock, nicht nur quantitativ mehr Ballbesitz, sondern jetzt auch qualitativ.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Neue Spieler, neue Formation, die Gäste erobern sich neue Räume und immer wieder auch neue Bälle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Zieht gleich drei Mann auf sich, Ball verloren, aber Ball wird zurückgeholt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Kimmich gegen Kampl, Raphael Guerreiro, beinahe der schnelle Ausgleich, 60 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "\"Ich mag alles, was er macht\", sagte Tuchel gestern auf der PK über den Portugiesen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Ein belebendes Element nach langer Verletzungspause.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Das Spiel hat auch Pausen, RB sowieso, die zweite Hälfte bisher ohne Tor gefahren.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "70 Minuten mittlerweile, verdient.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "15 Sekunden liegen zwischen der eigenen Ecke für Leipzig und dem Gegentor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "RB wird mit den eigenen Mitteln geschlagen, weil Eroberer Ballvirtuose Ballverteiler Jamal Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Sané reizvoll gut, statt aufreizend, lässt sich in dieser Saison sein sechster Treffer, sein fünfter der Liga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Wegbereiter Musiala, aber Schlager riskiert noch Rot, selbst das klappt nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Und plötzlich jubeln doch wieder die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Thomas Tuchel, dieses Tor ist mehr wert als eine Frau.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Marco Rose insgesamt überraschend cool, ob bei Torjubel oder Gegentor-Trauer.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Danach ist lange Pause in den Schlafräumen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Nachspielzeit sechs Minuten, die Bayern und ihre zwei Gesichter, das hat Kontinuität.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Lassen sie jetzt Leipzig noch mal aufkommen?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Ich habe sie immer uns beschleunigt, das ganze.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Carvalho, die beiden Joker, die Flugshow des Slowenen, den Fehlern hier aber gleich mindestens drei Schuhgrößen für ein Happy End.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Phasenweise ist es ein Topspiel, die Endphase auf jeden Fall turbulent.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Gibt's hier noch einen Sieger?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Gegen drei, gegen vier, seine Wackler, Harry Kane mit der Flanke für Eric Maxim, sein Kopfball, 90+4.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Verlieren die Bayern die Tabellenführung wieder nach einem Spieltag an der Spitze?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Ein Punkt reicht nicht für Platz 1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Kim Davies geht noch mal voran.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Dann sei weiter zwischen mit dem langen Bein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Carvalho, Xavi Simons und Netzball, Benjamin Henrichs in der 95. Minute vergeben bzw. abgewehrt von Sven Ulreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Verrückt gefährlich seine Aktion, aber wirkungsvoll.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Und das nach seinem Fehler beim 0:2.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "So cool, so ein Timing von Sven Ulreich hier, das lange Bein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Aber auch hier, Xavi Simons, ein Pass wie ein Pinselstrich eines Ausnahmekünstlers.",
+        "kontext": "RB Leipzig",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Ulreich macht die Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "2:2, ein verdientes Endergebnis.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 95,
+        "text": "Leipzig gewinnt die erste, Bayern die zweite Hälfte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 96,
+        "text": "Kein dritter Sieg in Serie, zum vierten Mal aber bleibt RB ohne Niederlage gegen den Rekordmeister.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 97,
+        "text": "Die einen bleiben zu Hause, die anderen auswärts unbesiegt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 98,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 99,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier, sind aktuelle Videos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 100,
+        "text": "Klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

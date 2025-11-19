@@ -1,0 +1,962 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 21,
+    "heim_auswaerts": "Heim",
+    "gegner": "SV Werder Bremen",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.75"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Sören Storks",
+    "kommentator": "Adrian von der Groeben"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Es ist ein Klassiker der Fußball-Bundesliga: Nord gegen Süd, Grün gegen Rot, Hansestadt gegen Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Der SV Werder Bremen ist zu Gast beim FC Bayern München.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Was früher ein Topspiel war, ist heute weit davon entfernt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Werder hat zuletzt vor 15 Jahren das internationale Geschäft erreicht, während die Bayern Dauerbrenner in der Champions League sind.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Dementsprechend sind sie auch heute wieder klarer Favorit und von Beginn an tonangebend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "Sacha Boey mit dem ersten Torschuss in der 8. Minute, kein Problem für Michael Zetterer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Die Münchner zeigen sofort, wer Herr im Haus ist, haben ganz klar die Spielkontrolle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Sobald der Gast in Ballbesitz kommt, greift das Gegenpressing.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Bayern kommt wieder in Ballbesitz, legt sich den Gegner zurecht und dann geht es schnell über außen in die Spitze.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Olise auf Musiala, Zetterer pariert und dann klären die Bremer über Umwege.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Durchgesteckt von Michael Olise versucht Jamal Musiala es mit dem gefühlvollen Schlenzer, aber Zetterer ist in der 17. Minute zur Stelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Die Gastgeber sind auf der Suche nach der Lücke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Die Grün-Weißen machen es eng und setzen auf Ballgewinne und zügiges Umschaltspiel.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "So wie hier: Balleroberung von Mitchell Weiser gegen Coman und dann geht es mit dem schnellen Justin Njinmah in die andere Richtung.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Aber Min-jae Kim mit gutem Abwehrverhalten in der Rückwärtsbewegung lässt Bremens Kontermöglichkeit nach 20 Minuten verpuffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Immerhin der Tabellenachte mit der ersten Offensivbemühung, und die nächste folgt nur 2 Minuten später.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Bremen erst mit kontrolliertem Aufbau und dann der lange Schlag von Stage, den Guerreiro unfreiwillig für Mitchell Weiser vorstoppt.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Der behauptet sich, Doppelpass mit Ducksch und dann die Ablage in den Rückraum für Marco Grüll.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Erste richtig ordentliche Chance für den SVW, schön und schnell kombiniert.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Gute Schussposition für den Österreicher, doch Joshua Kimmich steht im Weg.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Das alles wird genau beobachtet auf der Tribüne vom kältegeschützten und gesperrten Werder-Coach Ole Werner, der an der Seitenlinie von seinem Co-Trainer Patrick Kohlmann vertreten wird.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Doch den kurzen Bremer Aufstand bekommen die Bayern schleunigst wieder in den Griff, natürlich mit Ballbesitz und daraus resultierender Spielkontrolle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Knappe halbe Stunde rum, Flanke von Kimmich aus dem Halbfeld.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Da sind aber nur Pieper und Weiser, doch die behindern sich gegenseitig und so entsteht die Chance für Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Ordentlicher Versuch des Franzosen, der beinahe das Missverständnis in der Werderaner Abwehr ausnutzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Doch die richtig klaren Torchancen kann sich der Rekordmeister nicht herausspielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Das liegt natürlich am Gast von der Weser, der dicht gestaffelt im und um den eigenen 16er steht und gut verschiebt.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Dann muss man es halt aus der Distanz probieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Michael Olise mit dem Versuch aus rund 17 Metern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Bis hierhin scheint Bremens Plan aufzugehen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Der SVW erweist sich nach 33 Minuten als hart zu knackende Nuss für Vincent Kompanys Team, dem das Tempo und die Tiefenläufe fehlen.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Bis zur 38. Minute: Da startet Musiala in die Tiefe, bekommt den Ball von Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Der Chip in die Mitte zu Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Erste Aktion des Engländers nach gutem Laufweg und toller Vorarbeit von Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Der Toptorjäger der Bundesliga bekommt zu wenig Stirn hinter den Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Weiter 0:0, weil Bremen kaum etwas zulässt, gut verteidigt und den Hausherren im Strafraum überhaupt nichts anbietet.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Flanke vom auffälligen Olise, Pieper ist da, klärt aber genau ins Zentrum vor die Füße von Alexander Pavlovic.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Der Schuss landet in Zetterers Armen und war gar nicht so ungefährlich, denn Amos Pieper fälscht den Ball noch ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Vincent Kompany wirkt nicht begeistert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Seine Mannschaft kann die Dominanz nicht in Treffer umwandeln.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Geht es etwa torlos in die Halbzeitpause?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Letzte Aktion in der Nachspielzeit des ersten Durchgangs mit der Flanke auf Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Da wäre sie fast gewesen, die Münchner Pausenführung, doch Kanes Kopfball geht ganz knapp am Tor vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Und so geht es schiedlich friedlich ohne Tore in die Kabinen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Ein Ergebnis, mit dem das grün-weiße Fanlager sehr gut leben kann.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Nach dem Seitenwechsel geht es gut los.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Keine halbe Minute gespielt, Jamal Musiala mit guter Körpertäuschung tritt an, beschäftigt vier bis fünf Bremer und legt dann quer für Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Ein Raunen geht durch die Arena.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Der Knaller klatscht an die Latte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Der Hammer des 31-Jährigen lässt das Bremer Tor erzittern und löst beim Aluminium Angstschweiß aus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Dieser Schuss ist eine Ansage für den zweiten Abschnitt und die Bayern kommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "54. Minute: Upamecano zu Kimmich, der hat den Kopf oben und sucht im Strafraum natürlich Kane, eng bewacht von Jung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Und plötzlich reklamiert Kane vehement.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Es ertönt ein Pfiff, der Unparteiische Sören Storks zeigt auf den Punkt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Es gibt Elfmeter für München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Und auch wenn die Bremer anderer Meinung sind, weil der Ball aus kurzer Distanz auf den Arm fällt, ist diese Entscheidung korrekt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Denn Anthony Jung hat den Arm ausgefahren und unterbricht so Kanes Aktion regelwidrig.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Das Duell vom Punkt heißt Michael Zetterer im Bremer Tor gegen natürlich Harry Kane.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Und der verwandelt ganz sicher und verlässt den Bremer Schlussmann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Aber auch wenn Zetterer die richtige Ecke geahnt hätte, der Strafstoß ist viel zu hart und platziert geschossen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Harry Kane ist der Spezialist vom Punkt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Saisontreffer Nummer 20 für den Kapitän der Three Lions.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "56. Minute: die lang ersehnte 1:0-Führung für die Bayern, die nach einer knappen halben Stunde sofort nachlegen wollen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Mit Olise auf Harry Kane, nächste dicke Chance für Kane, nächster guter Pass von Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Und nur selten sieht man, dass dem Weltklasse-Angreifer so ein Ding über den Schlappen rutscht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Danach plätschert die Partie eine gute Viertelstunde vor sich hin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Bis zur 76. Minute: Olise zu Pavlovic, weiter zu Guerreiro und der sucht am Fünfer Michael Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Unsauberer Kopfball, da war deutlich mehr drin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Zwei Minuten später: Von einem Bremer Aufbäumen ist nichts zu spüren, weil Werder in der eigenen Hälfte gebunden ist.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Der Tabellenführer schnürt den Gegner wie beim Handball im eigenen 16er ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Joshua Kimmich aus der Distanz, der Schuss ist leichte Beute für Michael Zetterer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "In der 81. Minute ist der Arbeitstag für Alexander Pavlovic und Kingsley Coman beendet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Vincent Kompany bringt Leon Goretzka und letzterer hat keine Anlaufschwierigkeiten, um in diese Partie zu kommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Ist gerade einmal eine gute Minute auf dem Platz und stellt auf 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Der Joker sticht, Vincent Kompany mit goldenem Händchen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Musiala steckt für Goretzka durch und der Österreicher mit tollem Laufweg, viel Ruhe, perfekter Vorlage für Leroy Sané, der Pieper und Weiser abschüttelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Dem Spielverlauf zu urteilen, müsste das die Vorentscheidung sein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Aber wir erinnern uns ja noch alle an das 4:3 gegen Kiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Deshalb bleibt der FC Bayern auf dem Gaspedal und will das 3:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Laimer hat's auf dem Fuß, Zetterer verhindert in der zweiten Minute der Nachspielzeit mit dem Oberkörper.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Eine Minute später wieder die Roten: Musiala raus zu Kimmich, gefühlvolle Hereingabe für Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Tolle Flanke von Joshua Kimmich, Kane steht in der Luft und drückt den Ball wuchtig aufs kurze Eck.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Doch Bremens bester, Michael Zetterer, vereitelt den dritten Gegentreffer.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Letzte Minute der Nachspielzeit: Natürlich ist die Begegnung jetzt entschieden, doch Musiala hat noch Lust und fordert die Bremer Hintermannschaft noch zum Tänzchen auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Allerdings ist Anthony Jung nicht nach Tanzen zumute und so verursacht der 33-jährige Innenverteidiger den zweiten Strafstoß in diesem Spiel.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Musiala in seiner unnachahmlichen Art nimmt es im Slalomlauf fast mit der ganzen Bremer Defensive auf und dann stellt Jung Musiala das Bein.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Aber bei der kurzen Ballberührung von Olise muss noch eine knappe Abseitsentscheidung überprüft werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Enge Entscheidung, aber es ist kein Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Es ist ausgerechnet Jung, der das Abseits aufhebt.",
+        "kontext": "SV Werder Bremen",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "So steht die Entscheidung und es bietet sich für Mr. Penalty die Möglichkeit, einen Doppelpack zu schnüren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Und das lässt sich Harry Kane natürlich nicht entgehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Saisontreffer Nummer 21 für Kane, der bisher alle seine Strafschüsse für die Münchner verwandelt hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Den letzten verschoss er bei der knappen 1:2-Niederlage im WM-Viertelfinale gegen Frankreich am 10. Dezember 2022.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Bayern schlägt Bremen hochverdient mit 3:0 und marschiert weiter vorne weg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

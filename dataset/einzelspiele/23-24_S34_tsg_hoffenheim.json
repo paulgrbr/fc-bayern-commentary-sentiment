@@ -1,0 +1,1012 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 34,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "TSG Hoffenheim",
+    "tabelle": 3,
+    "ballbesitz_bayern": "0.52"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 4
+  },
+  "offizielle": {
+    "schiedsrichter": "Marco Fritz",
+    "kommentator": "Moritz Zschau"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Nach 12 Jahren werden die Bayern erstmals wieder eine Saison ohne einen Titel beenden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Es wären aber nicht die Bayern, wenn es nicht trotzdem darum ginge, einen Rekord auszubauen, denn die Münchner sind auch noch Rekord-Vizemeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Wir sind in der ersten Minute: Mathys Tel scheitert an Baumann, der ist sofort hellwach.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Tel beginnt für den Toptorjäger der Liga, Harry Kane, der nach einer Rückenblockade gar nicht mit nach Sinsheim gereist ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Die Bayern mit einem offensiven Beginn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Goretzka, der Frust über seine Nicht-Nominierung zur EM ist ihm nicht anzumerken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Davies wackelt Kabak aus, Müller auf Tel, 1:0 nach 4 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Jubel bei den Bayern und die Führung ist schon jetzt verdient.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Mit seinem Saisontor nimmt Thomas Tuchel es gelassen in seinem letzten Spiel als Bayern-Coach.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Von hinten raus spielt der Rekordmeister geduldig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Davies zieht mit Tempo in den Strafraum, Kaderabek kann die Flanke nicht verhindern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Wie Müller den dann querlegt, das ist schon Extraklasse.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Tel muss nur noch den Kopf hinhalten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Die Bayern also früh auf Kurs Vizemeisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Mit einem Punkt wäre Platz 2 sicher, der ja auch im Falle eines Leverkusener Pokalsieges die Teilnahme am Supercup bedeutet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Zwei Minuten später: Tel diesmal als Vorbereiter für Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Was ist denn hier los?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Letzte Woche hat Hoffenheim nach 6 Minuten mit 2:0 in Darmstadt geführt, jetzt läuft es gegen den FCB genau anders herum.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Die mitgereisten Münchner Fans sorgen für Partystimmung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Für die TSG sieht es eher nach einem ordentlichen aus nach der Gala bei den Lilien.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Tel nach 6 Minuten schon mit zwei direkten Torbeteiligungen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Der Franzose legt sich den Ball mit Hilfe von Grillitschs Schienbein selbst vor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Davies dann wieder einmal zu schnell für die Hoffenheimer Defensive.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Der bayerische Schnellzug überrollt die TSG in den ersten Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Aber die Kraichgauer finden nach dem Doppelschlag die Notbremse.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Kein Foul von Upamecano an Bebou, das Spiel läuft weiter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Neuer mit dem Spielaufbau, der geht aber gehörig schief.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Kramaric, was macht der denn da?",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Immer noch Kramaric, Beier kommt dazu und drückt ihn doch noch über die Linie.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Was ist das für eine verrückte Anfangsphase?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Drei Tore nach 8 Minuten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Ein Wunder ist das allerdings nicht, immerhin treffen hier die beiden Teams mit den torreichsten Spielen aufeinander.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Manuel Neuer, sonst bekannt für seine Passsicherheit, unterläuft dieser Fehlpass in die Füße von Bebou.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Kramaric vertändelt das Ganze fast, spitzelt den Ball aber mit letzter Kraft rüber zu Maximilian Beier.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Und Hoffenheims Toptorjäger krönt seine persönlich perfekte Woche.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Am Donnerstag ist Beier in den EM-Kader berufen worden.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Jetzt bringt er Pellegrino Matarazzo zum Jubeln.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Durchatmen ist nicht erlaubt in den ersten 20 Minuten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Die Bayern kontern über Müller, Laimer ist mitgelaufen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Konrad Laimer, Baumann ist zur Stelle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Zum Abschied von Thomas Tuchel wollen die Münchner unbedingt noch mal einen Sieg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Es hat noch mal Gespräche gegeben zwischen Tuchel und den Bayern-Bossen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Zusammengefunden hat man allerdings nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Die Odyssee der Münchner Trainersuche setzt sich also weiter fort.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Eine halbe Stunde ist gespielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Kramaric gegen Davies, vorbei am Engländer Beier aus dem Rückraum.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Die TSG hat eine ganz besondere Statistik gegen die Bayern.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "In den letzten 5 Jahren hat Hoffenheim nie beide Spiele gegen den Rekordmeister verloren.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Die Münchner verlieren nach 34 Minuten dann Alexander Pavlovic.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Bange Blicke sicher auch bei Nagelsmann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Der Youngster kann angeschlagen nicht weiterspielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Es wirkt nach dem furiosen Beginn etwas träge, aber Tore liegen jederzeit in der Luft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Müllers Schuss noch abgefälscht von Bülter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Für Thomas Müller auch ein besonderes Spiel heute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Es ist sein 473. für die Bayern, damit zieht er mit Rekordhalter Gerd Müller gleich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Nachspielzeit der ersten Hälfte: Beier nimmt wieder Tempo auf und spielt dann im richtigen Moment zu Kramaric.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Der Abschluss etwas unplatziert.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Damit steht es zur Pause 2:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Die Bayern auf Kurs Vizemeisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Thomas Tuchel schreitet zu seiner letzten Halbzeitbesprechung als Bayern-Trainer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Ohne Wechsel und auch nicht ganz so spektakulär wie in Hälfte 1 geht es zurück auf den Rasen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Goretzka auf Müller, der macht es selbst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Sieht in der Realgeschwindigkeit aber deutlich knapper aus als in der Wiederholung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Es laufen schon die letzten 25 Minuten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Kramaric zieht einfach mal ab, Neuer mit einem Arm.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Upamecano bereinigt anschließend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Was fällt der TSG noch ein?",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Für die geht es ja noch um Platz 6 und damit um die Europa League.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Schnell ausgeführter Einwurf auf Bebou, Kramaric, Ausgleich!",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Der Torschütze am Boden.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Kramaric prallt unglücklich mit Upamecano zusammen, kann aber gleich weitermachen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Matarazzo jubelt währenddessen und treibt sein Team gleich wieder nach vorne.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Kimmich bekommt keinen Freistoß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Hoffenheim reagiert blitzschnell, bedient Andrej, der trifft besonders gerne am Saisonende.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Es ist sein neunter Treffer an einem 34. Spieltag.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Die Bayern sind sofort um eine Antwort bemüht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Davies locker leicht vorbei an Kaderabek, Müller, der lauert schon wieder im Strafraum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Diesmal ist es deutlich knapper als vorhin, trotzdem fehlen ein paar Zentimeter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Fünf Minuten noch auf der Uhr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Alles deutet jetzt auf ein Unentschieden hin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Jurasek auf Bischof, Kramaric, Kramaric!",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Hoffenheim dreht das Spiel.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Ein 0:2 gegen die Bayern aufholen, das musst du erstmal hinbekommen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Jurasek eingewechselt, Bischof eingewechselt und Kramaric macht das, was er am liebsten macht: Tore schießen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Neuer verschätzt sich dann offensichtlich beim Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Den Bayern bleiben jetzt noch 3 Minuten, um die Vizemeisterschaft zu retten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Der lässt Beier ins Leere rutschen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Upamecano auf Neuer, wieder so ein riskanter Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Laimer kann nicht behaupten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Kramaric, unglaublich!",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Dreierpack von Andrej Kramaric.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Das Pressing der TSG geht heute voll auf.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Kramaric behält im Strafraum die Ruhe und schiebt dann völlig entspannt ein zum 4:2.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Es ist der Schlussakkord einer denkwürdigen Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      },
+      {
+        "index": 94,
+        "text": "Hoffenheim gewinnt mit 4:2 gegen die Bayern, bleibt aber trotzdem Tabellen-7.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      },
+      {
+        "index": 95,
+        "text": "Tuchels Abschiedsspiel wird in keiner guten Erinnerung bleiben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      },
+      {
+        "index": 96,
+        "text": "Die Münchner haben im Sommer viel Arbeit vor sich, während sich Hoffenheim schon jetzt auf die Europareise freuen kann.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      },
+      {
+        "index": 97,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      },
+      {
+        "index": 98,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 4,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

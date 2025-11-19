@@ -1,0 +1,1712 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 30,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "1. FC Union Berlin",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.63"
+  },
+  "ergebnis": {
+    "bayern": 5,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Sven Jablonski",
+    "kommentator": "Oliver Schmidt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Erster FC Union Berlin in Rot und Weiß gegen den FC Bayern München.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Seit sechs Tagen haben diese Bayern Gewissheit: Bayer ist neuer deutscher Meister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Seit drei Tagen hat die Saison wieder einen tieferen Sinn für den Rekordmeister: die Aussicht auf den Henkelpott in zehn Tagen gegen die Galaktischen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Heute gegen die Eisernen - ein schwieriger Spagat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Die erste Minute läuft noch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Union kommt, Fehlpass von Leon Goretzka.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Benedikt Hollerbach hat gut vorhergesehen und macht Meter.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Links Robin Gosens, die erste Flanke, ein Seitenwechsel.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Rechts Kapitän Christopher Trimmel, einmal mit rechts, einmal mit links.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Nach nicht einmal 60 Sekunden erstmals Strafraum-Alarm.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Zurück nach Gelb-Rot-Sperre mit sechs Treffern: Unions Toptorjäger, der rechts sucht den Linksverteidiger.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Am Ende weder Gosens noch Manuel Neuer am Ball.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Es ist das siebte Bundesliga-Duell zwischen Berlin-Köpenick und München-Giesing.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Noch keines haben die Bayern bisher verloren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Neu zusammengewürfelte Anfangsformation, altbekannte Protagonisten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "5. Minute: Raum und der erste Abschluss von Harry Kane aus der Distanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Normalerweise ist der Strafraum eher das Torrevier des Engländers.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Die Gäste kommen über Mathys Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Der Franzose beginnt auf rechts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Thomas Müller, Joshua Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Müller will den Ball wieder haben und bekommt ihn auch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "6. Minute: Bein früh gemüllert in seinem 47. Bundesligaspiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Es ist ein munterer Start in dieses Abendspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Wieder die Bayern, die sich diesmal nicht aufs Umschaltspiel beschränken können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Über links, über Eric Maxim Choupo-Moting, der nächste Torschuss aus der Ferne.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Aus der Königsklasse abgerutscht in den Klassenkampf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Jahrelang ging es für Union nur bergauf.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Erstliga-Jahr 5 soll nicht das vorerst letzte sein.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Kevin Volland macht den Ball fest, um dann Hollerbach auf die Reise zu schicken.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Ungleiches Laufduell mit Eric Dier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Der bekommt Verstärkung von Kim.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Im Rückraum warten drei Unioner und Leon Goretzka.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Situation geklärt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "18. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Es ist kein spektakulärer Auftritt des FC Bayern, aber ein sehr gewissenhafter Ballbesitz-Fußball gegen einen tiefstehenden Gegner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "In dieser Spielzeit nicht gerade die Parade-Disziplin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Bis hierhin aber lässt sich das gut an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Immer wieder Kane als Flankengeber für Leon Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Minute 28: Zusammenspiel von Mittelstürmer und Mittelfeldspieler in vertauschten Rollen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Dazu der Doppeldaumen von Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Die beste Offensive der Liga kommt aus München und auch ohne die beiden besten Torjäger hinter Kane, nämlich...",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "und dominiert der FCB und Leon Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "1:0 FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "29. Minute: Der Pass von Tel eine Augenweide, aber erst Müllers Beintunnel macht den Weg frei für Goretzkas fünftes Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Davon drei in den letzten sechs Partien.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Da will einer zur Europameisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Blicken wir auf die Bayern-Bank.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Fast alle reißen es vom Hocker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Thomas Tuchel bleibt gelassen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Noch sieben, maximal acht Spiele für ihn als Bayern-Cheftrainer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Andere Coaching-Zone: Nenad Bjelica hat den Existenzkampf ausgerufen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Jetzt wird's schwierig.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Nach einem 0:1-Rückstand gab's bisher keinen Sieg.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Defensiv die ein oder andere Nachlässigkeit, offensiv der ein oder andere vielversprechende Ansatz.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Das Union-Zwischenfazit: Neuer gefordert.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Die Gastgeber hartnäckig auf der Jagd nach dem zweiten, dritten Ball.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Und abgefälscht vorbei.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Beinahe der schnelle Ausgleich für die zweitschlechteste Torfabrik der Liga.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "33. Minute: Nur ein Sieg in den letzten sieben Spielen, dabei fünfmal torlos.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Statistiken aus dem Liga-Souterrain.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Aber Union wehrt sich gerne über die Außen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "Trimmel rechts und Gosens links.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Robin Gosens, Manuel Neuer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 63,
+        "text": "Beste Berliner Chance.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 64,
+        "text": "42. Minute: Der Seitenwechsel ein fast schon klassisches Union-Element.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 65,
+        "text": "Gosens mit vollem Risiko, Neuer mit voller Körperspannung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 66,
+        "text": "Ein Lob für beide.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 67,
+        "text": "Robin Gosens, Goretzka, einer der noch gerne seinen Urlaub verschieben würde fürs EM-Ticket.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 68,
+        "text": "Auswärts nur ein Erfolg in den vergangenen sieben Spielen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 69,
+        "text": "Die ungewöhnliche Bayern-Bilanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 70,
+        "text": "Pavlovic, Schiedsrichter Sven Jablonski.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 71,
+        "text": "Freistoß kurz vor der Pause und sorgt am Seitenrand für Unverständnis bei Bjelica.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 72,
+        "text": "Der Trainer hat es anders, aber falsch gesehen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 73,
+        "text": "Die Zeitlupe offenbart Regelwidrigkeit von Diogo Leite.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 74,
+        "text": "45. plus 1: aussichtsreich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 75,
+        "text": "Kimmich oder Kane?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 76,
+        "text": "Harry Kane!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 77,
+        "text": "2:0 für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 78,
+        "text": "4. Pflichtspieltor, 33. Bundesligatreffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 79,
+        "text": "Acht mehr als ganz Union.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 80,
+        "text": "Spielminute: Tor für unsere Gäste, FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 81,
+        "text": "Torschütze mit 111 km/h gegen eine löchrige Berliner Mauer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 82,
+        "text": "Rönnow chancenlos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 83,
+        "text": "Noch nie spielte er gegen München zu null.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 84,
+        "text": "Und Kanes erstes Freistoßtor für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 85,
+        "text": "Und draußen wird's bunt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 86,
+        "text": "Im Hinspiel Handgreiflichkeit gegen Sané und Rot für Nenad Bjelica.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 87,
+        "text": "Hier und heute kommt er nicht raus aus seiner Defensive.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 88,
+        "text": "Er bekommt so einiges zu hören.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 89,
+        "text": "Dafür sieht er dann Gelb.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 90,
+        "text": "2:0, die verdiente Halbzeitführung für Tuchels Team.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 91,
+        "text": "Mit viel Qualm geht's dann rein in die zweite Hälfte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Aufholjagd Union, so wie zuletzt Heidenheim nach 0:2 oder Kantersieg Bayern.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Dieses Duell hat noch Potenzial.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Das Münchner Meisterabo ist abgelaufen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Der Rekordmeister ist aber auch Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Neues Ligaziel: nach Titeln in Serie zum elften Mal Zweiter werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Ball und Gegner lassen sie laufen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Goretzka, Choupo-Moting gegen Trimmel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Zwei Veteranen und da ist auch noch ein dritter Routinier.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "3:0 Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "53. Minute: Die schnelle Entscheidung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Der 30. Spieltag.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Späte noch in Müllers Sammlung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Jetzt hat der Weltmeister an allen 34 Spieltagen mindestens einmal getroffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Ohne Gegnerdruck die überlegte Variante.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Innenseite statt Vollspann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "So leicht ist das.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Tuchel, der bleibt sich treu, lässt die anderen jubeln.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Sechs Personalveränderungen ohne Leistungsabfall.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "Eine positive Erkenntnis.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Davon gibt's nebenan keine bis hierhin.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Union-Trainer reagiert mit einem Vierfachwechsel.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Einer der Neuen, hier sein Ballverlust gegen den starken Goretzka.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Kane und Mathys Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "4:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "62. Minute: Jetzt wird's bitter für Berlin.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 118,
+        "text": "Gnadenlos effizient diese Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 119,
+        "text": "Der Fehler als Ausgangspunkt.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 120,
+        "text": "Doch Umschaltsituation für die tonangebenden Gäste.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 121,
+        "text": "Vorlage Kane, Tor Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 122,
+        "text": "Generationenübergreifend von Mittelstürmer zu Mittelstürmer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 123,
+        "text": "Und siehe da, Tuchel, diesmal klatscht er ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 124,
+        "text": "Fast schon euphorisch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 125,
+        "text": "Viertes Gegentor.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 126,
+        "text": "Da hatte doch Union zumindest defensiv stabilisiert in seinen Monaten bis heute.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 127,
+        "text": "Die Bayern kamen körperlos, passiv.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 128,
+        "text": "Unions Zweikampftugenden bleiben verborgen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 129,
+        "text": "Bayern überraschend fokussiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 130,
+        "text": "Drei Tage nach dem Arsenal-Highlight.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 131,
+        "text": "Wieder Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 132,
+        "text": "Der guckt, der sucht, der findet Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 133,
+        "text": "5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 134,
+        "text": "Minute 66: Doppelpack von Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 135,
+        "text": "Tor und Vorlage von Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 136,
+        "text": "Torhüter bedient.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 137,
+        "text": "Rönnow von seinen Mitspielern im Stich gelassen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 138,
+        "text": "Noch nie verloren die Köpenicker zu Hause mit fünf Toren Differenz.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 139,
+        "text": "Die Eisernen labil.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 140,
+        "text": "Und wieder die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 141,
+        "text": "Pavlovic, der nach Krankheit auf dem Weg zur alten Form.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 142,
+        "text": "Pavlovic für Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 143,
+        "text": "Rönnow verhindert das halbe Dutzend.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 144,
+        "text": "Union hat noch vier Spiele, unter anderem gegen zwei Kellerkinder.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 145,
+        "text": "Köln, das Ganze also Chance und Risiko zugleich.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 146,
+        "text": "Immerhin defensiv durcheinander, offensiv gewillt, die Torflaute zu beenden.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 147,
+        "text": "Tel und der eingewechselte Jessen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 148,
+        "text": "74. Minute: Das Duell längst entschieden, aber längst nicht langweilig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 149,
+        "text": "Noch mal Union, noch Vertessen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 150,
+        "text": "Der gibt den Ball nicht weg.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 151,
+        "text": "Aaron und Joker Mikkel Kaufmann gelingt den Bayern 2024 endlich das erste Auswärtsspiel ohne Gegentor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 152,
+        "text": "Springen wir in die Nachspielzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 153,
+        "text": "Ein abschließender Einwurf von Vertessen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 154,
+        "text": "Gosens, siehe da, feiner Fußball mit Happy End.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 155,
+        "text": "1:5.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 156,
+        "text": "Vertessen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 157,
+        "text": "90. plus 1: Es wird gejubelt über Unions schönsten Angriffszug und den ersten Treffer seit 398 Minuten.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 158,
+        "text": "Immerhin eine Serie beendet und Bayerns Negativlauf fortgeschrieben.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 159,
+        "text": "Auswärts in diesem Jahr nie zu null.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 160,
+        "text": "Dazu der passende Ärger von Kapitän Neuer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 161,
+        "text": "Der amtliche Stand: 5:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 162,
+        "text": "Die Bayern legen vor im Rennen um die Vizemeisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 163,
+        "text": "Union hat keine Chance gegen die Top-5-Teams der Liga.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 164,
+        "text": "Zehn von zehn Duellen verloren.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 165,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 166,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 167,
+        "text": "Hier sind aktuelle Videos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 168,
+        "text": "Klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

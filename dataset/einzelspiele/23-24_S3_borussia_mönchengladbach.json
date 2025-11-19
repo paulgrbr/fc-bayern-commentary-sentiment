@@ -1,0 +1,1052 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 3,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "Borussia Mönchengladbach",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.65"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Deniz Aytekin",
+    "kommentator": "Martin Schneider"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Dann also rein in den Borussia-Park, ins Klassiker-Duell, in dem die Bayern seit fünf Spielen und mehr als zwei Jahren auf einen Sieg warten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 1,
+        "text": "Dritte Minute: Joshua Kimmich ist vielleicht kein Sechser, aber immer noch der Mann für die Standards.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Kopfball von seinem Kumpel Leon Goretzka, der testet die Nervenstärke von Moritz Nicolas.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Zweites Bundesligaspiel, ein erstes Nachfassen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Neun Minuten lang steht die Borussia tief, zu tief, kann sich dann erstmals befreien über Cvancara, über Florian Neuhaus.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Und dann kommt mit langen Schritten ein optimistischer Österreicher über links, Maximilian Wöber.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Sven Ulreich zieht zurück, über einen der Neuen, ausgeliehen von Leipzig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Die Bayern haben viel Ballbesitz, meist ineffektiv, finden Harry Kane noch nicht, der sich aber hier im Gegenpressing einbringt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Dann das Foul von Ko Itakura an Leroy Sané, schnell ausgeführt auf Freistoß.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Sie hat sogar Kimmich auf Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Zweite Mini-Bewährung für Moritz Nicolas, und Farke schiebt seine Fohlen weiter nach vorne auf der großen Wiese.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Knapp 20 Minuten gespielt, und die Bayern tun sich grundsätzlich schwer gegen die neue Viererkette Gladbachs.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Das Tempo meist etwas zu niedrig, aber diesmal fällt ihnen etwas ein, weil nach dem Pass von Mazraoui Thomas Müller guckt und eine Idee hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Kane ist nicht da, aber Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Sané mit links, knapp links vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Dessen Abschluss nicht so zielsicher wie sonst, aber der deutsche Nationalspieler ist schon in beachtlicher Zufall.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Die Gladbacher werden in der Folge mutiger, spüren, dass die Bayern nicht sonderlich viel zu bieten haben.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Das ist Itakura, das ist Maximilian Wöber.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Handspiel von Bayerns einzigem gelernten Rechtsverteidiger Noussair Mazraoui.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Der Marokkaner, schon gelb verwarnt, muss jetzt mächtig aufpassen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Freistoß, eine Sache für Alassane Pléa.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Gladbach ist klar, Marvin Friedrich und 20 Minuten [Applaus] spektakulär und bekommt Hilfe von der Latte.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Der Innenverteidiger, fast ein Neuzugang, kaum gespielt unter Daniel Farke, hier unterstreicht er seine offensiven Qualitäten.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Eine Chance, die als Booster fürs Selbstvertrauen wirkt.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Es bleibt ein Spiel der Standardsituationen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Knapp eine halbe Stunde vorbei, Alassane Pléa von rechts mit rechts über den zweiten Pfosten hinaus.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Wer ist da? Ko Itakura, der Abwehrchef, zum 1:0 für Borussia Mönchengladbach.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "29 Minuten, es ist das zweite Saisontor des Japaners.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es ist von Coman und Goretzka, die Itakura aus den Augen verlieren, und der mit einer genialen Kopfball-Bogenlampe.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Keine Chance, wie wir in dieser Zeitlupe noch mal sehen, für Sven Ulreich, den Neuer-Vertreter [Applaus].",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Die Reaktion der Bayern: Harry Kane muntert auf, wie das ein Führungsspieler so macht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Und wir schauen auf die Bayern-Bank.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "So erlebt Thomas Tuchel sein erstes Gegentor in einer ersten Hälfte als Bayern-Trainer: stoisch, versteinert, dann analytisch mit den Co-Trainern Luv und Anthony Barry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Was gut funktioniert, kann man doch weiter praktizieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Pléa auf Julian Weigl.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Weigl, Ulreich ist da.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Zweiter Ball für die Borussia, Pléa noch mal, Weigl, der wird kein Torjäger und kein Flankengott mehr.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Christoph Freund, Bayerns neuer Sportdirektor, besorgt auf der Bank, drei Plätze neben dem Cheftrainer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Bayern braucht eine Reaktion, und die sieht erstmal so aus: Steckdose Kimmich, zweiter Ball jetzt wieder für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Das ist der Marokkaner, Kimmich mit links, und da kommt Moritz Nicolas angeflogen, schnappt sich den Ball, bevor Thomas Müller möglicherweise den Ausgleich erzielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Knapp 40 Minuten vorbei, und die Bayern sind jetzt erst jetzt so richtig angekommen in diesem Spiel, setzen sich direkt vor der Nordkurve Gladbachs fest.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Passt Thomas Müller genau, hallo an die Latte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Die größte, vielleicht sogar die einzige Chance der Bayern in dieser ersten Hälfte durch Leroy Sané mit seinem schwächeren Fuß, der dennoch ein starker ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Und Moritz Nicolas hatte wieder mal die Finger im Geschäft.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Leroy Sané bleibt verhaltensauffällig, sein Pass abgeblockt, landet bei Alphonso Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Der Kanadier auch mit dem schwächeren rechten, kein Problem für Moritz Nicolas, der mit einem tollen Start-Debüt für Gladbach zur Pause.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Die Bayern haben 60% Ballbesitz, aber Gladbach schießt das Tor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kane nicht zu sehen, Gladbach viel physischer als noch vor einer Woche gegen Leverkusen, und deswegen geht die Pausenführung absolut in Ordnung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Kommt zur zweiten Hälfte für den gelb-rot gefährdeten Österreicher, einzige Alternative hier für die rechte Seite im ausgedünnten Bayern-Kader.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Leroy Sané, da schnappt sich den Römer ein bisschen Frust, ein bisschen Ärger über diese erste Hälfte und über den Rückstand, über das weitere Hinterherlaufen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Aber die Bayern jetzt auch angepiekst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Min-jae Kim mit Alphonso Davies, mit Kingsley Coman, kleines Tänzchen des Franzosen und wieder mal spektakulär, eine klassische Torwartparade von Moritz Nicolas, seine Flugshow im Borussia-Park.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Wenn die Bayern müssen, können sie meistens auch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Die Pässe werden genauer, die Aktionen effektiver.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Kingsley Coman bleibt am Ball, und im 16er zeigt Leon Goretzka eine seiner Stärken, aber Ko Itakura rettet für den diesmal geschlagenen Nicolas.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Goretzka wird auch stärker nach seiner Nicht-Nominierung durch Bundestrainer Hansi Flick.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Schon jetzt im 23. Minuten-Takt für die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Thomas Müller nach der Pause jetzt zweite Spitze neben Harry Kane, immer Thomas Müller in dieser Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Die Bayern kommen Spielzug um Spielzug dem Ausgleich näher, wieder nur zwei Minuten später.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Bayern lassen den Ball laufen und dadurch den Gegner rotieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Gladbach mittlerweile wie das Kaninchen vor der Schlange, und Kimmich in seiner Parade-Rolle.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "58. Minute, 1:1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Schauen wir hin: Alphonso Davies wird nicht attackiert, kein Gegnerdruck, auch nicht auf Kimmich, kein Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Sané startet im richtigen Moment, trifft den Ball nicht perfekt, aber so, dass Moritz Nicolas zum ersten Mal an diesem Tage keine Chance hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Am rechten Bein vorbei, noch mal der perfekte Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Kimmich mit dem, was er am allerbesten beherrscht, und Leroy Sané trifft zum dritten Mal in dieser Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Ausgleich 1:1, und wir schauen wieder auf Thomas Tuchel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "In dieser komplizierten Woche bleibt er sitzen, es haut ihn nicht vom Hocker, dieser Ausgleich, aber Zufriedenheit spiegelt das doch wider.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Und hier links der neue Sportdirektor mit der bayerischen Siegerfaust.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Dann passiert 10 Minuten lang nichts.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Tuchel reagiert noch mal, bringt Eric Maxim Choupo-Moting und Serge Gnabry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Auch Thomas Müller hat Schluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Direkt danach diese Szene: Foul von Ko Itakura an Choupo-Moting, der Torschütze im Rückwärtsmodus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Der Freistoß schon und schnell ausgeführt, Konrad Laimer mit der Flanke für Gnabry, und Moritz Nicolas hält, was zu halten ist.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "70. Minute, der super Offensive Laimer, Gnabrys Kopfball und Nicolas' Schulter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Bayern will mehr, drei Punkte und endlich mal wieder ein Erfolg gegen den Erzfeind aus den 70ern und den aktuellen Angstgegner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Kimmich aus dem Hintergrund, knapp vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Zunächst herrscht Gnabry, abgeblockt, und dann der Kapitän mit rechts, rechts vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Thomas Tuchel würde der 80. Minute seinen letzten Trumpf ein, den 18-jährigen Franzosen Mathys Tel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Gladbach kommt überhaupt nicht mehr aus der eigenen Hälfte raus, ein 40-minütiges Dauer-Powerplay der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Und nach dem Konrad auch diesen Kimmich-Pass versucht, gibt's noch mal nicht, sondern Joshua Kimmich bleibt der Mann des Rundes.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Typische Bestellung, 2:1 in der 87. Minute, das zweite Joker-Tor des Franzosen in der noch jungen Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Da sind die Bayern wieder, erster Rückstand, dann das Comeback.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Tolle Ecke, zweiter Assist von Kimmich und Mathys Tel statt Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Der stand vor ihm, aber der Franzose passt genau.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Nicolas noch mit den Fingerspitzen dran, aber an der Führung der Bayern kann er nichts mehr machen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Dann läuft schon die Nachspielzeit, keine Transfers am Freitag an diesem Chaos-Tag der Bayern, aber der ausgedünnte Kader bietet trotzdem Alternativen von der Bank.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Gnabry Zusammenspiel mit Tel, eingewechselt genauso wie wieder Gnabry, maximal erklärt vor Harry Kane, kann trotzdem weitermachen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Rettungshaar den höchsten Not, Gnabry auf Choupo-Moting, und Moritz Nicolas verhindert das dritte Tor der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "2:1 für die Bayern, und das ohne englischen Support.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Harry Kane hat sich aufgerieben, war offensiv eher unsichtbar und trifft erstmals nicht in der Liga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Der Engländer geht nach 95 Minuten, Matthijs de Ligt kommt, und es läuft dann die siebte Minute der Nachspielzeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Und Moritz Nicolas läuft in den Strafraum der Bayern.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Gibt es noch den super Lucky Punch?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Julian Weigl, Langeweile, ganz nach hinten, letzter Schuss aufs Tor von Sven Ulreich, keine Gefahr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Die Bayern defensiv am Ende stabil, und ein letzter Akt ohne Wirkung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Kurz darauf pfeift der souveräne Deniz Aytekin ab.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Ein Comeback-Sieg gegen den Angstgegner, große Dominanz, kein Glanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 98,
+        "text": "Am Ende ist es ein Sieg der Fußballarbeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 99,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 100,
+        "text": "[Musik]",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 101,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 102,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

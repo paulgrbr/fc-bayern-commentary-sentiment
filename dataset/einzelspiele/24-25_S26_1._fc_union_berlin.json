@@ -1,0 +1,652 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 26,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "1. FC Union Berlin",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.8"
+  },
+  "ergebnis": {
+    "bayern": 1,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Florian Exner",
+    "kommentator": "Adrian von der Groeben"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Kein schlechtes Jahr bislang für den FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Ziemlich souverän ins Champions-League-Viertelfinale eingezogen und aktuell acht Punkte Vorsprung vor dem Verfolger aus Leverkusen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "An der Alten Försterei soll der nächste Dreier her, um die Meisterschaft so früh wie möglich klarzumachen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Allerdings tun sich die in dunkel gekleideten Münchner gegen Union Berlin extrem schwer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Olise verzieht aus der Distanz, da sind bereits 27 Minuten gespielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Eisernen machen es gut und so, wie man es gegen Bayern machen muss: Sie sind griffig und ganz eng dran an den Gegenspielern.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Khedira klebt an Alphonso Davies, das macht den Bayern wenig Spaß und es kommt kaum Spielfreude bei den Gästen auf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Die Köpenicker arbeiten aggressiv gegen den Ball, sind mit allen Spielern im und um den eigenen 16er und machen die Räume ganz eng.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Keine Münchner Kombination, stattdessen Flanken, gefundenes Fressen für Trimmel und Co.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Zwar landen die zweiten Bälle überwiegend bei den Gästen, doch diese Mischung aus Schuss und Flanke von Jamal Musiala ist sinnbildlich für den harmlosen Münchner Auftritt nach 37 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Es ist alles andere als ein unterhaltsames Fußballspiel, das dürfte den Gastgebern, die krasse Außenseiter sind, völlig egal sein.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Für Union geht es darum, irgendwie etwas Zählbares mitzunehmen, deshalb gilt es, Fehler zu vermeiden und wenig anzubieten.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Serge Gnabry mal mit einer Einzelaktion, es ist die beste Torchance der Münchner bis hierhin und mittlerweile sind 41 Minuten absolviert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Unions gelbgesperrter Trainer Steffen Baumgart fiebert auf der Tribüne mit und sieht stark verteidigende Köpenicker.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Doch kurz vor der Pause muss der Coach noch mal zittern.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Eckball für die Bayern, Kimmich kurz zu Musiala und dann Gnabry im Zusammenspiel mit Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Die beste Chance für die Münchner, vereitelt von Frederik Rönnow und genau beobachtet von Bayern-Coach Vincent Kompany, der den nächsten Eckball durch Joshua Kimmich sieht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Harry Kane lauert, aber der Eckstoß ist bezeichnend für den schwachen Auftritt der Gäste, bei denen Serge Gnabry noch der einzige Lichtblick ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Union verteidigt, aber zur Wahrheit gehört, die Gastgeber tun gar nichts für das Spiel.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "In 40 Minuten ist dieser Plan immerhin aufgegangen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Ob das auch im zweiten Abschnitt so funktioniert?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "50. Minute, Gefahr für das Tor von Rönnow.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 22,
+        "text": "Freistoß für die Bayern, Harry Kane übernimmt, 25 Meter Torentfernung und immerhin ein Torschuss der Bayern, allerdings kein Problem für Frederik Rönnow.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 23,
+        "text": "Der Freistoß des Engländers ist zu unplatziert und nicht scharf genug geschossen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 24,
+        "text": "Und jetzt aufgepasst, wir befinden uns in der 50. Spielminute und in der Bayern-Hälfte, ja sogar im Bayern-Strafraum.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 25,
+        "text": "Beinahe das Eigentor von Joshua Kimmich, der die Aufmerksamkeit von Jonas Urbig prüft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 26,
+        "text": "Rani Khedira mit einem seltenen Berliner Flügellauf und symptomatisch für das Angriffsspiel der Hausherren bis hierhin, dass der Bayern-Kapitän für die gefährlichste Unioner Aktion sorgt.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 27,
+        "text": "Eine Stunde rum, wieder auf die andere Seite.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 28,
+        "text": "Freistoß Kimmich rüber zu Olise, dessen Schuss wird geblockt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 29,
+        "text": "Rönnow macht das Spiel mit den Fäusten schnell, sodass Janik Haberer Josip Juranovic steil schicken kann.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 30,
+        "text": "Der Kroate aus spitzem Winkel, kein Problem für Urbig, aber immerhin ein guter Berliner Konter über drei Stationen, abgerundet von einem Torschuss.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 31,
+        "text": "Union spielt jetzt viel besser mit und stellt sich nicht nur hinten rein.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 32,
+        "text": "Über eine Stunde rum, Bayern nach wie vor erschreckend harmlos.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 33,
+        "text": "Jetzt mal mit ein bisschen Tempo und Olise für Musiala in die Arme von Rönnow zur Erleichterung von Steffen Baumgart.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 34,
+        "text": "Olise erwischt die Abwehr der Eisernen einmal unsortiert, steckt für Jamal Musiala durch, der den Ball nicht richtig erwischt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 35,
+        "text": "Rönnow packt sicher zu.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 36,
+        "text": "In der 65. Minute kommt Leroy Sané für Serge Gnabry, der bis dahin der auffälligste Münchner Angreifer ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 37,
+        "text": "Sané spielt in der Saisonendphase um einen neuen Vertrag bei den Bayern, muss sich also zeigen und die Minuten, die er bekommt, bestmöglich nutzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "Und das ist doch mal effizient genutzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "Gerade einmal 10 Minuten im Spiel, da schlägt der 29-jährige Nationalspieler zu und bricht den torlosen Bann in dieser Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "In der 75. Minute raus zu Olise, der schickt Stanisic Richtung Grundlinie und dessen cleveren Pass in den Rückraum antizipiert Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "Allerdings pennt Jong in dieser Situation, weil der Koreaner Sané nicht aufnimmt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Der Joker sticht und der Rekordmeister führt mit 1:0 an der Alten Försterei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "Jetzt sind auf einmal die Köpenicker unter Zugzwang und sie reagieren, haben einen Freistoß in der 81. Minute.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Den bringt Josip Juranovic gefährlich in den 16er, Querfeld kommt dran, Urbig segelt daneben.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Kleine Unsicherheit beim 21-jährigen Schlussmann, beinahe bestraft von Leopold Querfeld, doch der Österreicher kann sich im Kopfballduell mit Harry Kane nicht durchsetzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Den Gastgebern läuft allmählich die Zeit davon, doch Union zeigt eine gute Reaktion auf den Rückstand und nimmt das Heft des Handelns in die Hand.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Bayern zieht sich weit zurück und die Berliner werfen mutig alles nach vorne und werden belohnt.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Der eingewechselte Benedikt Hollerbach verwandelt die Alte Försterei mit dem Ausgleich in der 84. Minute in ein Tollhaus.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Der Treffer wird allerdings von einem Urbig-Patzer begünstigt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Der legt Hollerbach den Ball nach Juranovics Flanke unfreiwillig vor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Die Hereingabe kommt mitten in den Fünfer, das ist das Hoheitsgebiet des Torwarts, den Ball muss Urbig besser klären.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Das 1:1 sorgt für Jubel auf den Rängen und bei Steffen Baumgart, doch der weiß natürlich, dass jetzt die Bayern noch mal anrollen werden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "87. Minute, gute Flanke Kimmich, Rönnow mit den Fäusten, aber die Münchner bekommen den zweiten Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Eric Dier zu Upamecano, Jamal Musiala zieht einmal an nach innen und verfehlt das gewünschte Ziel deutlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Es ist nicht die Partie des Münchner Superstars.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Steffen Baumgart tigert auf der Tribüne auf und ab, sieht den Schlusspfiff herbeisehnen, sieht dann plötzlich aber seine Mannschaft noch mal im Vorwärtsgang.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Letzte Aktion der Begegnung, Hollerbach marschiert, doch die flache Hereingabe landet über Umwege bei Kimmich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Der hat den Ball und plötzlich ist der Weg frei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Tim Skarke mit tollem Einsatz, fackelt nicht lange, aber der Schuss ist kein Problem für Jonas Urbig.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Und dann ist Schluss in Berlin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Steffen Baumgart bejubelt einen wichtigen Punkt, sprintet rein, um unten auf dem Platz Spieler und Trainer René Wagner zu beglückwünschen.",
+        "kontext": "1. FC Union Berlin",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 62,
+        "text": "Die Bayern mit einem Punkt natürlich nicht zufrieden, hätten zu gerne einen Dreier vor der Länderspielpause eingefahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

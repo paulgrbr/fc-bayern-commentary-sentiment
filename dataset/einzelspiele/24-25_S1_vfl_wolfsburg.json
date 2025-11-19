@@ -1,0 +1,1002 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 1,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "VfL Wolfsburg",
+    "tabelle": 4,
+    "ballbesitz_bayern": "0.7"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Daniel Siebert",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Nach einer titellosen Saison hat sich der Rekordmeister aus München in den schwarzen Trikots einiges vorgenommen für die neue Spielzeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Zum Auftakt heißt der Gegner VfL Wolfsburg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "In der Münchner Startelf steht auch gleich mal ein Neuzugang: Michael Olise mit dem ersten Abschluss in der vierten Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Aber das ist wohl die wichtigste Neuverpflichtung der Bayern: Vincent Kompany, 38 Jahre jung, zum ersten Mal Bundesliga-Trainer und damit nach Erik Gerets und Marc Wilmots auch erst der dritte belgische Trainer in der Ligageschichte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Der FC Bayern hat keines seiner letzten 12 Auftaktspiele einer Bundesliga-Saison verloren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Was kann da schon schiefgehen?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Min-jae Kim ab durch den eigenen 16er, Upamecano, beide Verteidiger hatten in der vergangenen Saison schon mal den ein oder anderen kleineren Fehler in ihrem Spiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Hier ist es noch mal gut gegangen, da wird vor allem der Südkoreaner durchatmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Ralph Hasenhüttl: \"Wir werden uns nicht verstecken.\"",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Na ja, die grünen Trikotfarben der Wölfe auf dem grünen Rasen sagen da was anderes.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Keine 10 Minuten gespielt, es ist ein munterer Auftakt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Die Münchner jetzt etwas gradliniger in ihren Aktionen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Sacha Boey, gefühlt natürlich auch ein Neuzugang, und hinten lauert Serge Gnabry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Kamil Grabara im Kasten der Wölfe.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Gnabry, der eine starke Vorbereitung spielte, und Grabara, aus Kopenhagen gekommen, wird hier gleich mal geprüft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Wolfsburg quälte sich im Pokal gegen fünftklassiges Koblenz in die zweite Runde, die Bayern siegten souverän mit 4:0 gegen Ulm und sind auch hier gleich auf Betriebstemperatur.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Harry Kane, Grabara, die Maske muss herhalten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Kane wird übrigens am Dienstag als Europas treffsicherster Torjäger mit dem Goldenen Schuh geehrt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Eckball Bayern, kurz ausgeführt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Kamil Grabara, so schnell gewöhnt man sich an neue Namen in der Bundesliga.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Der bayerischen Offensive sei Dank, immer wieder wird der neue Keeper der Wolfsburger gefordert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Bisher macht er eine gute Figur, es muss aber natürlich mehr Unterstützung von seinen Teamkollegen kommen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Gefühlt ist man immer einen Schritt zu spät.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Auch hier Boey und dann in der 20. Minute: 1:0 für den FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Es war fast schon eine Frage der Zeit, bis Kompany ein erstes Mal in der Bundesliga jubeln darf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Kaminski mit großen Problemen und Boey spielt sein Tempo aus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Jamal Musiala, ein Fußballgenie, aber für das Tor braucht man eigentlich auch nur zwei gesunde Beine.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Es ist die absolut verdiente Führung für den Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Der VfL war bis zu diesem Zeitpunkt ein guter Gastgeber, die Gäste aus München fühlen sich sichtlich wohl.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Es spielt nur der FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Gnabry sucht in der Mitte Kane oder Olise und dann ist da der Arm von Kaminski im Weg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Klare Sache, es gibt Gelb für Kane wegen Meckerns und dann hält Schiedsrichter Daniel Siebert Rücksprache mit dem VAR und entscheidet: alles im legalen Bereich, es gibt keinen Elfmeter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Die andere Rasenhälfte könnte jetzt eigentlich auch gemäht werden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Kimmich und Olise stehen bereit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Olise und schon wieder Gnabry und erneut Grabara.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Hasenhüttl hat sogar schon den Deckel seiner Flasche abgerissen, das verstößt doch eigentlich gegen die EU-Richtlinien für Pfandflaschen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Na ja, der Herr hat gerade größere Probleme, z.B. das Stellungsspiel seiner Abwehr.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Kilian Fischer und wieder der, der heute irgendwie immer richtig steht.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Da hat wohl einer Nachhilfestunden bei Thomas Müller genommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "8:1 Torschüsse für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Wenn nichts geht, dann vielleicht genau Arnold steht schon bereit, ein Standard, aber auch der ist zu ungefährlich.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Vielleicht der zweite Ball, der segelt zwar noch mal Richtung 16er, aber da kommt Ex-Nationaltorhüter Manuel Neuer nicht ins Schwitzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Wenig später ist Pause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Hochverdient mit 1:0 tritt der Rekordmeister den Gang in die Kabine an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Zweite Halbzeit, beide Mannschaften starten unverändert, was das Personal angeht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Aber der VfL zeigt gleich mal etwas mehr Zug zum Tor.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Kapitän Arnold und aufgepasst, auf einmal ist Tiago Tomás durch.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Da gibt es den Kontakt von Boey und den Elfmeter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "In 15 Sekunden das Werk der ersten 45 Minuten zerstört.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Bitter für Boey, aber auch stark und clever gemacht von Tomás, der hier kreuzt, den Ball abschirmt und den Kontakt bekommt.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Also die große Chance für den VfL Wolfsburg auszugleichen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Lovro Majer übernimmt und er macht es: 1:1.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Der Auftakt schmeckt den Wölfen natürlich.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Nichts zu machen für Neuer, der sich für die andere Ecke entscheidet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Damit war nicht wirklich zu rechnen nach der bayerischen Dominanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Jetzt muss wieder eine Reaktion her.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Alphonso Davies, Musiala mit einem kleinen Tänzchen und dann Gnabry, Grabara.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Die beiden meist genannten Spieler dieses Beitrags machen ein richtig starkes Spiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Es ist jetzt eine ganz andere Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Niedersachsen haben den Theatersessel endlich verlassen und sind jetzt auch auf die Bühne gekommen.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Das Theaterstück heißt jetzt: Alles ist besser als verlieren.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Majer, Majer und Wimmer, fast die Führung für den VfL.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Wahnsinn, was so ein Tor mit einer Mannschaft machen kann.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Und das bezieht sich auf beide Teams.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Der neutrale Fußballfan spricht von einem tollen Spiel, der Bayern-Fan denkt sich: Herrje, wie konnte das passieren?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Kane, du lieber Himmel, hat das Auge für Majer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "55. Minute, es steht 2:1 für Wolfsburg.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Die Wölfe heulen, aber natürlich vor Freude.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Ein Tor, das man nicht großartig analysieren muss.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Die Analyse lautet: Fehler Kim.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Bitter für den Südkoreaner, er kann einem wirklich leid tun.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "So einen Saisonstart wünscht man niemandem.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Das Tempo der Partie bleibt weiter rasant, es geht auf und ab.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Musiala, Olise und wieder Musiala und wieder Grabara.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Immer wieder Kamil Grabara, der Pole, er zeigt, warum Wolfsburg über 13 Millionen Euro für ihn hingeblättert hat.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Er bleibt erneut Sieger und lenkt den Ball an die Latte.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "65. Minute, Thomas Müller, 709 Pflichtspiele für den FC Bayern, Vereinsrekord von Sepp Maier eingestellt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "474 Bundesligaspiele für die Münchner und damit alleiniger Rekordhalter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Er soll jetzt für frischen Wind sorgen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Sekunden später Eckball, Baku, und Ausgleich: 2:2.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Müller natürlich in der Nähe und dann der Griff in die Hose.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Der Spickzettel bringt er die Komplettlösung mit frischer Anweisung von Kompany.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "So sieht jetzt also der Matchplan aus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Aber zurück zum Tor: Kane mit dem Kopfball, es ist aber ein Eigentor von Kaminski.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Auch er, ähnlich wie Min-jae Kim auf der anderen Seite, bisher mit keinem guten Auftritt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Alles wie auf Null, keine 20 Minuten mehr, es ist jetzt komplett offen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Arnold mit dem nächsten individuellen Bock und Upamecano kann das nicht nutzen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Erst Min-jae Kim und dann Upamecano, die Bayern in dieser Situation im Glück.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Schlussphase, mittlerweile für im Spiel sucht und findet aber Kaminski und was für ein perfektes Timing.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Weiter 2:2, ein Ergebnis, mit dem Wolfsburg sicher leben könnte.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Für die Bayern ist das natürlich zu wenig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Kane, Gnabry, Gnabry, 82. Minute, 3:2 Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Jetzt überwindet Gnabry Grabara noch mal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Es ist klasse gemacht von Gnabry, genauso hat sich sein Chef das vorgestellt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Und erneut heißt es für Wolfsburg: mehr Risiko bitte.",
+        "kontext": "VfL Wolfsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Die Wölfe versuchen es noch mal, Zornberg und durchatmen bei den Münchnern, denn das ist dann die letzte nennenswerte Aktion dieser unterhaltsamen Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Das Bundesliga-Debüt als Trainer des FC Bayern ist Vincent Kompany geglückt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 97,
+        "text": "Die Münchner gewinnen zum Auftakt mit 3:2 gegen Wolfsburg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

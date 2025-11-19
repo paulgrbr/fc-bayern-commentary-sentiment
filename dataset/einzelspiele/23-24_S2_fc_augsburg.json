@@ -1,0 +1,1482 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 2,
+    "heim_auswaerts": "Heim",
+    "gegner": "FC Augsburg",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.61"
+  },
+  "ergebnis": {
+    "bayern": 3,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Sascha Stegemann",
+    "kommentator": "Matthias Naebers"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Gegen Bremen feierte der FC Bayern mit dem 1:4 einen Auftakt nach Maß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Gegen Augsburg soll nun nachgelegt werden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Keine leichte Aufgabe, gingen doch zwei der letzten vier Bundesliga-Duelle an den FCA.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Außerdem muss Thomas Tuchel auf Musiala verzichten, der jüngst mit einem Muskelfaserriss ausfällt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Ihn ersetzt Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "Aber auch ohne Musiala kommen die Bayern in den rot-weißen Trikots besser rein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Das ist Joshua Kimmich, der erste Abschluss dieser Partie nach fünf Minuten geht an die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Die Ecke danach bringt nichts ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der FCA hält in der Anfangsphase gut dagegen, Chancen bleiben aber erstmal aus.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Stattdessen kommen die Münchner zum Zug.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Im eigenen Stadion klärt Uduokhai zur Ecke in der 11. Minute, die dann wieder nichts einbringt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Tolle Aktion hier von Engels.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Die nachfolgende Ecke bringt zwar nichts, aber dafür vielleicht die Minute 13.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Nee, kommt nicht ungefährlich.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Dahmen mit Unsicherheiten, am Ende rutscht ihm der Ball über die Fäuste, aber kein Münchner kann Kapital daraus schlagen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Insgesamt ein Spiel auf Augenhöhe in dieser Anfangsphase.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Augsburg bekommt aber noch nicht zur Abschlüssen, dafür mauern die Bayern immer wieder.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Wie hier: Goretzka behauptet den Ball und überlässt ihn Gnabry, deutlich zu hoch angesetzt vom Musiala-Ersatz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Trotzdem sieht Tuchel einen guten Auftritt seiner Mannschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Auf dem Weg Richtung Tor tun sich beide Mannschaften hier aber nach wie vor schwer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Es läuft bereits die 27. Spielminute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Augsburg in der gegnerischen Hälfte mit Michel, der schickt Demirović ins Duell mit Mazraoui.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Da war mehr drin.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Schöner Pass von Michel, gut durchgesetzt von Demirović, der Abschluss dann aber ausbaufähig.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Das ist dann aber auch eine Art Weckruf für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Nur eine Minute später geht's in die andere Richtung über Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Der legt quer für Gnabry, nochmal in die Mitte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Augsburg kriegt es nicht gänzlich verteidigt und so kriegt Leon Goretzka die Chance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Goretzka, Dahmen reißt die Hände hoch und entschärft damit diesen Distanzversuch von Goretzka.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Die Ecke danach bringt wieder nichts ein, aber die Bayern bleiben jetzt dran, nehmen ihre Formation am Augsburger 16er ein und lassen den Ball durch die eigenen Reihen laufen, auf der Suche nach der Lücke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Und da ist sie plötzlich, die Lücke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Gnabry für Sané, Dahmen, Uduokhai.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Oh, das ist maximal unglücklich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Eigentor von Uduokhai.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Schiedsrichter Siebert zeigt an, die Torlinientechnik hat angeschlagen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Ball über der Linie, Treffer zählt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Und so folgt der Jubel mit kurzer Verspätung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "1:0 Bayern München, 32. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Viel, viel Glück dabei für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Sané scheitert noch an Dahmen, von ihm springt der Ball direkt an Uduokhais Knie und von dort an den Pfosten und ins Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Den kriegt er nicht mehr rechtzeitig vor der Linie weggekratzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Pechvogel Felix Uduokhai ist seit insgesamt zweites Bundesliga-Eigentor.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "2021 gegen Dortmund hat er ebenfalls ins eigene Tor getroffen.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Jetzt muss sich der FCA also schütteln, kommt aber gar nicht so richtig dazu, denn die Bayern machen wieder Druck.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Über Gnabry, der fest mitspielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Das ist Coman, der nochmal zurück zu Sané und der sehenswert für Joshua Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Schuss geblockt von Dorsch, aber die Bayern und Kimmich und Goretzka beschweren sich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Ein Handspiel von Dorsch wollen sie erkannt haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "In der Wiederholung zu sehen: Ein Handspiel ist es, aber vor oder im Strafraum?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Auch der Videoassistent ist sich nicht ganz sicher, bittet Schiedsrichter Siebert an den Monitor.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Und dort entscheidet sich Siebert dann tatsächlich um.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Es gibt den Strafstoß für die Bayern und den lässt sich Bayerns neuer Superstar Harry Kane natürlich nicht nehmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Kane ganz konzentriert und ganz souverän.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "2:0 Bayern München, 40. Spielminute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Starker Elfmeter, verlädt Dahmen und knallt den Ball in die Mitte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Zweites Spiel, zweiter Treffer für Harry Kane in Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Der FCA hat bis hierhin eigentlich gut mitgehalten, trotzdem führen die Bayern jetzt mit 2:0.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Vielleicht gelingt der Anschluss noch vor der Pause.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "45 + 2.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Berisha zu hoch angesetzt, drüber.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "So wird man Ulreich und den Bayern nicht gefährlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "2:0 zur Pause für den FCB.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Also alles Friede, Freude, Eierkuchen bei den Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 63,
+        "text": "Zumindest nicht bei Sané, der auf dem Weg in die Kabine ein paar nicht ganz so nette Worte mit Petersen austauscht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 64,
+        "text": "Mit Pfeffer rein in die Kabine und mit Pfeffer auch wieder aus selbiger heraus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Noch keine vier Minuten gespielt, da kann sich Coman mal aufdrehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Coman für Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Harry Kane, gut gelaufen vom Engländer, der Abschluss dann aber deutlich drüber, auch weil Uduokhai dran bleibt und es dem 30-Jährigen damit extra schwer macht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Aber auch die Gäste lassen sich auf dem Weg nach vorne im zweiten Durchgang nicht lange bitten.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "52. Minute über Upamecanos Klärungsaktion, kommt sofort wieder retour.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Das ist Vargas, kriegt Unterstützung von Michel und der bedient Berisha.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Aber Goretzka in letzter Sekunde spitzelt Berisha den Ball vom Fuß, sonst wird das hier richtig gefährlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Es läuft immer noch die 52. Minute, diesmal aber geht's in die andere Richtung über Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Kann da ein paar Meter machen, wird nicht angegriffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Immer noch Leroy Sané bis zum Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Gut gemacht, aber eben nur bis zum Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Der selbst ist dann ausbaufähig, das weiß er nicht auch selber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Ein unterhaltsames Spielchen mittlerweile.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Es ist vor beiden Toren was geboten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "57. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Upamecanos Rückpass gerät fast ein bisschen kurz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Ulreich klärt aber genau vor die Füße von Vargas, will hier Ulreich überlisten, schafft es aber nicht.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Der Bayern-Schlussmann beklebt den Ball unter sich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Minute 63.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Die Bayern mit Kimmich, der schickt Kingsley Coman und Coman mit Tempo und dem Tänzchen gegen Engels.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Coman, aber seine Hereingabe segelt an Freund und Feind vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Glück für Augsburg, dass da kein Münchner mehr seinen Fuß hat.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Und weiter geht's.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Nur eine Minute später sind die Bayern schon wieder im Angriffsdrittel mit Davies und Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Klasse Flanke für Gnabry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Dahmen, toller Reflex vom Augsburger Schlussmann, der hier den dritten Münchner Treffer verhindert.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "So gibt es nur eine Ecke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Und das ist die nachfolgende Ecke.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Sané übernimmt und über Umwege landet der Upamecano-Schuss aus kürzester Distanz, geblockt von Elvis Rexhbecaj, der auch sofort anzeigt: Das war die Brust.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Da gibt es auch keine großen Bayern-Beschwerden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Upamecano kann es nicht fassen, dass der nicht reingeht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Aber der dritte Treffer, der liegt in der Luft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "München erhöht jetzt den Druck merklich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "68. Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Das ist wieder Leroy Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Sané, Pfosten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Nächste tolle Aktion, aber mit dem Torerfolg soll es nicht sein für den deutschen Nationalspieler.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "In dieser Phase nur noch die Bayern am Ball und mit Zug zum Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Hier geht's mal wieder schnell.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Das ist Davies, Doppelpass mit Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Davies weiter zu Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Wow, ist das gut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Schnell und schnörkellos gespielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "3:0 Bayern München, 69. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Und den muss man so erstmal verarbeiten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Die Entstehung schon super über Davies und Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "Der Abschluss von Kane dann richtig gut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Aus vollem Lauf spitzelt er den Ball über Dahmen hinweg ins Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Erster Bundesliga-Doppelpack für ihn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Da freuen sie sich natürlich alle mit ihm.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Die Bayern haben im Anschluss so ein bisschen in den Verwaltungsmodus geschaltet, überlassen Augsburg den Ball.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "Und das ist durchaus sehenswert, was die damit veranstalten.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "Das ist Tietz und das ist Demirović.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 118,
+        "text": "Nee, so wird es nichts gefährlich für Sven Ulreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 119,
+        "text": "In der Folge wird ordentlich durchgewechselt beim Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 120,
+        "text": "Unter anderem jetzt Konrad Laimer auf dem Platz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 121,
+        "text": "Und da ist er am Ball in Minute 82.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 122,
+        "text": "Immer noch einmal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 123,
+        "text": "Und Dahmen ist hellwach.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 124,
+        "text": "Und das muss er auch sein, denn wieder ist es Uduokhai, der den Ball hier extra scharf macht.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 125,
+        "text": "Kann sich bei seinem Torhüter bedanken, dass er hier nicht den Eigentor-Doppelpack schnürt.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 126,
+        "text": "Insgesamt bleiben die Bayern auch nach den Wechseln spielfreudig und offensivfreudig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 127,
+        "text": "Lange Ballarbeit von Goretzka für Laimer und der bedient direkt Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 128,
+        "text": "Fast sein drittes Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 129,
+        "text": "Ärgerlich, dass er den Ball nicht aufs Tor bringt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 130,
+        "text": "So frei darf man den eigentlich nicht zum Kopfball kommen lassen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 131,
+        "text": "Glück für Augsburg.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 132,
+        "text": "Es ist weiterhin einiges geboten, auch weil der FCA sich hier noch nicht aufgegeben hat und weiterhin auf der Suche nach dem eigenen Treffer ist.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 133,
+        "text": "Jetzt vielleicht Demirović für Dion Beljo.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 134,
+        "text": "Der Ehrentreffer für die Augsburger.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 135,
+        "text": "86. Minute.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 136,
+        "text": "1:3 nur noch.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 137,
+        "text": "Und vielleicht geht noch mehr.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 138,
+        "text": "Der Treffer auf jeden Fall toll rausgespielt.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 139,
+        "text": "Demirović durch die Beine von de Ligt.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 140,
+        "text": "Beljo klasse gelaufen, macht so den Raum auf und bleibt dann cool vor Sven Ulreich.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 141,
+        "text": "Der 21-jährige Kroate, erstes Saisontor für ihn.",
+        "kontext": "FC Augsburg",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 142,
+        "text": "Mehr passiert dann aber nicht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 143,
+        "text": "3:1 gewinnen die Bayern gegen den FC Augsburg und die Bayern-Fans dürfen über einen perfekten Saisonstart jubeln.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 144,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 145,
+        "text": "Es sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

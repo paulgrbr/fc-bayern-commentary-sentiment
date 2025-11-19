@@ -1,0 +1,882 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 14,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "1. FSV Mainz 05",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.68"
+  },
+  "ergebnis": {
+    "bayern": 1,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Frank Willenborg",
+    "kommentator": "Daniel Gahn"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der Tabellenführer aus München war zu Gast in Mainz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Die Bayern traten in dunklen Trikots an, weiterhin ohne Harry Kane, dafür mit Thomas Müller und Jamal Musiala als wechselnde Spitze vorne.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "In der Abwehr ersetzte Dayot Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Im Pokal gab es hier Ende Oktober ein 4:0, wobei Jamal Musiala das Spiel mit seinen drei Toren fast im Alleingang entschied.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Im Pokal war der Rekordmeister früh in Mainz in Führung gegangen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "An diesem Spieltag brauchten die Münchner etwas, um auf Touren zu kommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Michael Olise traf in der sechsten Minute den Pfosten, nachdem Amiri den Ball gegen Müller verloren hatte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Olise hatte viel Platz, doch am Ende stand das Aluminium im Weg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Es war bereits der zehnte Aluminiumtreffer der Bayern in dieser Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Die Bayern übernahmen mehr und mehr die Spielkontrolle, während die 05er meist sehr tief standen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Ein guter Antritt von Olise in der Mitte, aber noch kein Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Der Rekordmeister zeigte erste Lösungsansätze, wie es auch ohne Kane in der Mitte gehen kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Bo Henriksen stellte seine Mainzer im Vergleich zum wilden Ritt gegen Wolfsburg um.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Jens stand für Da Costa in der Abwehr.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Die 05er konzentrierten sich zunächst auf defensive Stabilität, waren aber auch immer wieder sehr bissig in den Zweikämpfen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Lee war stark gegen Kimmich, Burkardt und dann ging es los.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Jonathan Burkardt war schneller als Kim und hatte eine Riesengelegenheit für die Hausherren.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Dann der Schock: Ihr treffsicherster Mann ging zu Boden und konnte nicht weitermachen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Bayerns offensive Spielweise und ihre Risiken nutzte Mainz geschickt aus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Kim und Dier waren zwar eng an Burkardt dran, konnten aber den Abschluss nicht verhindern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Jonathan Burkardt war zuletzt in überragender Form.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Henriksen zeigte an, dass Mainz wechseln musste.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Für Burkardt ging es nicht mehr weiter, wie lange er ausfallen wird, war am Wochenende noch offen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Für ihn kam die Bayern-Leihgabe Armindo Sieb ins Spiel.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Eine Viertelstunde war gespielt, Mainz ohne Burkardt, aber dann nach diesem Freistoß: Lee gegen Guerreiro.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Das Spiel lief weiter, Schiedsrichter Willenborg zeigte sofort an, dass da nichts war.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Lee fiel von der Schwerkraft und nicht von Guerreiro zu Boden gebracht, kam unverwarnt davon.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Im Anschluss verflachte das Spiel ein wenig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Dann Eckball für Mainz: Amiri, die Bayern dazwischen, die Chance noch mal aufgewärmt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Caci plötzlich frei, Peretz, der Neuer im Bayern-Tor vertrat, hatte keine größere Mühe bei diesem zu zentralen Schuss des Mainzers in der 29. Minute.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Caci war überrascht, dass er so frei an den Ball kam.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Die Schlussphase der ersten Hälfte lief.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Die Bayern hatten seit dem Olise-Kopfball keine nennenswerte Tormöglichkeit mehr.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Nach der Kimmich-Ecke mit Sané geblockt, stand wieder ein 05er im Weg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Die beste Offensivabteilung der Liga war bei diesem Gastspiel in Mainz bislang nur ein Schatten ihrer selbst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Die nächste Bayern-Ecke war wieder nicht sonderlich gefährlich und aus der Münchner Standardsituation ergab sich ein Umschaltmoment für Mainz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Sieb als Antreiber, Laimer konnte zunächst klären, aber Mainz war sofort wieder bissig.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Caci mit dem Luftloch, Armindo Sieb abgefälscht, Lee und das Tor: 1:0 für die Mainzer.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Viertes Saisontor für ihn, ein neuer Rekord in einer Hinrunde.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Weniger rekordverdächtig war das Abwehrverhalten der Münchner, die im entscheidenden Moment den entscheidenden Schritt zu spät kamen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Kim Kopfball-Interruptus, Olise dann wohl überrascht, angeschossen, und so kam der Ball zu Lee.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Aus dieser Distanz natürlich ohne Mühe, Peretz aus dieser Distanz natürlich ohne Chance.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Ein bisschen Zufall, ein bisschen Glück war auch dabei bei der Führung in der 41. Minute.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Bayern und Musiala offensiv in der ersten Hälfte ohne die nötige Durchschlagskraft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Hinein in den zweiten Durchgang: Das Mainzer Erfolgsrezept gegen den Rekordmeister bislang: hohe Intensität, wenig Raum, notfalls helfen auch mal Fouls.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Apropos Foulspiel: Dominik Kohr, der Mainzer als Olise-Jäger und Gelbsammler, mit seiner achten Gelben in der Liga.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Niemand sammelt fleißiger die gelben Kärtchen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kohr trifft Olise klar.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Nicht nur Kohr, sondern auch die anderen Mainzer waren teils rustikal in den Zweikämpfen, sehr zum Leidwesen der Münchner, wie hier Pavlovic.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Knappe Stunde vorbei, die Bayern ohne Ideen und Impulse.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Kompany brachte Goretzka und Boey für Pavlovic und Guerreiro.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "An der mauen Offensivabteilung mit Müller, Musiala und Olise änderte sich vorerst nichts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Genau 60 Minuten gespielt, wieder die 05er: Lee in der Mitte und wieder ist er drin.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Doppelpack des Südkoreaners.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Die Mainzer gegen die Bayern kalt und effektiv.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Kompany für seine Münchner ein absolut gebrauchter Nachmittag.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Die Einleitung von Caci war aus der Gourmet-Abteilung: Hacke und dann wieder das Duell Lee.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Was beim 1:0 geklappt hat, klappt auch beim 2:0.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Der Ball abgefälscht, Peretz wieder chancenlos.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Der Vertreter bekam gegen Heidenheim und jetzt gegen Mainz fünf Schüsse auf sein Tor, vier davon waren drin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Eine bittere Bilanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Bo Henriksen konnte das Mainzer Glück kaum fassen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Was ist los mit den Bayern?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Müller mal auf außen, seine Flanke auf Sané, das war nichts.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Dem FCB fehlen die klaren Ideen vor dem Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Sanés Schuss war eher für die Zuschauer jenseits des Fangnetzes als für das Tor von Zentner gefährlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Nach einer guten Stunde kam Mathys Tel für Eric Dier, ein klares Signal von Kompany.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Dann aber zunächst wieder die Rheinhessen: Armindo Sieb ein bisschen zu hastig im Abschluss.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Mainz machte an diesem Spieltag gegen die Bayern viel, wenn auch nicht immer alles.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Dem FCB blieb noch eine Viertelstunde, um die erste Niederlage unter Kompany abzuwenden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Laimer in der Mitte, Musiala, Münchens Kopfballungeheuer, schwieriger Ball für ihn, wieder keine echte Gefahr für das Mainzer Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Dann ist Feierabend für Sieb, der Burkardt-Ersatz mit zwei Vorlagen, macht Platz für Onisiwo.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Bei seiner Leistung und dem Spielstand wird er es wahrscheinlich verkraften können.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Auf der anderen Seite wird es langsam eng für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Die Schlussphase läuft: Laimer, Olise, Kimmich, Bell dazwischen, Sané staubt ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "87. Minute, die Bayern sind wieder da, nur noch ein 1:2 aus Sicht der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Zweites Saisontor von Leroy Sané, eines, das für Hoffnung sorgen kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Der Anschlusstreffer der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Bells verunglückte Klärungstat, Sané völlig frei, Zentner kann auch nichts mehr machen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Verdaddeln die Mainzer wieder die Punkte wie am letzten Spieltag gegen Wolfsburg?",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Der FSV Mainz 05 robust und leidenschaftlich gegen die Münchner, denen einfach zu wenig einfällt.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Thomas Müller nahezu wirkungslos und ohne Abschluss, Musiala abgemeldet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Noch mal eine Hereingabe, Zentner ohne Mühe bei dem Ball von Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Kurz danach ist Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Bo Henriksen völlig außer Rand und Band, er weiß gar nicht wohin mit der ganzen Freude.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 85,
+        "text": "Mainz gewinnt dank des Lee-Doppelpacks und Kompany kassiert die erste Niederlage als Bayern-Trainer in der Bundesliga.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

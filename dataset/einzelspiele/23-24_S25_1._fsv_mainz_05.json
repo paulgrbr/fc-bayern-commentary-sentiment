@@ -1,0 +1,1342 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 25,
+    "heim_auswaerts": "Heim",
+    "gegner": "1. FSV Mainz 05",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.59"
+  },
+  "ergebnis": {
+    "bayern": 8,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Patrick Ittrich",
+    "kommentator": "Martin Quast"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der FC Bayern in Weiß-Rot empfängt die schlechteste Auswärtsmannschaft der Liga, Mainz 05.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Zwölf Spiele in der Fremde, noch kein Sieg.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Selbst Schlusslicht Darmstadt ist da erfolgreicher.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Erste Spielminute: Die ungewohnt blauen Mainzer wollen nicht als billiger Punktelieferant auftreten.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Lee täuscht Goretzka und Davies, und nach 25 Sekunden der erste Hauch von Gefahr.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Für Bayern geht es in erster Linie darum, die neu gewonnene Stabilität auszubauen, drei Punkte inklusive, die Saison sauber zu Ende zu bringen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Mehr ist in der Bundesliga wohl kaum noch möglich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Wer glaubt schon daran, dass Leverkusen, die monatelang ungeschlagene Mannschaft, jetzt noch drei, vier Mal in der Liga verliert?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Eine bayerische Kampfansage im Titelrennen wäre unsinnig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "12. Minute: Müller, der ewige Thomas, hat eine Idee.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Musiala zieht die Mainzer auseinander, und Platz im Strafraum heißt auch immer Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Harry Kane, und jetzt wird's historisch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Das haben nicht mal Lewandowski und Haaland geschafft: 28 Tore im 25. Spiel seiner Premierensaison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Mit diesem Treffer übernimmt er den 60 Jahre alten Rekord von Uwe Seeler.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Mainz unorganisiert, versucht zu retten, was nicht zu retten ist, und vergisst in der Mitte völlig Harry Kane.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Superball von Müller, Jamal Musiala mit dem Top-Auge, und der Rest ist eh klar: Kane, wer sonst?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Der Gewohnheitsmeister hat Stuttgart hartnäckig im Nacken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Bayern ist nicht mal Platz 2 sicher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Nach 11 Jahren Monokultur mal ganz neue Wahrnehmungen beim Tabellenlesen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "München hat mit dem Tor mal kurz Super Plus getankt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Harry Kane, gekommen vom ewig titellosen Tottenham, als Profi noch nie was gewonnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Das soll sich ja eigentlich mit Bayern ändern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Eigentlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Dann eine sehr schmerzhafte Szene für Davies: Zweikampf mit Widmer, unabsichtlich im Gesicht getroffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Davies wird sofort in die Zahnklinik gebracht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Diagnose: zwei Schneidezähne sind dahin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Für Davies kommt Guerreiro.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Kurz später dreht Bayern weiter das Schwungrad.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Thomas Müller schirmt ab, Caci kann nur mit unfairen Mitteln versuchen, an den Ball zu kommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Freistoß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Die Mainzer schauen alle in der Gegend rum, haben keinen Fokus.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Kimmich, der Blitzmerker, Kane steht frei, Pfosten, Goretzka drin.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Das ist natürlich mit Glück, aber vor allem mit voller Punktzahl für Joshua Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Alle Blauen sind mit dem Kopf irgendwo, nur Kimmich ist auf Zack.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Und Kane natürlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Und der hat dann sogar noch das Gespür, an den Ball von Goretzka nicht dranzugehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Es wäre sonst Abseits gewesen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Die Mainzer, die Frühverstärkung, wenn sie denn irgendwie noch den Relegationsplatz erreichen wollen, dann geht das wohl nur über Heimspiele.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Bochum als nächstes, dann Darmstadt, Köln kommt auch noch.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Diese direkten Duelle sind Muss-Siege, sonst geht nach 15 Jahren nonstop erste Liga das Buch ziemlich sicher zu.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Freistoß Amiri, Goretzka verpasst, hat nicht viel gefehlt.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Unmittelbar nach dem 2:0, knappe halbe Stunde vorüber, Vollspeed der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Sané zieht, Kane abgeblockt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Kane beschwert sich, und Schiedsrichter Ittrich meint, Handspiel gesehen zu haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Klare Sache, glaubt er.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Doch die langsamen Bilder erzählen etwas anderes: Es ist nur der Rücken von van den Berg, und deshalb kein Elfmeter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Mr. Kane, ein Tor wäre schon sowas wie der Deckel drauf gewesen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Eine Stunde noch zu spielen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Krauß, Ittrich steht genau daneben.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Foulspiel, Freistoß Mainz.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Amiri, der kann sowas.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "Winterschnäppchen-Einkauf für nur eine Million.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Viel Qualität hat der Nadiem Amiri.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Was für ein Strahl! Anschlusstreffer Mainz, und Bayern bleibt sich treu: In jedem Rückrundenspiel setzt es Gegentreffer.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Kopfsache in dem Fall, weil Thomas Müller die Birne einzieht und sich darüber anschließend ärgert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Amiris erstes Tor für 05 und das 20. Mainzer Saisontor.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Kane alleine hat 28.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "In der Folge ein teils unkoordiniertes Spiel, ungenaue Ballverluste, keine Highlights bis kurz vor der Pause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Zentner zum ersten, Zentner zum zweiten.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Ja, da kann einem schon schummrig werden bei Henrichs erstem Spiel gegen Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Sieben Minuten Nachspielzeit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "Mainz versteckt sich nicht.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Die haben so sehr die Hoffnung, hier was mitnehmen zu können.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 63,
+        "text": "Frei nach dem großen Lyriker Rilke: Wenn die Sehnsucht größer ist als die Angst, dann wird der Mut geboren.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 64,
+        "text": "Und sie sind mutig.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 65,
+        "text": "Und wie! Gruda ganz stark und richtig knapp.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 66,
+        "text": "Das Ding so kurz vor der Pause wäre natürlich Gold wert gewesen.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 67,
+        "text": "Vierte Minute der Nachspielzeit, noch mal Freistoß für die Gastgeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 68,
+        "text": "Guerreiro, de Ligt, Laimer, Müller, van den Berg rettet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 69,
+        "text": "Bemerkenswerte Kopfballstafette, eben fast das 2:2, jetzt beinahe das 3:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 70,
+        "text": "Gut was los hier in der Zugabe.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 71,
+        "text": "45 plus, der vierte Kopfball ist der entscheidende.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 72,
+        "text": "Van den Berg rettet 05.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 73,
+        "text": "Aber einen haben wir noch vor der Pause: Leon Goretzka, Zuckerpass auf Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 74,
+        "text": "Der Typ ist 1 plus mit Stern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 75,
+        "text": "29 Tore sind es jetzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 76,
+        "text": "Und guck mal da oben, der Hummels macht den Kane rechts rum, links rum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 77,
+        "text": "Boah, ist der gut! Harry Kane, begnadeter Körper, da wird Fußball zur Kunst.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 78,
+        "text": "3:0, jetzt 3:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 79,
+        "text": "Die Woche kommt sehr gut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 80,
+        "text": "Pause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Erste Szene, zweite Hälfte: Harry, der Playmaker, Kane auf Guerreiro.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Musiala läuft mit, stark in den freien Raum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Und jetzt Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Das Selbstverständnis des Serienmeisters kehrt zurück.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Für Mainz maximal bitter: direkt vor der Pause, direkt nach der Pause.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Wenn man die Umschreibung \"einem den Stecker ziehen\" versinnbildlichen will, bitteschön, das hier ein Paradebeispiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Die Vorbereitung Musialas, ganz feine Klinge für Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Erst das zweite Saisontor, knappe Stunde gespielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Mainz klar hinten, aber noch nicht in Schockstarre.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Brajan Gruda, bester 05er.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Mit Gruda haben die Mainzer ein echtes Juwel auf dem Feld.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Kurz später: Harry Kane, rübergeguckt, da hinten ist Musiala, glockenfrei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Eins gegen eins ist genau sein Ding.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Musiala, Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Jetzt geht's zu wie im Zerlegebetrieb.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Bayern mit dem feinen Seziermesser, und 05 fällt auseinander.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Gegen diese Übermacht haben die Gäste aber mal gar keinen Schutzmechanismus mehr.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Neun Punkte Rückstand aufs rettende Ufer.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Alles andere als der Relegationsplatz wird utopisch für sein Team.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Sie können nur froh sein, dass Köln und Darmstadt seit Monaten genauso historisch schwach sind.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Das Tabellenende der Bundesliga: Nie zuvor in 60 Jahren hatten die letzten drei am 25. Spieltag zusammengerechnet nur sieben Siege auf dem Konto.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Bayern in der Zwischenzeit mit Tel und Gnabry auf dem Feld.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Offensives Statement.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Goretzka, Gnabry, erstes Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Und was für eins!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Mit dem Wort muss man ja wirklich haushalten, aber das ist einfach nur Weltklasse.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Mit der Nummer kann er im Zirkus auftreten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 108,
+        "text": "Das ist wow, das ist Hammer, das ist schöner geht's nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 109,
+        "text": "Und das ist Tor des Monats, da nehme ich jede Wette an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 110,
+        "text": "Großartig, Serge Gnabry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 111,
+        "text": "So, halbes Dutzend voll und 25 Minuten noch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 112,
+        "text": "Au weia, Mainz.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 113,
+        "text": "Kane, 7:1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 114,
+        "text": "Aber der Jubel, der kommt nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 115,
+        "text": "Schiedsrichter Ittrich hat etwas dagegen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 116,
+        "text": "Jedoch der Videobeweis macht den Fußball gerechter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 117,
+        "text": "Es ist minimal kein Abseits, also Kanes Treffer zählt doch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 118,
+        "text": "Und jetzt steht er bei 30 Toren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 119,
+        "text": "Zum vierten Mal schon drei Stück in dieser Bundesliga-Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 120,
+        "text": "Anschließend ist Bayern gnädig mit den Gästen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 121,
+        "text": "Das ganz große Tempo ist nicht mehr drin.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 122,
+        "text": "Wir gehen in die Schlusssekunden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 7,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 123,
+        "text": "Kimmich, starke Flanke, Goretzka, 8:1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 124,
+        "text": "Leon Goretzka, zwei Tore plus zwei Vorlagen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 125,
+        "text": "Also den Tag, den kann er sich mal schön einrahmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 126,
+        "text": "Der Schlusspunkt im bislang torreichsten Spiel der Saison.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 127,
+        "text": "8:0 hatten die Bayern gegen Darmstadt, jetzt 8:1 gegen Mainz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 128,
+        "text": "Die Münchner zeigen Präsenz, falls Leverkusen doch noch wackeln sollte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 129,
+        "text": "Für die Gäste dagegen wird es im Tabellenkeller immer dunkler.",
+        "kontext": "1. FSV Mainz 05",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 130,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 131,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 8,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      }
+    ]
+  }
+}

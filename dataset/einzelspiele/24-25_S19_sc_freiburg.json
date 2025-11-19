@@ -1,0 +1,882 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 19,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "SC Freiburg",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.65"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Daniel Siebert",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der Spitzenreiter, der aber laut Joshua Kimmich kein Spitzenteam mehr ist, zu Gast beim SC Freiburg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Die Münchner in den dunklen Trikots, gefrustet nach der 0:3-Niederlage in Rotterdam, wollen zurück in die Erfolgsspur finden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Und natürlich wird er eine wichtige Rolle dabei spielen: Jamal Musiala testet nach 12 Minuten ein erstes Mal das Aluminium.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Vincent Kompany muss in der Defensive Veränderungen vornehmen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Davies und Upamecano fehlen verletzt, Laimer ist gelbgesperrt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Aber die Verteidigung des Sportmeisters wird bisher kaum gefordert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Daher schaltet sie sich ins Angriffsspiel mit ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Kane gegen Lienhart, Kane vorbei an Lienhart, Kane - zack! 15. Minute, 1:0 für den FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Na endlich, wird sich der ein oder andere Fan vielleicht denken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Na endlich trifft der Engländer wieder aus dem Spiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Zuletzt gelang ihm das am 11. Spieltag gegen Augsburg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Es wurde also mal wieder Zeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "121 km/h sind dann am Ende zu schnell für Atubolu und eine Co-Produktion aus englischem Vorlagengeber und englischem Torschützen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Das hat es in der Bundesliga auch noch nicht gegeben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Den Rückstand muss der Sportclub jetzt natürlich erstmal verarbeiten.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Zuletzt setzte es auch zwei Niederlagen: dem 1:4 in Frankfurt folgte ein bitteres 0:4 beim VfB Stuttgart.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "\"Es wissen alle, was es bedeutet, wenn der FC Bayern verliert\", warnte Julian Schuster vor der Partie.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Und tatsächlich, die Bayern haben die Partie bisher sehr gut im Griff, auch weil Freiburg teilweise unkonzentriert wirkt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Aufgepasst: Höler und Eggestein mit einer interessanten Tanzeinlage.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Das ist eine Szene aus der 25. Minute.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Die Partie mit wenigen Abschlüssen, wenig Highlights.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Es ist bei 16° Außentemperatur schon fast ein entspannter Frühlingskick, den sich Günter und Grifo zusammen von der Bank aus anschauen.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Beide ja seit knapp 10 Jahren im Verein, zuletzt harmonierten sie aber nicht immer so gut wie über weite Strecken in der Vergangenheit.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Freiburg muss sich weiterhin auf das Verteidigen konzentrieren, denn da kommt schon wieder Jamal Musiala gegen Rosenfelder.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Musiala und Kübler.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Schiedsrichter Daniel Siebert zeigt sofort an: kein Elfmeter, und das ist auch korrekt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Kübler spielt den Ball, alles sauber.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Und dann richten sich die Blicke auf Leon Goretzka, der sich bei dieser Aktion verletzt und daraufhin ausgewechselt werden muss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Bitter natürlich für ihn, der in den vergangenen Wochen sehr ansprechende Leistungen gebracht hat.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Für Goretzka kommt Stanišić in die Partie, sein erster Einsatz nach langer Leidenszeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "43. Minute: Wir blicken auf den ersten Eckball der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Doan geklärt, aber Makengo setzt nach und gibt den Ball nochmal raus auf Doan, und der testet dann gleich mal die Beinarbeit von Stanišić.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Sané hat den Ball sicher, von wegen Ballverlust.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Und jetzt könnte mal was gehen für Freiburg, aber das ist dann tatsächlich die beste Offensivaktion der Gastgeber in der ersten Halbzeit.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Es fehlen die Ideen und vielleicht auch etwas der Mut.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Der Expected-Goal-Wert liegt im fast nicht messbaren Bereich, und so bleibt es nach 45 Minuten beim 1:0 für den FC Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Torschütze Kane zum 17. Mal in dieser Saison erfolgreich gewesen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Für die zweite Halbzeit nimmt Julian Schuster eine Änderung vor.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "Rosenfelder bleibt in der Kabine, für ihn kommt Ginter in die Partie.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "47. Minute: Mal eine gute Standardsituation für die Breisgauer.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "Doan - es bleibt also auch erstmal nach dem Seitenwechsel dabei: Torgefahr Mangelware.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "Das reißt auch den ehemaligen Bundestrainer Joachim Löw nicht wirklich vom Sitz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Auch er hat sich sicherlich mehr von dieser Partie erwartet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "Die Bayern mal über rechts, und auf die Seite ist Kane jetzt ausgewichen und fungiert mal als Vorlagengeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Ginter vor Musiala am Ball, und das war ganz wichtig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Sage und schreibe 56 Tore erzielten die Bayern in 18 Ligaspielen bisher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Das überbot in der Bundesliga-Historie nur der FC Bayern selbst in der Saison 21/22.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Der folgende Eckball natürlich ein Fall für Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Min-Jae Kim, 54. Minute, 2:0 für den FC Bayern München.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Und große Proteste bei Atubolu.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Es geht natürlich um den Zweikampf zwischen dem Freiburger und dem Münchner Verteidiger, aber der Südkoreaner macht hier nichts Illegales.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Kim bleibt stabil und Atubolu machtlos.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Es ist das dritte Spiel in Folge, in dem sich der Sportclub ein Gegentor nach einer Ecke fängt.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Vor dem Spiel waren die Freiburger die einzige Mannschaft in der Liga, die in diesem Kalenderjahr bereits zehn Treffer kassierten.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Die Defensive macht große Sorgen.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Gnabry, Gnabry, Großchance von ihm.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Bisher kaum was zu sehen, und das wird sich auch nicht mehr ändern, denn kurz danach hat er Feierabend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Gnabry und Sané raus, Coman und Olise mit frischen Beinen rein in die Partie, in der keine 30 Minuten mehr zu spielen sind.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Langsam muss der Gastgeber mutiger werden.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Kübler und Höler, endlich mal ein Abschluss aufs Tor von Neuer, aber der Winkel ist natürlich sehr spitz.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Zuletzt sicherte sich Freiburg 13 von 15 möglichen Heimpunkten und gewann die vergangenen drei Heimpartien.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Endet diese Serie jetzt gegen den großen FC Bayern München?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Doan und auf einmal ist da viel Platz für Höler.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Und was macht jetzt die Strafraumbesetzung?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Röhl, 68. Minute, der beste Freiburger Angriff in diesem Spiel.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Röhl noch ohne Tor in dieser Saison, immerhin gibt es einen Eckball, und auf den schauen wir jetzt.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Doan, Ginter, 68. Minute, nur noch 1:2.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Matthias Ginter, ein starker Kopfballspieler, aber den macht er mit der Schulter.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Egal wie, der Ball ist drin, und Freiburg tatsächlich zurück in dieser Partie.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Gnabry verpasste die Chance, auf 3:0 zu stellen, und jetzt ist auf einmal wieder Spannung im Spiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Also rein in die Schlussviertelstunde, in der Freiburg in dieser Saison als einziges Team noch keinen Treffer erzielen konnte.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Pavlović wieder zurück auf Coman.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Ja, und die Bayern, die waren in den letzten 15 Minuten bereits sieben Mal erfolgreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Das ist Ligabestwert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Und dann gibt es noch einen bayerischen Rückkehrer: Lien nach Muskelbündelriss, sein erster Bundesligaeinsatz seit Anfang November.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "84. Minute, Eckball Bayern, Olise und dann Stanišić.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Es sind die Ecken, die in dieser zweiten Halbzeit für Gefahr sorgen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Gut getreten auf beiden Seiten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Gegen Rotterdam haben die Bayern über 30 Torschüsse abgegeben, in dieser Partie sind es aktuell nur sieben, aber Stand jetzt reichen die für drei Punkte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Oder gibt es hier noch ein ganz spätes Tor für Freiburg?",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "90+5, die angezeigte Nachspielzeit bereits abgelaufen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Grifo, Manzambi, jetzt geht's nur noch hoch Richtung Strafraum.",
+        "kontext": "SC Freiburg",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Da kommt Gregoritsch, durchatmen bei den Bayern und Aufregung bei den Freiburgern, die hier nochmal einen Elfmeter fordern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Aber nein, das ist zu wenig, und es ist dann auch gleichzeitig die letzte Aktion der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Und wie wichtig dieser Sieg für Vincent Kompany und die Münchner ist, zeigen diese Bilder eindrucksvoll.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 85,
+        "text": "Vielleicht hat Joshua Kimmich recht, und der FC Bayern ist aktuell kein Spitzenteam, aber immerhin sind sie weiterhin eine Einheit, eine, die in der Champions League große Probleme hat, in der Bundesliga aber weiterhin von ganz oben grüßt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

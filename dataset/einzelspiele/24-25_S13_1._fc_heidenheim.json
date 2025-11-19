@@ -1,0 +1,852 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 13,
+    "heim_auswaerts": "Heim",
+    "gegner": "1. FC Heidenheim",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.82"
+  },
+  "ergebnis": {
+    "bayern": 4,
+    "gegner": 2
+  },
+  "offizielle": {
+    "schiedsrichter": "Sören Storks",
+    "kommentator": "Adrian von der Groeben"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Ungleicher könnten die Voraussetzungen kaum sein: Weltclub trifft auf Dorfverein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Der FC Bayern München empfängt den 1. FC Heidenheim.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Nach dem bitteren Pokal-Aus unter der Woche gegen Leverkusen gibt Vincent Kompany Jamal Musiala eine Pause.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Dafür steht in der Startformation ein gewisser Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "In der 12. Minute prüft der Routinier Namensvetter Kevin Müller im Heidenheimer Tor.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Minuten später vergibt Leroy Sané nach einer Flanke von Michael Olise eine gute Kopfballchance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Eine Minute danach ist wieder Sané im Blickpunkt: Alphonso Davies zieht an, lässt durch und wird wieder von Olise bedient.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Der Chip über Kevin Müller geht am langen Eck vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Bayern gehört die Anfangsviertelstunde.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Kein Abseits bei Olises Zuspiel für Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Die Münchner werden von Minute zu Minute immer zwingender und haben einen Eckball in der 18. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Den bringt Joshua Kimmich perfekt für Dayot Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Das 1:0 für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Frank Schmidt schmeckt dieser Gegentreffer überhaupt nicht, denn seine Mannschaft lässt sich in dieser Szene zu einfach abkochen, weil Thomas Müller seine Cleverness unter Beweis stellt.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Der 35-Jährige stellt den Block für Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Der Franzose hängt so Mainka ab, kommt frei zum Kopfball und kann sich die Ecke aussuchen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Kevin Müller ist chancenlos.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Der zweite Saisontreffer für Dayot Upamecano und zumindest ein indirekter Assist für Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Die Bayern dominieren das Spiel auch nach dem Führungstreffer, haben phasenweise 85% Ballbesitz und Thomas Müller probiert es spektakulär.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Dennoch gelingt auch dem dienstältesten Bayernspieler nicht alles.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Der Rekordmeister bleibt in Ballbesitz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Davies im Doppelpass mit Raphaël Guerreiro, frei vor Müller und vor Bayern Müller, aber an den Pfosten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "39. Minute: Der Kanadier im \"Give and Go\" mit dem Portugiesen, aber aus spitzem Winkel trifft Davies, der anscheinend doch vor einer Vertragsverlängerung bei den Münchnern steht, nur den Pfosten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Die Hausherren wollen noch vor dem Halbzeitpfiff erhöhen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Der Ball kommt zu Joshua Kimmich und der probiert es aus zentraler Position aus der Distanz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Kevin Müller geht auf Nummer sicher.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Ordentlicher Versuch von Kimmich, unproblematisch für Nummer 1 Kevin Müller, der kurz vor dem Halbzeitpfiff weiter wachsam sein muss, denn die Bayern erhöhen den Druck.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Alles spielt sich im und um den Strafraum der Gäste ab.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Der auffällige Leroy Sané mit der letzten Chance im ersten Durchgang.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Die Münchner lassen einige gute Möglichkeiten liegen und so geht es nur mit einer 1:0-Führung für die Bayern in die Halbzeitpause.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Es ist kein hochklassiges, sondern ein sehr einseitiges Spiel ohne die ganz großen Highlights.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Abschnitt 2 beginnt da, wo Durchgang 1 aufgehört hat: mit einer Bayern-Chance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 32,
+        "text": "Der Ball kommt vor die Füße von Aleksandar Pavlović, knapp vorbei zum Ärger des 20-Jährigen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 33,
+        "text": "Erneut verpassen die Bayern die Zwei-Tore-Führung, aber gegen so einen harmlosen Gegner ist es doch nur eine Frage der Zeit, bis das 2:0 fällt, denkst du.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 34,
+        "text": "Es kommt zur Neuauflage eines Comics: Asterix zu Gast bei den Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 35,
+        "text": "Heidenheim rebelliert im Stile des gallischen Dorfs und es ist Mathias Honsak, der aus dem Nichts den Ausgleich erzielt.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 36,
+        "text": "Das Ganze unter gütiger Mithilfe von Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 37,
+        "text": "Der Rückpass des Franzosen ist viel zu kurz für Neuer-Vertreter Daniel Peretz und der Österreicher bedankt sich für das Gastgeschenk und sprintet dazwischen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "50. Minute: Plötzlich steht es 1:1 zum Entsetzen der Münchner Führungsetage.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "Wie reagiert Vincent Kompany?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "Er zieht in der 51. Minute ein Ass aus dem Ärmel und wechselt Jamal Musiala für Thomas Müller ein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "Der 21-Jährige bringt sofort Schwung und vor allem Tempo in das Münchner Angriffsspiel, marschiert mit Macht und Ball durchs Mittelfeld und zieht humorlos ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Fünf Minuten auf dem Platz, der Joker sticht und drückt dem Spiel sofort seinen Stempel auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "Das Imperium schlägt zurück.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Die Chefetage applaudiert erleichtert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Einmal mehr zeigt Jamal Musiala, warum die Bayern so gerne langfristig mit dem Nationalspieler verlängern wollen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Es ist der achte Saisontreffer für Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kevin Müller ist zwar noch dran, kann den zweiten Gegentreffer aber nicht verhindern.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Alles hat wieder seine Ordnung, doch Heidenheim ist nach wie vor in Schlagdistanz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Deshalb wollen die Gastgeber nachlegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Kimmich mit guter Übersicht für Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Der Franzose allein vor Müller verpasst das 3:1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Guter Ball von Kimmich, kein Abseits und dann macht Michael Olise bis zum Abschluss alles richtig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Kevin Müller pariert nach einer guten Stunde hervorragend.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Der Tabellenführer bleibt dominant und eins ist klar: Die Bayern sind dem nächsten Treffer deutlich näher als Heidenheim einem erneuten Ausgleich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Nächster Beweis in der 74. Minute: Musiala scheitert an Müller und Sané bleibt an Siersleben hängen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Die Münchner vergeben erneut gute Chancen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Nicht, dass sich das gleich wieder rächt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Allerdings, nach dem Spielverlauf zu urteilen, kaum anzunehmen, dass der FCH hier noch mal zum Ausgleich kommt.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Bayern sind einfach zu stark und schnüren die Heidenheimer hinten ein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Und dann passiert es: Der eingewechselte Leon Goretzka jubelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Aber wie bitter ist dieser Gegentreffer aus Heidenheimer Sicht?",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Tim Siersleben fälscht Goretzkas Schuss unhaltbar für Kevin Müller ab.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Der 33-jährige Schlussmann auf dem Weg in die Ecke kann den Ball nicht mehr rechtzeitig mit dem Fuß abwehren.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "84. Minute: Das 3:1 für die Bayern war absehbar und ist definitiv verdient.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Zu groß der Druck der Münchner, die das Pokal-Aus gut weggesteckt haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Es ist die Vorentscheidung in dieser einseitigen Begegnung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Von wegen: 85. Minute: Der ebenfalls eingewechselte Niklas Dorsch bringt wieder Spannung in diese Partie.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Heidenheim beweist Moral und stellt erneut den Anschluss her.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Das 2:3 durch Dorsch hat nach kurzer Überprüfung durch den VAR Bestand.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Daniel Peretz ist mit der Entscheidung nicht einverstanden, sieht für zu vehementes Reklamieren Gelb vom Unparteiischen Sören Storks.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Der Bayern-Keeper ist der Meinung, dass Breunig beim Torschuss im Abseits steht und sein Sichtfeld behindert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Doch der Treffer zählt und plötzlich trennen beide Teams wieder nur ein Tor.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Es ist ein sehr schön herausgespielter Treffer der Gäste von der Ostalb und eine mögliche Überraschung ist jetzt nicht mehr unmöglich.",
+        "kontext": "1. FC Heidenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Aber der Gegner ist immer noch der FC Bayern München und der verfügt über den besten Kader der Bundesliga, unter anderem mit einem überragenden Jamal Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Und der macht sich in der ersten Minute der Nachspielzeit auf den Weg zum 4:2.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Es ist natürlich kein Abseits beim Zuspiel von Guerreiro auf Musiala, der aus der eigenen Hälfte startet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Wieder zieht Musiala das Tempo an, ist mit Ball schneller als seine Gegenspieler und schließt platziert ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Jetzt ist die Messe gelesen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Erneut schlägt der Joker zu.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Mit zwei Treffern als Einwechselspieler avanciert Jamal Musiala zum Matchwinner in dieser relativ einseitigen, aber phasenweise spannenden Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 81,
+        "text": "Vincent Kompanys Bayern bleiben weiter ungeschlagen in dieser Bundesliga-Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      },
+      {
+        "index": 82,
+        "text": "Das erfreut logischerweise auch die Münchner Bosse, die auf eine baldige Vertragsverlängerung ihres Juwels hoffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 2,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

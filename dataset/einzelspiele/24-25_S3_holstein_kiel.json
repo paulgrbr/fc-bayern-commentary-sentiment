@@ -1,0 +1,1072 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 3,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "Holstein Kiel",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.7"
+  },
+  "ergebnis": {
+    "bayern": 6,
+    "gegner": 1
+  },
+  "offizielle": {
+    "schiedsrichter": "Tobias Reichel",
+    "kommentator": "Gari Paubandt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Los geht's!",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 1,
+        "text": "Die Bayern in den dunklen Trikots eröffnen von unten nach oben die Partie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Musiala auf Neuer, dann Kim per Kopf, noch mal per Kopf, diesmal aber Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Der geht durch, Musiala hat die erste Chance.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Jamal Musiala! Blitzstart Bayern München!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Dank Musiala braucht der deutsche Rekordmeister nur 16 Sekunden, um in Führung zu gehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Es ist der drittschnellste Treffer der Bundesliga-Historie der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Das haut Vincent Kompany aber überhaupt nicht aus den Socken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Bei Kiel erkennbar: Der neuformierten Viererkette fehlt noch die Zuordnung.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Knudsen springt unter dem Ball durch, dann laufen sich Javorcek und Johansson gegenseitig über den Haufen.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Musiala soll der zweite Thomas Müller werden, verbessert weiter seine Verhandlungsposition für eine Vertragsverlängerung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Der Aufsteiger zahlt hingegen weiter Lehrgeld, liegt wieder früh zurück.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Es ist bereits ihr sechstes Gegentor in der noch jungen Saison.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Auf dem jüngst erst ausgezeichneten besten Zweitliga-Rasen der vergangenen Spielzeit will der Aufsteiger zeigen, dass er mehr zu bieten hat als nur ein schönes Grün.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Löblich, sie wollen mitspielen, halten an ihrer Art und Weise fest.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Dazu gehört der flache Aufbau von hinten heraus, aber nicht dieser Fehlpass von Holtby.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Harry Kane erhöht nur 6 Minuten und 6 Sekunden nach dem Führungstreffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Wieder leitet ein Kieler Fehler das Tor ein.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Serge Gnabry sehr wachsam in dieser Situation und Harry Kane gewohnt abschlussstark.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Der Mann, der jüngst in Wembley in seinem 100. Länderspiel erst doppelt traf, jetzt in Kiel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Von einem Kulturschock bei ihm nicht zu spüren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Entscheidend natürlich der Fehler von Kiels Kapitän, der erfahrenste im Team, weiß aus HSV-Zeiten, wie es sich anfühlt, wenn man gegen Bayern 0:8 verliert.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Und Coman diesmal, na bitte, geht durch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Es läuft noch immer die Anfangsviertelstunde.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Kiel sucht weiter den Zugang zur Partie.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Kimmich dazwischen, aber was für ein Rückpass!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Olise setzt zum Dribbling an, am ersten vorbei, dann hat er die Übersicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Johansson kann es nicht fassen.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es ist der dritte individuelle Fehler, der zum dritten Gegentor führt.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Und obendrauf ist das dritte Gegentor auch noch ein Eigentor.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Aber wie gut ist bitte dieser Musiala?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Unnachahmlich sein Gespür, dann auch seine Ballbehandlung, einfach zum Genießen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Die Bayern insgesamt eine Klasse für sich und mehrere Klassen zu gut für Holstein Kiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Letztlich ist es in der 13. Minute nicht Gnabry, sondern Remberg, der den Ball über die Linie befördert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Marcel Rapp schaut jetzt schon ernüchtert auf die Uhr, doch noch ist ordentlich Spielzeit vorhanden.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Er sieht weiter nur eine Mannschaft im Vorwärtsgang.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Kiel noch immer ohne eigenen Abschluss, Bayern hingegen brutal dominant mit der Ecke.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Joshua Kimmich, Deutschlands neuer Nationalmannschaftskapitän, Serge Gnabry.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Es ist der vierte Schuss aufs Tor der Gastgeber und nur der Pfosten verhindert den vierten Münchner Treffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "25. Minute: Wie eine Dampfwalze rollen die Bayern bislang über den Aufsteiger hinweg.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Serge Gnabry, Weiner zum ersten, Coman, Weiner zum zweiten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Endlich kann sich der Kieler Schlussmann auch mal auszeichnen aus Sicht der Hausherren.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Unvergessen dieser Pokalerfolg aus dem Jahr 2021, davon ist heute wenig zu sehen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Wieder die Gäste, Harry Kane, 43. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Der Kapitän der englischen Nationalmannschaft kann den Doppelpack schnüren, weil er viel zu frei zum Abschluss kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Saisontor Nummer 3 für ihn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Eine 4:0-Führung zur Pause in einem Auswärtsspiel gab es für Bayern zuletzt im August 2022 in Bochum.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kiel sollte gewarnt sein, endete die Partie mit 7:0.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Und für die Hausherren ist es damit längst eine Frage der Höhe, aber auch eine Frage der Ehre.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Die zweite Hälfte: Einwurf Holstein Kiel.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "40 Sekunden haben sie schon überstanden und damit mehr Sekunden als zu Beginn dieser Begegnung.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Noch kein weiteres Gegentor haben sie hinnehmen müssen und stattdessen zeigen sie sich jetzt selbst offensiv.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Der eingewechselte Puchacz, die Flanke, Pichler ist gefährlich.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "47. Minute: Manuel Neuer bekommt den ersten Ball auf seinen Kasten und der wäre um ein Haar reingegangen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Während Leroy Sané nicht zum Einsatz kommen wird, sammelt Thomas Müller, Bayerns neuer Rekordspieler, weiter Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Autsch, Remberg, nah zu rustikal.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Genau diese Körpersprache ist es aber, die in der ersten Halbzeit den Gastgebern komplett fehlte.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "59. Minute: Ecke Bayern, wieder Kimmich, auch die kommt gut.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Weiner, Coman, Coman!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Standardschwäche bei Kiel bleibt Thema und Weiner macht deutlich: Die nötige Aggressivität lässt der Gastgeber bislang zu sehr vermissen.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Vincent Kompany, mit dem HSV hat er hier im Pokal schon mal 5:0 gewonnen, verfolgt das Geschehen tiefenentspannt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Und das, weil seine Bayern dominant bleiben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Davies, Davies, Weiner ist dran, Olise, 65. Minute, 5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Sein erstes Pflichtspieltor für den neuen Arbeitgeber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Weiner, wie gleich zwei eingewechselte Münchner, können machen, was sie wollen, weil wieder kein Kieler nach vorn verteidigt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Weiner im Tor ist noch der beste, doch beim Nachschuss von Olise ist er machtlos, weil ihm einfach nicht geholfen wird.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Was haben die Störche in der letzten Saison Glanz versprüht in Liga 2, doch aktuell liegt Kiel mehr im Schatten.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Die Bayern am Horizont strahlen aus einer anderen Sphäre.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Müller rückt für die Schlussphase noch mal ganz nah ans Fenster.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Ob sich das lohnt?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "82. Minute: Der nächste Ballverlust im Vorwärtsgang.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Laimer, dann aber unglücklich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Kiel schaltet um, zum ersten Mal überhaupt.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Was machen sie draus?",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Die Flanke von Puchacz und da ist Gigovic!",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Was für andere nur ein Ehrentreffer ist, ist für Kiel ein Tor für die Geschichtsbücher.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Der erste Heimtreffer der Bundesliga-Geschichte erzielt der Aufsteiger gegen den großen FC Bayern.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Entsprechend wird dieses Tor gefeiert, fast wie ein Sieg.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Die Flanke ist wunderbar getimt, hat die perfekte Schärfe.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Und Bayern hat damit in den saisonübergreifend letzten 13 Auswärtsspielen immer ein Gegentor kassiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Und plötzlich haben die Kieler Gefallen an der Partie gefunden.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Wieder der Torschütze, mit Glück kommt der Ball zu Rosenboom und da ist Fiete Arp an die Latte.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Fast auch noch das zweite durch den Mann, der einst als Riesentalent zu den Bayern wechselte, aber nur zu einem Profieinsatz kam.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Es laufen bereits die letzten Minuten der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Noch mal die Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Palhinha, Müller schiebt weiter, Kane, Harry Kane geht zu Boden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Knifflig, ist das ein Strafstoß?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Schiedsrichter Tobias Reichel geht in den Austausch mit Kane, entscheidet nicht, auf den Punkt zu zeigen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Johansson trifft weder Ball noch Kane, aber der Bayern-Stürmer fädelt wohl clever ein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Remberg fordert Gelb für Kane, weil er eine Schwalbe gesehen haben will, kriegt selbst Gelb.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Reichel bekommt den Hinweis aus Köln: Wir sehen keinen Kontakt gegen Kane.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Letztlich tritt er gegen den Oberschenkel und deswegen geht er zu Fall.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Eine klare Fehlentscheidung sieht grundsätzlich anders aus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Reichel zeigt aber auf den Punkt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Strittig.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Harry Kane mit Tor Nummer 3 an diesem Abend, das 6:1 in der Nachspielzeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Der Engländer hat damit jeden seiner Pflichtspielstrafstöße für Bayern verwandelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Er knackt die 40-Bundesliga-Tore-Marke in nur 35 Spielen, neuer Rekord.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Die Münchner schlagen auch in der Höhe verdient Kiel mit 6:1.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 99,
+        "text": "Vincent Kompany hat somit die ersten drei Bundesliga-Spiele mit dem FC Bayern alle gewonnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 100,
+        "text": "Der Lohn: die erste Tabellenführung seit einem Jahr.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 101,
+        "text": "Und für Kiel sollte dieser Tag unvergesslich werden.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 102,
+        "text": "Daraus wurde ergebnistechnisch aufgrund der klaren Rollenverteilung nichts.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 103,
+        "text": "Und doch hat vor allem der Anhang mit dieser aufmunternden Reaktion am Ende dafür gesorgt, dass sie auch einer klaren Niederlage etwas Positives abgewinnen können.",
+        "kontext": "Holstein Kiel",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      },
+      {
+        "index": 104,
+        "text": "Die Stimmen zum Spiel gibt's auf sportstudio.de.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 6,
+          "tore_gegner": 1,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,802 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 22,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "VfL Bochum",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.68"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 3
+  },
+  "offizielle": {
+    "schiedsrichter": "Daniel Schlager",
+    "kommentator": "Adrian von der Groeben"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "In einer tiefen Formkrise, tief im Westen: Der FC Bayern München gastiert beim VfL Bochum. Die Hausherren in Dunkelblau von links nach rechts versuchen, die kriselnden Münchner von Beginn an zu verunsichern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Eine gute Flanke von Kevin Stöger und der Kopfball von Anthony Losilla - ein couragierter Start des VfL nach 6 Minuten.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 2,
+        "text": "Danach übernehmen aber die Bayern die Spielkontrolle und haben einen Eckball in der 14. Minute, getreten von Joshua Kimmich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Am langen Pfosten setzt sich Matthijs de Ligt durch, doch der Ball wird auf der Linie geklärt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Eine gute Möglichkeit für die Bayern, die weiter dranbleiben und Druck aufbauen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Joshua Kimmich zu Jamal Musiala im Eins-gegen-Eins mit Losilla, und dann Riemann mit der Fußabwehr.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Doch der zweite Ball landet bei Goretzka, und diesmal ist Manuel Riemann machtlos.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Das 1:0 für den Rekordmeister durch Bayerns jungen Ausnahmekönner, der eindrucksvoll zeigt, dass er es auch mit roher Gewalt kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der Treffer tut dem Rekordmeister sichtbar gut, besonders dem Torschützen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Ein ganz feiner Pass mit dem Außenrist zu Harry Kane, und das 2 zu... nein!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Das sieht man auch nur ganz selten, dass Kane nach diesem Traumpass von Musiala so deutlich verzieht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Alternativ hätte der Engländer den besser postierten Thomas Müller anspielen können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Ab der 21. Minute protestieren beide Fanlager gegen einen möglichen Investoren-Einstieg bei der DFL.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Für knapp 13 Minuten entsteht ein Hauch von Wimbledon im Ruhrpott.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Die Unterbrechung scheint den Gastgebern gutgetan zu haben.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Tim Oermann mit dem Ballgewinn gegen Musiala, Umschaltsituation für den VfL.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Asano, eigentlich ein bisschen ungenau, aber Losilla box clever aus gegen Kimmich und schickt den flinken Takuma Asano in der 38. Minute.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Der Japaner trifft und riesiger Jubel!",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Die Balleroberung von Oermann war entscheidend, und dann geht es ganz schnell.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Asano im Give-and-Go mit Losilla, und der Flügelflitzer schließt im strömenden Regen von Bochum ab.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Manuel Neuer ist chancenlos.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Mit dem Ausgleich wirken die Gastgeber selbstbewusster.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Kevin Stöger rechts raus zu Asano, Kim dazwischen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "44. Minute, Eckball VfL Bochum, und das ist ein Fall für Kevin Stöger.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Der Kopfball von Keven Schlotterbeck - absolut irre!",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Bochum dreht das Spiel gegen die Bayern binnen 6 Minuten.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Erneut steht das Ruhrstadion Kopf.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Die Ecke von Stöger scharf an den Fünfmeterraum getreten, Schlotterbeck schraubt seine 188 cm am höchsten und nickt wuchtig zur Bochumer Halbzeitführung ein.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Aus der kurzen Distanz ist Neuer wieder ohne Abwehrchance.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Der Torschütze weiß, bei wem er sich zu bedanken hat.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Für Thomas Tuchel scheint es nach Abschnitt 1 vom Regen in die Traufe zu gehen, das Ganze in einem blau-weißen Bochumer Himmelreich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Allerdings wartet auf den Gastgeber noch mal eine intensive zweite Halbzeit.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Doch der VfL verteidigt mit allem, was er hat, und lässt kaum etwas zu.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Bestes Beispiel: diese Szene in der 64. Minute.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 34,
+        "text": "Der Ball kommt zum eingewechselten Leroy Sané, Bernardo mit dem wichtigen Block.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 35,
+        "text": "Doch die erwartete Münchner Drang- und Druckphase in Durchgang 2 bleibt überraschenderweise erstmal aus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 36,
+        "text": "Stattdessen mutig der VfL, hat Lunte gerochen.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 37,
+        "text": "Einwurf Christopher Antwi-Adjei, und der wird länger und länger und gefährlich.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "Kim klärt in allerhöchster Not vor Losilla auf Kosten eines erneuten Einwurfs.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "Diesmal kurz ausgeführt von Antwi-Adjei, der den Ball von Stöger zurückbekommt und einfach mal aufs Tor bringt.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "Manuel Neuer reißt die Fäuste hoch, und dann steht Antwi-Adjei im Abseits.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "72 Minuten zu diesem Zeitpunkt gespielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Erst Schlotterbeck mit der Kopfballverlängerung, die Kim wegräumt, und dann Antwi-Adjeis Abschluss, den Neuer entschärft.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "5 Minuten danach: Bochum bleibt gefährlicher.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Ecke Kevin Stöger, Bayern klärt, aber Stöger bekommt den zweiten Ball, bringt sofort die nächste Flanke.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Schlotterbeck an den langen Pfosten, und da steht Broschinski, aber es ertönt ein Pfiff von Daniel Schlager.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Es ist nicht das 3:1.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Kurze Verwirrung auf dem Platz, doch die Zeitlupen klären auf.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Schlager entscheidet für diesen Ellenbogenschlag von Upamecano gegen Schlotterbeck auf Elfmeter und schickt den Franzosen mit Gelb-Rot vom Platz.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Nach der glatt roten Karte in der Champions League gegen Lazio Rom ist es der zweite Platzverweis binnen vier Tagen für Upamecano, der in der 34. Minute für Mazraoui eingewechselt wurde.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Das Duell aus elf Metern heißt Kevin Stöger gegen Manuel Neuer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 2,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Der Österreicher, der Mann für die ruhenden Bälle beim VfL, trifft zum 3:1.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Blau-weißer Jubel, allerdings war das ganz schön knapp, denn Neuer ahnt die Ecke und ist dran, aber nicht entscheidend genug.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Zur Freude und Erleichterung des Bochumer Anhangs, der kurz darauf wütende und aggressive Bayern sieht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Der eingewechselte Mathys Tel auf Musiala, der im Duell mit Schlotterbeck und dem Abschluss aus spitzem Winkel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Manuel Riemann mit der Fußabwehr in der 85. Minute.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "60 Sekunden danach: Die Bayern mit einem Mann weniger, deutlich zwingender als zuvor, erhöhen den Druck.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Gamboa mit der zu kurzen Abwehr in die Füße von Sané, super verzögert, aber Riemann!",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Sané macht eigentlich alles richtig, doch Bochums Schlussmann verhindert mit einer Riesentat den Münchner Anschlusstreffer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Doch die Bayern erhöhen jetzt die Schlagzahl, haben Chancen im Minutentakt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Tel setzt sich energisch durch, zieht in den Strafraum, wird gestellt und legt quer, aber findet Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "87. Minute, da ist der Münchner Anschlusstreffer durch das 25. Saisontor des Kapitäns der Three Lions, der seine Mitspieler noch mal anfeuert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Tel mit der Willensleistung und Kane mit einer seiner leichtesten Übungen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Und die Bayern schnüren Bochum in der Schlussphase hinten ein, kommen immer wieder über links mit der perfekten Flanke für Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Schwäche des Bundesliga-Top-Torjägers in der dritten Minute der Nachspielzeit, sinnbildlich für die sportliche Krise der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Vor ein paar Wochen hätte Kane so eine Flanke über die Linie gedrückt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Eine Minute später kann sich der VfL aus dem Münchner Klammergriff mal befreien mit dem eingewechselten Kwarteng, und der sucht die Vorentscheidung, aber Manuel Neuer hat etwas dagegen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Kwarteng ärgert sich, denn das war ganz knapp.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Der Schuss von de Ligt abgefälscht, Neuer mit spektakulärer Flugeinlage gibt seiner Mannschaft so noch die Chance auf einen Punktgewinn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Und natürlich rollen die Bayern noch mal an.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Letzte Minute der Nachspielzeit, noch mal die Münchner mit Leroy Sané im Eins-gegen-Zwei, verliert die Kugel erst und kommt dann doch zum Abschluss, aber erneut Riemann mit der Fußabwehr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Bochums Nummer 1 hält den Sieg fest.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Thomas Letsch wollte ein Stolperstein für die Münchner sein, aber Bochum war weit mehr als das.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 73,
+        "text": "Die dritte Pflichtspielniederlage in Folge bringt den Rekordmeister heftig ins Wanken.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 74,
+        "text": "Die Münchner wirken rat- und planlos, verlieren den Anschluss im Rennen um die Meisterschaft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 75,
+        "text": "Und der beeindruckende Mentalitätssieg des VfL Bochum weckt bei den Fans an der Castroper Straße einen alten Klassiker.",
+        "kontext": "VfL Bochum",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 76,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      },
+      {
+        "index": 77,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 3,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

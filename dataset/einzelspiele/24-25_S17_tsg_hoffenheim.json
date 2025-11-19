@@ -1,0 +1,762 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 17,
+    "heim_auswaerts": "Heim",
+    "gegner": "TSG Hoffenheim",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.65"
+  },
+  "ergebnis": {
+    "bayern": 5,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Timo Gerach",
+    "kommentator": "Moritz Zschau"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Der bereits feststehende Hinrundenmeister trifft auf einen seiner Angstgegner, wenn man das überhaupt so nennen kann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Nur zwei der letzten fünf Spiele konnten die Bayern gegen Hoffenheim gewinnen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Diese Quote soll heute aufgebessert werden, und die Bayern übernehmen von Beginn an das Kommando.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "In der 7. Minute: Leroy Sané mit einem Traumstart, die frühe Führung für den Rekordmeister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Ein Schuss, ein Tor – die Bayern-Hymne hätte besser nicht passen können als heute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Sané leitet den Treffer selbst ein, spielt dann zu Müller, und der legt perfekt ab.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Präziser Abschluss von Leroy Sané, sein viertes Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Nichts zu machen für Oliver Baumann.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "In den letzten fünf Bundesliga-Heimspielen erzielten die Bayern immer mindestens drei Tore.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Der Anfang ist schon mal gemacht, um diese Serie fortzusetzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Es ist in den ersten Minuten ein Spiel auf ein Tor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "120 Sekunden nach dem Führungstreffer: Kane auf Davies, die Flanke landet abgefälscht bei Harry Kane, Baumann packt sicher zu.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Vincent Kompany kann aber zufrieden sein mit dieser Anfangsphase.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Die TSG kommt bislang kaum über die Mittellinie.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "In der 12. Minute: Pavlović auf Guerreiro, und jetzt geht es schnell.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Doppelpass mit Harry Kane, Raphaël Guerreiro, 2:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Das erste Saisontor für den Ex-Dortmunder.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Das ist klasse herausgespielt, Hoffenheim leistet aber auch kaum Gegenwehr.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Guerreiro zieht das Tempo an, und dann kommt kein Hoffenheimer hinterher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Der Abschluss ist dann ähnlich wie der von Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Wenn die TSG so weitermacht, könnte das heute eine richtige Packung geben.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Zwei Tore nach 12 Minuten, da fehlt schon früh die Fantasie, wie Hoffenheim hier noch etwas Zählbares mitnehmen will.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "20 Minuten vorbei: Ecke Kimmich, und der findet Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Arthur Chaves rettet kurz vor der Linie.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Zehn Mal haben die Münchner schon nach Standards in dieser Saison getroffen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Hier fehlt nicht viel zu Treffer Nummer 11.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Sané ist sehr auffällig in den ersten 25 Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Davies, und da ist Kane mal in Position.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Es gibt zarte Proteste, Schiedsrichter Timo Gerach lässt erstmal weiterlaufen, aber der VAR meldet sich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Denn Akpoguma bekommt Kanes Schuss an den ausgestreckten Arm.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Gerach schaut sich das Ganze selbst an und entscheidet dann relativ schnell: Es gibt Elfmeter für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Und natürlich übernimmt Harry Kane gegen Oliver Baumann, der ist allerdings ein Elfmeter-Killer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Bringt aber nichts, Kane ist vom Punkt scheinbar unfehlbar.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Baumann ist in die falsche Ecke unterwegs, aber selbst wenn er die richtige Ecke gehabt hätte, hätte er den vermutlich nicht halten können.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Perfekt ins Eck, so schießt man einen Elfmeter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Durch diesen Treffer ist Kane mit 16 Saisontoren wieder alleiniger Toptorjäger der Liga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Kompanys Team schießt auch im sechsten Heimspiel in Serie mindestens – die Betonung liegt allerdings auf mindestens, denn die Bayern haben ja noch eine Menge Zeit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Guerreiro, klasse weitergeleitet zu Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Müller trifft den Ball nicht richtig, Hoffenheims Defensivakteure sind nur Statisten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Bayerns Offensive kann fast nach Belieben kombinieren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Manuel Neuer ist nach wie vor beschäftigungslos, ganz anders sein Gegenüber.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Baumann verlängert die Flanke unglücklich zu Sané, Bischof blockt dann zur Ecke.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Tom Bischof wird ja sehr umworben von den Münchnern, gut möglich, dass er dann bald im Bayern-Trikot spielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Kurz vor der Pause die nächste schlechte Nachricht für Hoffenheim: Samassékou hat sich in dieser Szene verletzt und kann nicht mehr weitermachen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Für den Mittelfeldmann kommt der junge Österreicher Alexander Prass.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Nach 45 Minuten ist Hoffenheim erst einmal erlöst.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Die Bayern führen hochverdient mit 3:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Es scheint nur noch um die Höhe des Sieges zu gehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Zweiter Durchgang, unverändertes Bild: Mathys Tel, eben eingewechselt, mit der Hereingabe für Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 3,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Doppelpack von Leroy Sané, und Tel sammelt keine drei Minuten nach seiner Einwechslung direkt den ersten Scorerpunkt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Nsoki steht zu weit weg vom Niederländer, der kann dadurch unbedrängt flanken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Müller bindet Akpoguma in der Mitte, dadurch entwisch Sané am zweiten Pfosten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Auch dank der Bayern ist die Hinrunde in der Bundesliga die torreichste seit 39 Jahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Wäre auch Harry Kane zum Doppelpacker geworden nach diesem missglückten Rückpass, rettet Baumann in höchster Not.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "26 Mal waren die Bayern bereits Hinrundenmeister, nur dreimal davon sind sie am Saisonende nicht auch Deutscher Meister geworden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Die Chancen auf den nächsten Titel sind also sehr aussichtsreich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Kimmich hat den nächsten Abschluss in der 56. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Für ein paar Minuten lassen es die Bayern danach etwas ruhiger angehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 4,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Wir springen in die 66. Minute: Sané, Müller, Guerreiro, Davies startet, Gnabry bekommt den Ball, 5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Ein Jahr hat Gnabry das Trikot der TSG getragen, von 2017 bis 2018.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Jetzt erzielt er gegen seinen Ex-Club sein drittes Saisontor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Nsoki stört entscheidend gegen Davies, legt dadurch aber unfreiwillig vor für Gnabry, der hat dann leichtes Spiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Hoffenheim muss jetzt auch ein bisschen aufpassen, sich das Torverhältnis nicht komplett zu versauen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "Das könnte im Kampf um den Klassenerhalt durchaus noch wichtig werden.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Aber dann, 20 Minuten vor dem Ende, endlich ein Hoffenheimer Lebenszeichen: Der eingewechselte Finn Ole Becker lässt Manuel Neuer zum ersten Mal schön fliegen.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Bayern hat mittlerweile längst einen Gang runtergeschaltet, das Spiel ist natürlich längst entschieden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Die 85. Minute: Olise, auch der ist eingewechselt, scheitert an Oliver Baumann, der eine noch höhere Niederlage verhindert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Der TSG aber zugutehalten kann: Die Kraichgauer lassen die Köpfe nicht hängen, sondern probieren noch mal etwas.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Tabakovic, Neuer packt zu, immerhin mal ein paar Abschlüsse zum Ende hin auf Hoffenheimer Seite.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Die letzte sehenswerte Aktion gehört dann aber den Münchnern: 89. Minute, wieder Gnabry mit dem Abschluss, noch leicht abgefälscht, geht der hauchzart am Tor vorbei.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Danach ist Schluss.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 71,
+        "text": "Die Bayern gewinnen auch in der Höhe absolut verdient mit 5:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 72,
+        "text": "Die TSG war von Beginn an chancenlos.",
+        "kontext": "TSG Hoffenheim",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 73,
+        "text": "Für die Bayern geht es am Wochenende nach Wolfsburg.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 5,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

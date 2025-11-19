@@ -1,0 +1,1132 @@
+{
+  "meta": {
+    "saison": "23/24",
+    "spieltag": 14,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "Eintracht Frankfurt",
+    "tabelle": 2,
+    "ballbesitz_bayern": "0.38"
+  },
+  "ergebnis": {
+    "bayern": 1,
+    "gegner": 5
+  },
+  "offizielle": {
+    "schiedsrichter": "Felix Zwayer",
+    "kommentator": "Martin Gräfe"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "[Applaus] Neun Tage Pause für die Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Der ein oder andere Fan dürfte schon an Entzugserscheinungen leiden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Der Rekordmeister in Weiß, Frankfurt in Rot-Schwarz, und die SGE auch mit dem ersten Abschluss in der ersten Minute.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 3,
+        "text": "Die Eintracht erlitt das gleiche Schicksal wie die Münchner im DFB-Pokal, scheiterten die Hessen am Drittligisten Saarbrücken.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Wiedergutmachung ist angesagt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "Die Bayern konnten zuletzt sechs Ligasiege in Folge einfahren, haben aber in den ersten Minuten Probleme, ins Spiel zu finden.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "Ebimbe kommt an den Ball, Masraoui viel Betrieb im Sechzehner.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Frankfurt setzt nach, aber so richtig zwingend wird es dann doch nicht mehr.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Der Angriff versandet, Goretzka klärt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "\"Wir müssen kratzen, beißen und uns mit allem wehren, was wir haben\", sagte SGE-Coach Dino Toppmöller vor der Partie.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Der Start dürfte ihm gefallen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Seine Mannschaft in einem 4-4-2 gegen den Ball, jetzt mal gefordert.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Davies, Goretzka, Kane, der versucht, Coman in die Aktion zu holen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Es bleibt aber beim Versuch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Thomas Tuchel kann in der Innenverteidigung wieder auf Min-jae Kim setzen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Insgesamt nimmt er vier Veränderungen im Vergleich zum letzten Pflichtspiel gegen Kopenhagen vor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Es ging in den vergangenen Tagen an der Säbener Straße vor allem darum, die Spannung hochzuhalten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Und die fehlt irgendwie in den ersten Minuten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Wieder die Eintracht über Buta und Marmoush, der dann aber ins Rutschen kommt.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Trotz der vier Pflichtspielniederlagen zuletzt sieht das hier nicht nach Stimmungstief aus.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Frankfurt hat sich was vorgenommen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Masraoui, Chaibi, Latte, und dann ist da Omar Marmoush.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "12. Minute, 1:0 Eintracht [Applaus].",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Frankfurt, die SGE belohnt sich für die gute Anfangsphase.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Masraoui sieht zweimal nicht gut aus, einmal mit der Vorlage und dann bleibt er stehen und hebt das Abseits auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Marmoush sagt Danke.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Siebtes Saisontor für ihn.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Den Toptorschützen muss die Eintracht zu Beginn der Rückrunde ersetzen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "Marmoush ist einer von drei Frankfurtern, die am Afrika-Cup teilnehmen werden.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Bis dahin gilt die Konzentration aber natürlich voll und ganz der Eintracht.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Mittlerweile fast 20 Minuten gespielt, der FC wartet noch auf seinen ersten richtigen Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Es fehlen die Spielideen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Coman aus der Distanz, bisher auch noch nichts zu sehen von Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Der Engländer abgemeldet wie ein Auto ohne Kennzeichen, und das bleibt erstmal so.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Der Gegenangriff der Hausherren: Knauff und Min-jae Kim, klares Foulspiel, und der Südkoreaner sieht die erste Gelbe Karte der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Langsam aber sicher wacht der Rekordmeister auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Coman auf Goretzka mit ein bisschen Platz im Mittelfeld.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Kane, Kane, und jetzt hat er mal seine Chance, aber zu ungenau der Abschluss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Immerhin ein Lebenszeichen der Münchner.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Normalerweise lässt sich der Engländer so eine Gelegenheit nicht entgehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Freistoß, 29. Minute, Kimmich kurz auf Choupo-Moting, und Trapp, jetzt ist der Keeper mal gefordert und ist zur Stelle.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Gute Variante der Bayern, der Überraschungseffekt hat funktioniert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Das Spiel in dieser Phase deutlich ausgeglichener als in der Anfangsphase.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Chaibi schickt Knauff, und der ist bissiger im Zweikampf als Min-jae Kim.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 1,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Ebimbe gegen zwei, Ebimbe, 31. Minute, 2:0 Frankfurt.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Und dieser Treffer spiegelt den absoluten Willen der Eintracht wider.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Stichwörter: kratzen und beißen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Knauff und Ebimbe, die sich klasse durchsetzen, und dann rutscht auch noch Manuel Neuer der Ball durch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Die SGE zeigt tatsächlich eine Reaktion nach dem enttäuschenden Pokal-Aus, und das ausgerechnet gegen den großen FC Bayern München, der ja eigentlich Druck ausüben will auf Bayer Leverkusen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Das hat man sich sicherlich auch etwas anders vorgestellt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Goretzka, Dino Toppmöller, Vater Klaus hatte die Hessen vor 30 Jahren zur Herbstmeisterschaft geführt und einmal das berühmte \"Bye Bye Bayern\" getönt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 51,
+        "text": "An diesem Spieltag will der Sohn die Münchner ärgern.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 52,
+        "text": "Upamecano im Aufbau über Kimmich, und der mit diesem Fehlpass.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 53,
+        "text": "Larsson sofort weiter auf Marmoush.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 2,
+          "phase": 1
+        }
+      },
+      {
+        "index": 54,
+        "text": "Larsson startet durch, Larsson, Wahnsinn, 36. Minute, es steht 3:0 für Eintracht Frankfurt.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 55,
+        "text": "Schockstarre bei den Münchnern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 56,
+        "text": "Kleine Fehler werden sofort bestraft, wobei so klein war der Fehler von Kimmich gar nicht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 57,
+        "text": "Und Larsson leitet das Tor dann selbst ein.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 58,
+        "text": "Das 19-jährige schwedische Talent mit seinem zweiten Saisontor.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 59,
+        "text": "Die Eintracht wie im Rausch.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 60,
+        "text": "Gelingt den Bayern noch eine Antwort im ersten Durchgang?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 61,
+        "text": "Ecke, Choupo-Moting, Kane, aber es ist tatsächlich Ebimbe mit einer enorm wichtigen Rettungstat.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 62,
+        "text": "Nur zwei Minuten nach dem 0:3 schnuppern die Gäste am Anschlusstreffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 63,
+        "text": "Kurz vor der Pause, Masraoui, Sané, wenig zu sehen vom Nationalspieler.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 64,
+        "text": "Sané wartet auf Kimmich, das Warten hat sich gelohnt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 65,
+        "text": "44. Minute, nur noch 1:3 aus Sicht der Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 66,
+        "text": "Der große Jubel bleibt aus, da hat sich viel Frust aufgestaut, obwohl der Abschluss natürlich herrlich ist.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 67,
+        "text": "Feine Schusstechnik von Kimmich, nicht zu machen für Kevin Trapp.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 68,
+        "text": "Mit dem 1:3 aus Sicht des Rekordmeisters geht es dann auch erstmal in die Kabine.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 1
+        }
+      },
+      {
+        "index": 69,
+        "text": "Auf die Bayern wartet eine Menge Arbeit, und Tuchel reagiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Laimer und Guerreiro kommen für Masraoui und Davies.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "Beide sorgen gleich auch für etwas frischen Wind.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Guerreiro, nicht gut geklärt von Pacho, Kimmich, Kane, Choupo-Moting.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Es geht für die Münchner auch darum, die erste Liganiederlage zu verhindern, und das gegen die zuletzt kriselnden Frankfurter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Coman, immer noch der Franzose, aber das bringt Trapp nicht wirklich ins Schwitzen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Die Eintracht steht weiter stabil und ist griffiger.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Upamecano schießt Ebimbe an.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Ebimbe startet durch und zeigt an, wo er den Ball hin haben will.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 3,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Ebimbe, 50. Minute, es steht 4:1.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Doppelpack Ebimbe.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Die Eintracht setzt ein Ausrufezeichen, und auf der Stirn von Manuel Neuer sind eine Menge Fragezeichen zu finden.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Erneut verschickt der FC Bayern Einladungskarten für die große Gegentorparty, diesmal Upamecano.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Und dann schalten die Frankfurter blitzschnell.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Liegt es wirklich nur an der langen Pause der Bayern?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Sie wirken unkonzentriert, und jetzt ist es eine Mammutaufgabe.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Aber noch bleibt etwas Zeit, und die Münchner besitzen die beste Offensive der Liga.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Kane, Coman, Choupo-Moting, die große Chance, den Zwei-Tore-Rückstand wiederherzustellen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Stattdessen gibt es den Zusammenprall mit Trapp.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Nach einer kurzen Behandlungspause geht es dann aber für beide Akteure weiter.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Trotz der 4:1-Führung zieht sich die SGE nicht zurück.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Götze, wieder Götze, Marmoush, dem verspringt der Ball etwas, aber heute klappt alles, denn Knauff ist da.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 4,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "5:1.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Der Jubel wird unterbrochen, es soll Abseits sein, aber von wegen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Die kalibrierte Linie schafft Klarheit.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Laimer, oben zu sehen, hebt das Abseits auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Der Treffer zählt, und das heißt, es darf wieder gejubelt werden.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Der ein oder andere Eintracht-Fan wird sich vielleicht selbst in den Arm kneifen, aber es stimmt: Die Frankfurter führen mit vier Toren und nehmen den Rekordmeister auseinander.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "In der 71. Minute wird Gnabry mit einer Muskel-Sehnen-Verletzung im linken Adduktorenbereich ausgewechselt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "Bitter, der Nationalspieler wurde fünf Minuten zuvor eingewechselt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Der Blick in die verdutzten, verärgerten und enttäuschten Bayern-Gesichter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Das Duell der Saarbrücken-Verlierer wird an Eintracht Frankfurt gehen.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Die Frage allerdings, die noch geklärt werden muss: Wie hoch fällt der Sieg am Ende aus?",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "Der eingewechselte Kunku, der die Augen nur auf dem Ball hat und seine Mitspieler in dieser Situation ignoriert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Der Abschluss ist dann zu ungefährlich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 104,
+        "text": "Meckern auf hohem Niveau, durchatmen bei Tuchel, wobei der seit geraumer Zeit nur noch in seinen Schal atmet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 105,
+        "text": "Es ist ein überragender Auftritt der Hessen, offensiv und in der Defensive wenig zugelassen, auch wenn man Harry Kane hier noch mal zum Abschluss kommen lässt.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 106,
+        "text": "Es ist die letzte nennenswerte Aktion der Partie.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 2
+        }
+      },
+      {
+        "index": 107,
+        "text": "Dino Toppmöller und die Frankfurter feiern einen 5:1-Sieg gegen den FC Bayern.",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 3
+        }
+      },
+      {
+        "index": 108,
+        "text": "Und vielleicht sitzt irgendwo Vater Klaus und wiederholt seinen legendären Satz: \"Bye Bye Bayern\".",
+        "kontext": "Eintracht Frankfurt",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 3
+        }
+      },
+      {
+        "index": 109,
+        "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 3
+        }
+      },
+      {
+        "index": 110,
+        "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 5,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

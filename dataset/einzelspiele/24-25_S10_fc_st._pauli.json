@@ -1,0 +1,742 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 10,
+    "heim_auswaerts": "Auswärts",
+    "gegner": "FC St. Pauli",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.75"
+  },
+  "ergebnis": {
+    "bayern": 1,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Timo Gerach",
+    "kommentator": "Moritz Zschau"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Über 13 Jahre ist es her, dass sich St. Pauli und die Bayern zum letzten Mal in der Bundesliga begegnet sind.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Damals gab es ein 8:1 aus Sicht der Kiezkicker.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Das soll sich natürlich auf gar keinen Fall wiederholen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Die Bayern, in den weißen Trikots, beginnen dominant.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 4,
+        "text": "Musiala hätte hier vielleicht lieber den Abschluss suchen sollen, so verpufft die erste Gelegenheit.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 5,
+        "text": "St. Pauli hat sich in den letzten Wochen stabilisiert und scheint in der Liga angekommen zu sein.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 6,
+        "text": "In zwei der letzten drei Spiele blieb der Aufsteiger ohne Gegentor.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 7,
+        "text": "Hier tankt sich ein Spieler an Upamecano vorbei, aber Neuer ist da.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 8,
+        "text": "Zuletzt hat er viermal in Serie die Null gehalten, ganz nach dem Geschmack von Vincent Kompany.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Bei den Münchnern steht überraschend Leon Goretzka in der Startelf, zum ersten Mal in dieser Saison.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Für Gefahr sorgte bislang ausschließlich Jamal Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Das ist der erste Torschuss nach einer Viertelstunde.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Seit sieben Spieltagen sind die Bayern mittlerweile Tabellenführer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Das liegt auch an der starken Form von Jamal Musiala, hier mit dem Ballgewinn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Was kann der Junge eigentlich nicht?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Kompany nimmt zur Kenntnis, sein Gegenüber Alexander Blessin ebenfalls.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Das ist ein Hammertor!",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Musiala erobert den Ball selbst und dann hält er einfach drauf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Vasilj steht etwas weit vor seinem Kasten und schätzt die Flugkurve des Balles etwas falsch ein, aber das ist natürlich auch ein Geschoss.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Wettbewerbsübergreifend schon das neunte Saisontor von Jamal Musiala.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Wie geht St. Pauli mit dem Rückstand um?",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "An der Spielanlage ändert sich nichts: defensiv kompakt stehen und auf Umschaltmomente lauern.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Guerreiro in die Spitze, zu wem sonst?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Natürlich Musiala und Harry Kane mit seinem ersten Torschuss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "19 Scorerpunkte hat der Engländer schon in dieser Bundesliga-Saison verbucht.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "Halbe Stunde vorbei, Ecke für St. Pauli.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Das ist Lars Ritzka auf Boukhalfa und da ist die beste Offensivaktion des Aufsteigers bislang.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Der Abschluss ist dann aber schwer zu nehmen für Karol Mets.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "In jedem ihrer bisherigen fünf Auswärtsspiele haben die Bayern mindestens drei Tore erzielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "Gelingt das auch heute, wäre das ein neuer Bundesliga-Rekord.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Ein Schuss wird von Mets geblockt.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Die Boys in Brown stehen defensiv sehr stabil und lassen außer Distanzschüsse fast nichts zu.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "Nach 45 Minuten führen die Bayern mit 1:0.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Eine verdiente Pausenführung für das Team von Vincent Kompany.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "Musialas Tor macht, wie zuletzt auch gegen Benfica Lissabon, bislang den Unterschied.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "St. Pauli verkauft sich aber sehr teuer.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Das Spiel gegen die Bayern ist ein Highlight für alle Fans, egal von welcher Position aus die Partie verfolgt wird.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Zu Beginn der zweiten Hälfte erinnern die Fans von St. Pauli und Bayern gemeinsam an die Reichspogromnacht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 38,
+        "text": "Ein wichtiges Zeichen gegen das Vergessen, starke Aktion der beiden Fanlager.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 39,
+        "text": "Zurück zum Sportlichen: Der Rekordmeister kommt unverändert aus der Kabine und übernimmt sofort wieder das Kommando.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 40,
+        "text": "Musiala, Kimmich auf Ritzka, der geht dazwischen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 41,
+        "text": "Flanke von Upamecano auf Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 42,
+        "text": "Es ist noch nicht sein Spiel, weil er auch permanent bewacht wird von St. Paulis Defensive.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 43,
+        "text": "Chancen sind auch zu Beginn des zweiten Abschnitts sehr selten.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 44,
+        "text": "Kimmich auf Kim, Boukhalfa dazwischen und dann wird es zum ersten Mal hektisch.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 45,
+        "text": "Gelb für den Innenverteidiger oder wie der Kommentator sagt: Gelb sieht auch der Co-Trainer Peter Nemmit, weil er den Videobeweis fordert.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 46,
+        "text": "Es ist ein hartes Einsteigen von Kim, der deutlich zu spät kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 47,
+        "text": "Der VAR schaltet sich aber nicht ein, es gibt keine Rote Karte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 48,
+        "text": "Nachdem sich alle wieder beruhigt haben, kann es weitergehen mit Fußball.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 49,
+        "text": "Laimer, klasse durchgelassen für Sané.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 50,
+        "text": "Vasilj kann sich auszeichnen.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Nach wie vor sind es die Distanzschüsse, die für Torgefahr sorgen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Wir sind schon in der Schlussviertelstunde.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "Musiala leitet einen Konter ein, Kane sucht wieder Sané und das ist jetzt nicht fälschlicherweise eine Wiederholung von der Chance davor, sondern exakt das gleiche Duell.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Sané mit dem Schlenzer, Vasilj mit der Parade.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "Minute 78: Goretzka eingewechselt in den Lauf von Davies und wieder Kane, der geht deutlich drüber.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Kurz darauf hat Goretzka Feierabend.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "Solider Auftritt ohne die ganz großen offensiven Akzente, immerhin mal wieder ein Startelfeinsatz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Vier Minuten noch, eine Schlussoffensive von St. Pauli bleibt bisher aus.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Dafür die Bayern: Kane schickt die Möglichkeit auf die Entscheidung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Sie ist vorerst vertagt, weil Smith noch dazwischen grätscht und so den Ball noch entscheidend über den Querbalken lenkt.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Es bleibt alles möglich.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Was fehlt, sind Abschlüsse vom Aufsteiger.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "St. Pauli steht jetzt natürlich sehr viel höher, dadurch immer wieder Konterchancen für die Bayern.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Diesmal Musiala auf Kane, Vasilj ist da.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Gnabry und noch mal Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Es geht die Fahne des Assistenten hoch, ein Treffer hätte ohnehin nicht gezählt, außer Kane hätte seine erste Chance genutzt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Die war nämlich regulär, danach erst steht er im Abseits.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Ändert am Ende alles nichts mehr: Die Bayern gewinnen mit 1:0 und bleiben damit auch das fünfte Spiel in Serie ohne Gegentor.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 69,
+        "text": "St. Pauli hat alles gegeben, der Sieg ist natürlich trotzdem verdient.",
+        "kontext": "FC St. Pauli",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 70,
+        "text": "Musiala einmal mehr der Mann für die entscheidenden Momente.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 71,
+        "text": "Der Rekordmeister zu langsam an der Tabellenspitze.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}

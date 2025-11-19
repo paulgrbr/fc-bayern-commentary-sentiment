@@ -1,0 +1,1632 @@
+{
+  "meta": {
+    "saison": "24/25",
+    "spieltag": 33,
+    "heim_auswaerts": "Heim",
+    "gegner": "Borussia Mönchengladbach",
+    "tabelle": 1,
+    "ballbesitz_bayern": "0.62"
+  },
+  "ergebnis": {
+    "bayern": 2,
+    "gegner": 0
+  },
+  "offizielle": {
+    "schiedsrichter": "Sven Jablonski",
+    "kommentator": "Oliver Schmidt"
+  },
+  "content": {
+    "transkript": [
+      {
+        "index": 0,
+        "text": "Er ist zum 11. Mal in dieser Saison in der Startelf: Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 1,
+        "text": "Beinahe 17 Jahre nach seinem Bundesliga-Debüt für Bayern als Joker.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 2,
+        "text": "Insgesamt ein Vierteljahrhundert in Rot und Weiß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 3,
+        "text": "Abschied und Meisterfeier, aber keine Party ohne Gäste.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 4,
+        "text": "Borussia Mönchengladbach muss gewinnen, um die theoretische Chance auf Europa zu wahren.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 5,
+        "text": "Bayerischer Meisterball und Müllers Abschiedsgala vor 75.000 Zuschauern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 6,
+        "text": "Der FC Bayern München in hellen Trikots gegen Borussia Mönchengladbach, ein Bundesliga-Evergreen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 7,
+        "text": "Das 114. Duell dieser Traditionsvereine.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 0
+        }
+      },
+      {
+        "index": 8,
+        "text": "6. Minute: Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 9,
+        "text": "Ein erstes Mal nimmt er Maß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 10,
+        "text": "Die Flanke wird zum Torschuss, beinahe ein typisches, krummes Müller-Ding.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 11,
+        "text": "Thomas Müller seit dem zweiten Spieltag ohne Bundesligatreffer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 12,
+        "text": "Sieben Ligaspiele ohne Niederlage, die Bayern fünf ohne Sieg, die Borussia von Rang 5 auf 9 gefallen und allein 11 Gegentore in den letzten drei Partien.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 13,
+        "text": "Flucht nach vorn über Stefan Lainer, der sucht Tim Kleindienst und findet Manuel Neuer.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 14,
+        "text": "Achte Minute: Ausgerechnet Lainer, vor mehr als drei Jahren letzter Gladbacher Siegtorschütze in München.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 15,
+        "text": "Aber nach neuneinhalb Wochen Verletzungspause hin oder her, Captain Neuer hat nichts verlernt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 16,
+        "text": "Sein Vertrag im Gegensatz zu dem von Müller um ein Jahr verlängert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 17,
+        "text": "Neuer bald der letzte Weltmeister beim FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 18,
+        "text": "Mehr Ballbesitz Bayern, die größere Gefahr bei der Borussia.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 19,
+        "text": "Kiero Dia stibitzt Müller den Ball.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 20,
+        "text": "Robin Hack.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 21,
+        "text": "Es geht schnurstracks in die Tiefe des Raums.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 22,
+        "text": "Kleindienst, Sander, wieder Hack.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 23,
+        "text": "Kombinationsfußball ohne Abnehmer.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 24,
+        "text": "Guerreiro klärt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 25,
+        "text": "10. Minute: Ecke für die Fohlen.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 26,
+        "text": "Honorat, Gladbachs Spezialist, und Alarm im Bayern-Strafraum.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 27,
+        "text": "Wieder muss Neuer eingreifen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 28,
+        "text": "In seinem 55. Spiel für München verhindert Neuer gegen Kane und Dier eine englische Eigentorproduktion.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 29,
+        "text": "23. Minute: Nie konnte er gegen die Bayern gewinnen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 30,
+        "text": "Girado Sané, die beste Offensive der Liga, die der Bayern, hat die Jagd auf den Tor-Saisonrekord noch nicht eröffnet.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 31,
+        "text": "Acht Treffer fehlen für die Bestmarke von 1972.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 32,
+        "text": "101 Tore erzielte der FCB damals.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 33,
+        "text": "Vielleicht ja jetzt: Michael Olise nimmt seine klassische Route nach innen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 0,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 34,
+        "text": "1:0, 31. Minute.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 35,
+        "text": "Olise jubelt verhalten, weil er weiß, was sonst nur Thomas Müller weiß.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 36,
+        "text": "Typisch der Oberbayer hat natürlich gesehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 37,
+        "text": "Der Kopf von Guerreiro richtungsweisend und wir dröseln es auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 38,
+        "text": "Konrad Laimer Ausgangspunkt und dann Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 39,
+        "text": "Jeder weiß, was er machen wird, nur es zu verteidigen ist kompliziert, selbst mit Fünferkette.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 40,
+        "text": "Der Schuss ist schönheitspreisverdächtig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 41,
+        "text": "Das Tor aber geht auf Kanes Konto, sein aktuell 25. in der Liga, reingestreichelt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 42,
+        "text": "Der Mann der vielen Tore ist jetzt ja endlich auch ein Mann mit Titel.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 43,
+        "text": "Harry Kane, die beste Heimmannschaft der Saison, die, die immer trifft.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 44,
+        "text": "Offensiv effizient, defensiv nicht immer stabil.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 45,
+        "text": "Hack gegen Eric Dier, vor der Partie auch verabschiedet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 46,
+        "text": "Robin Hack und wieder Manuel Neuer, ganz der Alte nach zwei Muskelfaserrissen in der Wade.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 47,
+        "text": "Mit einer 1:0-Führung schreitet Thomas Müller zu seinem letzten heimischen Pausentee.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 48,
+        "text": "Kein Torschuss, niemand seltener am Ball als er.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 49,
+        "text": "Bisher sagt Müller eher leise Servus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 1
+        }
+      },
+      {
+        "index": 50,
+        "text": "Rein in die zweite Hälfte mit Bayerns bestem Neuzugang und Topvorbereiter.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 51,
+        "text": "Eben die 18. Vorlage: Michael Olise jetzt gegen Ulrich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 52,
+        "text": "Stabil und mit dem Blick für Raphael Guerreiro, Müller als Torschuss-Behinderer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 53,
+        "text": "53. Minute: Draußen Vincent Kompany, sein 50. Spiel als Bayern-Coach, vom Premier-League-Absteiger zum Meistermacher.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 54,
+        "text": "Weiterhin nur 1:0 für die Bayern und weiterhin agiert die Borussia mutig, spielt sich flach raus gegen das Pressing.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 55,
+        "text": "On kleinst Gladbachs Vorzeigetransfer, ganz knapp vorbei, 55. Minute.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 56,
+        "text": "Dier sagt Grätschend Goodbye.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 57,
+        "text": "FC Bayern Kleindienst verharrt bei seinen immer noch bemerkenswerten 16 Saisontreffern.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 58,
+        "text": "Es ist kein hochklassiges, aber ein immerhin unterhaltsames Abendabschiedsspiel.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 59,
+        "text": "Olise, Laimer aufmerksam im Gegenpressing.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 60,
+        "text": "Müller, Laimer, Kingsley Coman und Thomas Müller, sein erster Torschuss.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 61,
+        "text": "Endlich, aber ohne Happy End.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 62,
+        "text": "Party-Crasher Gladbachs Torwart Jonas Omlin.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 63,
+        "text": "57. Minute: Müller so nah dran an Karrieretreffer 249 für seine Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 64,
+        "text": "Andere Seite: neunte Ecke VfL, Honorat und Rocco Reitz frech, artistisch und am Ende wieder erfolglos, weil Manuel Neuer ein viertes Mal im Weg steht.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 65,
+        "text": "Es ist eine Stunde gespielt.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 66,
+        "text": "Vor einem Jahr Titel- und Trainerdämmerung, 2025 sind zumindest die Verhältnisse in der Liga wieder gerade gerückt worden von den Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 67,
+        "text": "Der Rekordmeister im Umschaltmodus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 68,
+        "text": "Kane, Olise, der eingewechselte Leroy Sané und Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 69,
+        "text": "Abschied ohne Torsignal.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 70,
+        "text": "Diesmal steht und liegt und grätscht sich Stefan Lainer in die Rolle des Spielverderbers.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 71,
+        "text": "68. Minute: Viel Zeit bleibt Müller nicht mehr für sein Finale.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 72,
+        "text": "Doch offensiv der Fokus: Müller ein Tor aufzulegen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 73,
+        "text": "Fehlpass Olise, defensiv weiter lässig bis fahrlässig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 74,
+        "text": "Rocco Reitz, klasse Ball und Tomáš Čvančara.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 75,
+        "text": "Guerreiro chancenlos.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 76,
+        "text": "Čvančara, Manuel Neuer vom fünften.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 77,
+        "text": "Čvančara gerade eingewechselt nach einer Woche voller Ärger.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 78,
+        "text": "Beste Ausgleichschance, 79. Minute.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 79,
+        "text": "Rein sportlich hätte sich die Borussia einen Punkt längst verdient.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 80,
+        "text": "Chiarodia, einfacher langer Ball auf Joker.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 81,
+        "text": "Kevin Stöger, 80. Minute.",
+        "kontext": "Borussia Mönchengladbach",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 82,
+        "text": "Na klar, Manuel Neuer, das Stoppschild auf zwei Beinen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 83,
+        "text": "Der Torhüter, Mann des Spiels an seinem Abend: Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 84,
+        "text": "Um 20:10 Uhr wird das wahr, was kaum einer wirklich wahrhaben möchte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 85,
+        "text": "Thomas Müller verlässt das Münchner Fußballtheater.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 86,
+        "text": "Ein Leben für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 87,
+        "text": "Am 15. August 2008 mit 18 betrat dieser Kerl die bayerische Bühne.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 88,
+        "text": "Damals Einwechselspieler für Miroslav Klose.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 89,
+        "text": "Danke für alles.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 90,
+        "text": "Unsere Nummer 25: Thomas.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 91,
+        "text": "Thomas, Thomas, Thomas.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 92,
+        "text": "Unten der Sohnemann und oben macht Mama Claudia Erinnerungsfotos oder ein Erinnerungsvideo.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 93,
+        "text": "Herrlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 94,
+        "text": "Die Partie läuft sogar weiter ohne Thomas Müller.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 95,
+        "text": "Die letzten Heimspielminuten der Saison.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 96,
+        "text": "Leroy Sané, bleibt er oder geht er?",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 97,
+        "text": "Sané diesmal auf der Robben-Route mit Vorlage für Michael Olise.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 1,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 98,
+        "text": "2:0, 90. Minute, die Entscheidung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 99,
+        "text": "Bundesliga-Tor für Bayerns zweitbesten Scorer.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 100,
+        "text": "Zum zweiten Mal trifft der Franzose mit links.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 101,
+        "text": "Bayerns bester Neuzugang Michael Olise, das zweite Streicheltor des Abends.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 102,
+        "text": "2:0 der Endstand.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 2
+        }
+      },
+      {
+        "index": 103,
+        "text": "Ein letzter Jubel vor der großen Meister-Müller-Party.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 104,
+        "text": "Auf der Tribüne ist zapft, auf dem Rasen Zeit für Zärtlichkeiten.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 105,
+        "text": "Der FC Bayern München, Meister aller Klassen, seit Spieltag 3 die Nummer 1.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 106,
+        "text": "Kapitän Manuel Neuer überlässt dem Rekordmann Thomas Müller die Meisterschale.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 107,
+        "text": "Der FC Bayern München, Deutscher Meister 2025.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 108,
+        "text": "Müller mit zwei Medaillen um den Hals.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 109,
+        "text": "Eine hat er vom Trainer bekommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 110,
+        "text": "Von der Rückennummer 25 zum 25-Tore-Mann Harry Kane.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 111,
+        "text": "Endlich, endlich die erste Trophäe für ihn.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 112,
+        "text": "Der erste Belgier, der als Trainer deutscher Meister wird: Vincent Kompany, sein zweiter Titel an der Linie.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 113,
+        "text": "Darauf besteht er: englischer Zweitligameister und deutscher Meister.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 114,
+        "text": "So viel Zeit muss sein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 115,
+        "text": "Ein Vierteljahrhundert bayerische Fußballgeschichte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 116,
+        "text": "Thomas Müller, das überraschende Ende nach 25 Jahren.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 117,
+        "text": "Das hätte der FC Bayern besser machen können und müssen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 118,
+        "text": "Er hätte gerne ein Jahr weitergespielt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 119,
+        "text": "Wir Fußballer, wir lieben den Geruch von Gras.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 120,
+        "text": "Einer, der den Ton trifft, auch in der Kurve: Fürsprecher und Vorsänger.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 121,
+        "text": "Zeit für ein persönliches Servus.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 122,
+        "text": "Macht's gut.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 123,
+        "text": "Bitte.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 124,
+        "text": "Ja, Leute, wir haben alle gewusst, dass der Moment kommen wird.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 125,
+        "text": "Ich habe es auch gewusst und ich bin sehr glücklich darüber, dass wir diese Schale wieder in München haben.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 126,
+        "text": "Radio Müller live auf Sendung.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 127,
+        "text": "Ich werde es vermissen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 128,
+        "text": "Und trotzdem glaube ich, können wir positiv in die Zukunft schauen, wenn ich das Team anschaue.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 129,
+        "text": "Ich sehe ganz viele junge, hungrige Spieler, die auch, wie ihr richtig gesagt habt, ihr Herz geben für den FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 130,
+        "text": "Ich glaube, wir sind gut aufgestellt und trotzdem appelliere ich an alle, die auch nächstes Jahr und in den nächsten Jahren hier sind: Reißt euch den Arsch auf.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 131,
+        "text": "Das ist was Größeres, als ihr euch für euch selber vorstellen könnt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 132,
+        "text": "Ja, dementsprechend.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 133,
+        "text": "Ich werde von dieser großen Bühne gehen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 134,
+        "text": "Ich habe es geliebt, der moderne Gladiator zu sein.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 135,
+        "text": "Ich habe es geliebt, die Show natürlich auch ein bisschen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 136,
+        "text": "Ich bin aber nicht traurig.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 137,
+        "text": "Ich freue mich auf das, was kommt.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 138,
+        "text": "Auch wenn das nicht halb so schön sein kann wie das, was ich hatte.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 139,
+        "text": "Und trotzdem freue ich mich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 140,
+        "text": "Ich hoffe, ihr freut euch auch.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 141,
+        "text": "Keine Träne verdrücken und wenn, dann nur eine positive.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 142,
+        "text": "Und jetzt wird gefeiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 143,
+        "text": "Ich liebe euch alle tatsächlich.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 144,
+        "text": "Macht es gut.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 145,
+        "text": "Servus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 146,
+        "text": "Let's go.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 147,
+        "text": "Jetzt wird gefeiert.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 148,
+        "text": "Thomas Müller als Zehnjähriger gekommen zum FC Bayern.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 149,
+        "text": "Mit 35 geht er als Spieler, wird aber sicher in anderer Rolle wiederkommen.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 150,
+        "text": "Bayerische Bierduschen, die Bayern, die Bundesliga, wir alle verlieren ein originelles oberbayerisches Original.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 151,
+        "text": "Abschied mit Müllerschem Abschiedswitz.",
+        "kontext": "FC Bayern München",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 152,
+        "text": "Der Vater liegt im Sterben zu Hause.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 153,
+        "text": "Die drei Kinder stehen an seinem Bett.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 154,
+        "text": "Auf einmal duftet es nach seinem Lieblingskuchen aus der Küche, den die Mama gerade zubereitet.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 155,
+        "text": "Da sagt der Vater: \"Sohn, bring mir bitte noch mal ein Stück von meinem Lieblingskuchen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 156,
+        "text": "Das wäre mein letzter Wunsch.\"",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 157,
+        "text": "Dann kommt er aus der Küche wieder ohne Kuchen.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 158,
+        "text": "Sagt der Vater: \"Ja, was ist jetzt los?\"",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 159,
+        "text": "Ja, die Mama hat gesagt, der ist für nach der Beerdigung.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      },
+      {
+        "index": 160,
+        "text": "Also, servus.",
+        "kontext": "Neutral",
+        "klassifikation": {
+          "tore_bayern": 2,
+          "tore_gegner": 0,
+          "phase": 3
+        }
+      }
+    ]
+  }
+}
