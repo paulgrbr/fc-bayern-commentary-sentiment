@@ -44,5 +44,27 @@ Zusätzlich Analyse potenzieller Muster über Spiele, Gegner oder Kommentatoren.
 
 ---
 
-## ℹ️ Lizenz
-Dieses Projekt entstand im Rahmen einer Studienleistung. Nutzung der bereitgestellten Daten nur zu Forschungs- und Lehrzwecken.
+## Lizenz
+
+Dieses Projekt entstand im Rahmen einer Studienleistung.  
+Die Verwendung der bereitgestellten Daten ist ausschließlich zu Forschungs- und Lehrzwecken gestattet.
+
+### Datenquellen
+Bei der Nutzung und Weiterverarbeitung sind die folgenden externen Quellen zu beachten:
+
+- **FBref (Bayern-Statistiken)**  
+    https://fbref.com/en/squads/054efa67/2023-2024/Bayern-Munich-Stats
+
+    https://fbref.com/en/squads/054efa67/2024-2025/Bayern-Munich-Stats
+  
+
+- **Wikipedia: Kader der Bundesliga**  
+  https://de.wikipedia.org/wiki/Kader_der_deutschen_Fußball-Bundesliga_2023/24
+
+  https://de.wikipedia.org/wiki/Kader_der_deutschen_Fußball-Bundesliga_2024/25
+
+- **YouTube – ZDF sportstudio fußball**  
+  https://www.youtube.com/@sportstudiofussball  
+  (Quelle der automatisch generierten Videotranskripte)
+
+Alle Rechte an den oben genannten Inhalten verbleiben bei den jeweiligen Urhebern.
