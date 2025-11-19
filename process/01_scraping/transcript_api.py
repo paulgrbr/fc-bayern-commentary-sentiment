@@ -1,5 +1,13 @@
 import pandas as pd
 import requests
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
+API_KEY = os.getenv("TRANSCRIPT_API_KEY")
+if not API_KEY:
+    raise RuntimeError("TRANSCRIPT_API_KEY fehlt in .env")
 
 # Excel laden
 datei = "raw_data.xlsx"
@@ -17,7 +25,7 @@ for index, row in df.iterrows():
     }
     headers = {
         "accept": "application/json",
-        "Authorization": "Bearer sk_KMVXVjGKnSY049EvgW0aJ5wd_62h2gifNX77wFeDm-c"
+        "Authorization": f"Bearer {API_KEY}"
     }
 
     r = requests.get(api, params=params, headers=headers)
