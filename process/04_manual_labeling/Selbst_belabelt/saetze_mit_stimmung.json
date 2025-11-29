@@ -1,0 +1,692 @@
+[
+  {
+    "index": 1,
+    "text": "Fanfreundschaft ja, aber Freundschaftsspiel auf keinen Fall.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 2,
+    "text": "Der FC Bayern in Weiß-Rot empfängt den VfL Bochum und startet druckvoll.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 3,
+    "text": "Erste Minute: Davies sucht Coman, der viel Platz auf der linken Seite hat, und findet Choupo-Moting.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 4,
+    "text": "Vier Veränderungen hat Thomas Tuchel im Vergleich zum Manchester-United-Spiel vorgenommen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 5,
+    "text": "Mazraoui und Choupo-Moting sind neu dabei.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 6,
+    "text": "Bochum ist seit drei Spielen ungeschlagen, wartet aber noch auf den ersten Saisonsieg.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 7,
+    "text": "Wittek, ein ehemaliger Münchner Löwe, versucht es mal.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 8,
+    "text": "Zuletzt verlor der Rekordmeister vor 32 Jahren ein Heimspiel gegen Bochum, damals noch im Olympiastadion.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 9,
+    "text": "Coman, Choupo-Moting, vierte Minute, 1:0 Bayern München.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 10,
+    "text": "Das ging schnell und auch ein bisschen zu einfach.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 11,
+    "text": "Erstes Saisontor für den Mann, der in der vergangenen Saison zehn Mal in der Liga traf.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 12,
+    "text": "Tuchels Rotation funktioniert einwandfrei, und mit Choupo-Moting in der Startelf haben wohl auch die wenigsten gerechnet, nachdem zuletzt der junge Mathys Tel so starke Leistungen zeigte.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 13,
+    "text": "Die Bayern früh in Tanzlaune.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 14,
+    "text": "Eckball Kimmich.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 15,
+    "text": "Gegen Leverkusen überließ er noch Sané den Vortritt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 16,
+    "text": "Und Laimer, der VfL noch in der Rolle des Beobachters.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 17,
+    "text": "Man wolle natürlich etwas mitnehmen, sonst bräuchte man gar nicht nach München fahren, betonte Bochums Coach Thomas Letsch vor dem Spiel.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 18,
+    "text": "Aktuell nimmt man eine weitere Auswärtspleite mit.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 19,
+    "text": "Davies, und dann landet der Ball irgendwie bei Harry Kane.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 20,
+    "text": "Zwölfte Minute, 2:0 FC Bayern.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 21,
+    "text": "Harry Kane, wie viel hat der Engländer noch mal gekostet?",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 22,
+    "text": "Das Preisschild ist schon längst kein Thema mehr in den Medien.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 23,
+    "text": "Der Stürmer trifft und trifft und trifft, auch dank des Knies von Wittek.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 24,
+    "text": "Fünftes Bundesligaspiel, fünfter Treffer, dazu das Tor am Mittwoch gegen United.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 25,
+    "text": "Harry Kane ist ein Volltreffer.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 26,
+    "text": "Das wird jetzt natürlich ein langer Weg zurück ins Spiel für die Gäste, die schon wieder den Rückwärtsgang eingelegt haben.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 27,
+    "text": "Kane, der Ball springt ihm in dieser Situation nicht weg.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 28,
+    "text": "Notieren wir einen Doppelpack nach einer Viertelstunde.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 29,
+    "text": "Die Münchner zeigen immer wieder ein schnelles und direktes Spiel.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 30,
+    "text": "Auch jetzt wieder.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 31,
+    "text": "Bochum extrem gefordert in der Defensive.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 32,
+    "text": "Und dann prallen auch noch Bernardo und Riemann zusammen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 33,
+    "text": "Das Spiel wird unterbrochen, denn das war richtig schmerzhaft.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 34,
+    "text": "Es folgt eine kurze Behandlungspause, vielleicht ja auch etwas Zeit, um sich aus Bochumer Sicht noch einmal zu sammeln.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 35,
+    "text": "Doch es fehlen einfach die Mittel, die individuelle Qualität der Bayern zu stoppen.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 36,
+    "text": "Stichwort Qualität: Coman, leicht abgefälscht, dieser Schuss.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 37,
+    "text": "Also ab zum nächsten Eckball.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 38,
+    "text": "Kimmich, de Ligt, 29. Minute, 3:0 Bayern München.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 39,
+    "text": "Matthijs de Ligt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 40,
+    "text": "Es ist ein schwerer Saisonstart für den Niederländer.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 41,
+    "text": "Wie bei einem Sparkassenangestellten wurde die Bank zu seinem Arbeitsplatz.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 42,
+    "text": "Jetzt betonte Tuchel, de Ligt habe zu 100% verdient zu spielen, er sei wieder in Form.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 43,
+    "text": "Und wie das dann aussieht, zeigt eindrucksvoll dieser Eckball.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 44,
+    "text": "Bayern voll auf Kurs Heimsieg.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 45,
+    "text": "Und trotzdem lehnen sich die Münchner nicht zurück.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 46,
+    "text": "Kane, in letzter Sekunde noch von Bero gestört.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 47,
+    "text": "36. Minute, ein Zeichen von Thomas Letsch: Doppelwechsel.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 48,
+    "text": "Passlack und Wittek haben Feierabend, Loosli und Hofmann neu dabei.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 49,
+    "text": "Bedeutet taktisch: Beide Außenverteidiger raus und ein zusätzlicher Innenverteidiger rein.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 50,
+    "text": "Die Defensive muss sich jetzt also schnell neu sortieren.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 51,
+    "text": "Kane, super Auge, 4:0, 38. Minute.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 52,
+    "text": "Viel leichter kann man es dem FC Bayern nicht machen.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 53,
+    "text": "Grotesk schlechtes Abwehrverhalten.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 54,
+    "text": "Und Leroy Sané, seit Wochen in Topform, egal ob im Verein oder in der Nationalelf, lässt seine Kritiker verstummen.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 55,
+    "text": "Abgezockt voran.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 56,
+    "text": "Viertes Saisontor für den 27-Jährigen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 57,
+    "text": "Einseitig, so lässt sich diese Partie kurz und schmerzlos zusammenfassen.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 58,
+    "text": "Wieder, beziehungsweise eigentlich nur der FC Bayern.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 59,
+    "text": "Kane, der es diesmal selbst versucht, nachdem er das 4:0 noch aufgelegt hatte.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 60,
+    "text": "Nachspielzeit: 4 Minuten.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 61,
+    "text": "Danach dürfen die Gäste endlich in die Kabine.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 62,
+    "text": "Aber vorher kommt noch mal eine gute Tat von Riemann.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 63,
+    "text": "Aber die Bayern setzen nach.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 64,
+    "text": "Kingsley Coman hat den Kopf oben und findet Kimmich.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 65,
+    "text": "Und danach geht es dann in die Pause.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 66,
+    "text": "4:0 für den Rekordmeister am Tag vor dem Oktoberfestbesuch der Bayern-Profis.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 67,
+    "text": "Ein entspanntes Halbzeitergebnis.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 68,
+    "text": "Beide Trainer wechseln einmal: Gamboa für Losilla bei Bochum und Upamecano für de Ligt, der nach einem Foul angeschlagen in der Kabine bleiben muss.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 69,
+    "text": "Vergangene Saison verlor Bochum mit 0:7 gegen die Bayern.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 70,
+    "text": "Neue Spielzeit und es winkt schon wieder eine Packung.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 71,
+    "text": "Es gibt nach dieser Aktion einen Elfmeter.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 72,
+    "text": "Wittek mit der Hand dran.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 73,
+    "text": "Schiedsrichter Robert Hartmann checkte die Situation im Anschluss noch mal, aber bleibt bei seiner Entscheidung.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 74,
+    "text": "54. Minute, Kane, Doppelpack, 5:0 FC Bayern.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 75,
+    "text": "Es sind mittlerweile die Ligatreffer sechs und sieben für Kane im fünften Spiel.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 76,
+    "text": "Ein neuer Vereinsrekord.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 77,
+    "text": "Das haben nicht mal Legenden wie Gerd Müller oder Miroslav Klose geschafft.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 78,
+    "text": "Was ist eigentlich aus der guten alten Fanfreundschaft geworden?",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 79,
+    "text": "In diesem Jahr feiert sie 50-jähriges Jubiläum.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 80,
+    "text": "So langsam könnte man die Freunde aus Bochum doch verschonen und es tatsächlich als Freundschaftsspiel beenden.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 81,
+    "text": "Aber Coman will auch noch mal.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 82,
+    "text": "Das Aluminium rettet für Bochum.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 83,
+    "text": "65. Minute, Bundesliga-Debüt mit Franz Krätzig, 20-jähriges Abwehrtalent, und Mathys Tel, 18-jähriges Bundesliga-erprobtes Sturmtalent, kommen ins Spiel.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 84,
+    "text": "Frischer Wind, der sich gleich mal gut einbringt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 85,
+    "text": "Krätzig und Riemann.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 86,
+    "text": "Franz Krätzig, seitdem er 2017 aus der Jugend des 1. FC Nürnberg zu den Bayern-Junioren wechselte, spielt er immer als offensiver Mittelfeldspieler.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 87,
+    "text": "Anfang des Jahres wurde er als Linksverteidiger umgeschult.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 88,
+    "text": "Ecke Kimmich.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 89,
+    "text": "Zurecht kann man sich fragen, wo denn die Offensivstärken der Bochumer in diesem Beitrag sind.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 90,
+    "text": "Beispiel gefällig?",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 91,
+    "text": "Und bitte, damit zurück zu sehenswerteren Aktionen.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 92,
+    "text": "Der FC Bayern im Vorwärtsgang.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 93,
+    "text": "Bernardo, Zeit, und das muss man wirklich nicht mehr analysieren.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 94,
+    "text": "Kane, Kane mit dem Zuspiel auf Mathys Tel, 6:0, 81. Minute.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 95,
+    "text": "Der Junge macht den Bayern so viel Spaß.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 96,
+    "text": "Wie lange kann Thomas Tuchel dieses Talent noch von der Startelf fernhalten?",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 97,
+    "text": "Drei Tore und ein Assist als Joker in dieser Bundesliga-Saison sind gleichzeitig aber auch ein Argument für Tuchel, den 18-Jährigen weiter von der Bank zu bringen.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 98,
+    "text": "Denn der Franzose braucht einfach keine lange Eingewöhnungszeit.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 99,
+    "text": "Bochum mit den Gedanken vielleicht schon beim nächsten Spiel gegen Borussia Mönchengladbach.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 100,
+    "text": "Diese Partie sollte man schnellstmöglich abhaken.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 101,
+    "text": "Offensiv gibt es aber noch mal so etwas wie ein Lebenszeichen.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 102,
+    "text": "Stöger, zumindest mal ein Schuss aufs Tor.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 103,
+    "text": "Schlussphase, das große Auslaufen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 104,
+    "text": "Von wegen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 105,
+    "text": "Bayern München will hier nicht nur die drei Punkte.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 106,
+    "text": "Der Rekordmeister will auch schon mal früh in der Saison das Thema Tordifferenz klären.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 107,
+    "text": "Sané und wieder Riemann.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 108,
+    "text": "Es ist ein frustrierender und ein langer Arbeitstag für den Keeper.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 109,
+    "text": "Und kurz vor dem Feierabend kommt der Chef hier in Form des FC Bayern noch mal an den Schreibtisch, klaut einem den Schokoladenriegel und wünscht ein schönes Wochenende.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 110,
+    "text": "Kane, 7:0, 88. Minute.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 111,
+    "text": "Dreierpack und zwei Tore vorbereitet.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 112,
+    "text": "Harry Kane macht Dinge, die ein Harry Kane ebenso macht.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 113,
+    "text": "Keine Schnörkel, Hauptsache der Ball landet im Netz.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 114,
+    "text": "Aber auch insgesamt eine bemerkenswerte Teamleistung der Münchner.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 115,
+    "text": "Mit 7:0 schickt man den VfL Bochum in den Feierabend.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  }
+]

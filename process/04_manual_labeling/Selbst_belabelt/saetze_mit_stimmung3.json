@@ -1,0 +1,440 @@
+[
+  {
+    "index": 1,
+    "text": "Gegen keine Mannschaft hat der FC Bayern in seiner Bundesliga-Historie öfter gewonnen, nämlich 69 Mal.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 2,
+    "text": "Die Münchner gastieren bei ihrem absoluten Lieblingsgegner, denn in der jüngsten Vergangenheit hat der Rekordmeister nur eins der letzten 23 Duelle gegen den VfB Stuttgart verloren und 20 Vergleiche gewonnen.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 3,
+    "text": "Das wollen die Schwaben in Weiß von links nach rechts natürlich ändern.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 4,
+    "text": "Dennis Undav mit dem ersten Warnschuss in der 7. Minute, gekontert vom ersten Torschuss der Bayern 2 Minuten danach.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 5,
+    "text": "Harry Kane setzt sich durch und zieht ab, kein Problem für die Bayern-Leihgabe im Stuttgarter Tor, Alexander Nübel.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 6,
+    "text": "Es ist ein vorsichtiges Abtasten in der Anfangsphase bis zur 10. Minute.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 7,
+    "text": "Angelo Stiller wird von Guerreiro geblockt, der Ball kommt zu Führich, guter Schuss, Neuer ist da.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 8,
+    "text": "Das erste Highlight dieser Partie dank Chris Führichs starkem rechten Fuß und Neuers toller Flugeinlage.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 9,
+    "text": "Wenig später riesen Ärger bei Thomas Tuchel, aber was ist passiert?",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 10,
+    "text": "Erstmal erleidet Eric Dier nach diesem Kopfballduell mit Guirassy eine Platzwunde, kann aber leicht lädiert weiterspielen.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 11,
+    "text": "Im Gegensatz zu Raphaël Guerreiro, der sich in dieser Szene in der 17. Minute verletzt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 12,
+    "text": "Für den Portugiesen ist die Partie früh beendet.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 13,
+    "text": "Guerreiro wird durch Leon Goretzka ersetzt, bitter für den Matchplan von Thomas Tuchel, der im Vergleich zum Halbfinal-Hinspiel in der Champions League gegen Real Madrid sechs Veränderungen vorgenommen hat, um Kräfte für das Rückspiel in der kommenden Woche in Bernabéu zu schonen.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 14,
+    "text": "Neben Guerreiro sind Davies, Pavlovic, Gnabry, Choupo-Moting und Tel für Mazraoui, Laimer, Müller, Sané, Musiala und eben Goretzka in die Startelf gerückt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 15,
+    "text": "Eric Dier schont sich und seine Gegenspieler auf jeden Fall nicht.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 16,
+    "text": "Der Engländer langt an der Mittellinie gegen Leweling zu, der Unparteiische Tobias Welz zückt in der 19. Minute Gelb.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 17,
+    "text": "Der Innenverteidiger kommt gegen den Stuttgarter klar zu spät und bleibt weiterhin im Mittelpunkt des Geschehens.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 18,
+    "text": "28. Minute: Itos Hereingabe kommt über Umwege zu Guirassy und Dier klärt mit Platzwunde am Kopf auf der Linie.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 19,
+    "text": "Na klar, Eric Dier.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 20,
+    "text": "Der 30-Jährige scheint keine Schmerzen zu empfinden, hält für den geschlagenen Neuer seinen Schädel hin, bewahrt die Bayern vor einem Rückstand und wechselt die medizinische Mode.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 21,
+    "text": "Eine halbe Stunde gespielt, der VfB ist mittlerweile das bessere Team, setzt offensiv die besseren und erfolgreicheren Akzente.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 22,
+    "text": "Leonidas Stergiou mit der verdienten Führung für die Hausherren und seinem allerersten Bundesliga-Treffer und dann auch noch gegen die großen Bayern.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 23,
+    "text": "Für die Aktion gibt es Applaus von Sebastian Hoeneß.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 24,
+    "text": "Er hebelt mit feinem Füßchen Bayerns Viererkette aus und der Schweizer mit griechisch-serbischen Wurzeln bleibt in seinem fünften Startelfeinsatz in dieser Saison ganz cool vor Neuer und überwindet die deutsche Nummer 1 gekonnt.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 25,
+    "text": "Ein schön herausgespieltes Tor der Schwaben, abgeschlossen vom aufgerückten Rechtsverteidiger.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 26,
+    "text": "35. Minute: Die Bayern versuchen zu antworten mit Serge Gnabry.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 27,
+    "text": "Der erste Versuch wird von Anton geblockt und im zweiten Anlauf prallt Gnabry an Anton ab, auf Kosten eines Strafstoßes.",
+    "sentiment": "Negativ",
+    "target": "Gegner"
+  },
+  {
+    "index": 28,
+    "text": "Denn Tobias Welz zeigt nach dem Zweikampf zwischen Waldemar Anton und Serge Gnabry auf den Punkt.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 29,
+    "text": "Für mich eine Fehlentscheidung.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 30,
+    "text": "Anton touchiert Gnabry minimal an der Schulter und vielleicht noch im Gesicht.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 31,
+    "text": "Der Münchner Angreifer fällt theatralisch und Welz fällt drauf rein.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 32,
+    "text": "Nicht nachvollziehbar, warum Videoschiedsrichter Benjamin Brand nicht eingreift.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 33,
+    "text": "Harry Kane ist es völlig egal.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 34,
+    "text": "Gegen Real Madrid links unten getroffen und Lunin verladen, gegen den VfB rechts unten und Nübel in die andere Ecke geschickt.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 35,
+    "text": "Der Engländer wettbewerbsübergreifend mit seinem 44. Saisontor im 43. Saisonspiel und dem achten verwandelten Elfmeter bei acht Gelegenheiten zum 1:1-Halbzeitstand.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 36,
+    "text": "Das Ganze vor den Augen von Jogi Löw, der vor Beginn des zweiten Durchgangs die Einwechslung von Upamecano für den angeschlagenen Dier registriert und in der 48. Minute den ersten Münchner Angriff in der zweiten Halbzeit und diese dicke Chance zur Gäste.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 37,
+    "text": "Aber Eric Maxim verzieht unter Bedrängnis.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 38,
+    "text": "Anton stört den Deutsch-Kameruner im letzten Moment entscheidend.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 39,
+    "text": "In der 51. Minute kommen die Gastgeber über den sehr fleißigen Chris Führich zu ihrem ersten Torabschluss im zweiten Abschnitt.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 40,
+    "text": "Tückisch rumgezogen, Neuer macht sich lang, denn schnibbelt der Stuttgarter Flügelflitzer listig aufs lange Eck.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 41,
+    "text": "Und 2 Minuten danach ist es wieder der deutsche Nationalspieler, der Manuel Neuers Aufmerksamkeit prüft.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 42,
+    "text": "Ganz krummes und unangenehmes Ding, halb Flanke, halb Torschuss auf den langen Pfosten.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 43,
+    "text": "Neuer geht auf Nummer sicher.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 44,
+    "text": "Stuttgart ist jetzt wieder tonangebend und arbeitet aggressiv gegen den Ball und hat nach Ballgewinn Zug Richtung Münchner Strafraum.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 45,
+    "text": "Knappe Stunde gespielt: Dennis Undav legt sich den Ball ein Tick zu weit vor, Endstation Manuel Neuer.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 46,
+    "text": "Gute Gelegenheit für Undav, der den Ball nach guter Bewegung mit der Pike aufs Tor bringt.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 47,
+    "text": "Anders als Jamie Leweling, der es in der 68. Minute aus der Distanz mit der Innenseite probiert.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 48,
+    "text": "Freie Sicht und Flugbahn für Neuer, der immer wieder eingreifen muss.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 49,
+    "text": "Bayern defensiv gefordert mit seltener Entlastung.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 50,
+    "text": "In der 69. Minute: Harry Kane setzt sich gegen Anton durch, kommt dann ins Straucheln und im Strafraum zu Fall.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 51,
+    "text": "Welz lässt zurecht weiterlaufen und so landet der Ball bei Mathys Tel und der serviert aus dem Fußgelenk für Harry Kane.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 52,
+    "text": "Kane macht fast alles richtig, köpft gegen die Laufrichtung von Nübel, aber zu ungenau.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 53,
+    "text": "Es ist die beste Phase der Bayern in der zweiten Halbzeit und es folgt Minute 78.",
+    "sentiment": "Positiv",
+    "target": "Bayern"
+  },
+  {
+    "index": 54,
+    "text": "Der eingewechselte pfeilschnelle Bryan Zaragoza geht ab, muss rechts raus zum ebenfalls eingewechselten Leroy Sané spielen, klebt aber viel zu lange am Ball und trifft die falsche Entscheidung.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 55,
+    "text": "Schlechter Abschluss, Konter der Münchner, da war deutlich mehr drin.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 56,
+    "text": "Und die Schwaben wittern Morgenluft.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 57,
+    "text": "83. Minute: Führich in die Partie gekommen, zum ebenfalls eingewechselten Woo-yeong Jeong.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 58,
+    "text": "Gute Seitenverlagerung auf den nächsten frischen Mann, Silas, und der bringt die perfekte Flanke.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 59,
+    "text": "Der Südkoreaner bringt die Hausherren wieder in Führung, versetzt die Cannstatter Kurve in Ekstase und es ist auch sein Bundesliga-Premierentreffer in dieser Saison für Stuttgart gegen seinen Ex-Verein.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 60,
+    "text": "Bayern verpasst das 2:1 auf der einen Seite und gerät spät in Rückstand.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 61,
+    "text": "Den kleinen Spalt im Hintertürchen findet und Neuer überwindet.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 62,
+    "text": "Der Treffer eine Koproduktion dreier Einwechselspieler.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 63,
+    "text": "Sebastian Hoeneß beweist ein gutes Händchen.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 64,
+    "text": "Das wird auch Max Eberl registriert haben, der sucht ja weiterhin einen Übungsleiter für die nächste Saison.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 65,
+    "text": "Und Bayerns Sportvorstand wird in der Schlussphase unfreiwillig Zeuge der starken Stuttgarter Willenskraft.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 66,
+    "text": "Legt mit letztem Einsatz auf für Silas zum 3:1 in der dritten Minute der Nachspielzeit und der Deckel ist drauf.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 67,
+    "text": "Toller Einsatz von Guirassy und Silas kaltschnäuzig vor Manuel Neuer.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 68,
+    "text": "Pure Erleichterung auf Stuttgarter und Frust auf Münchner Seite.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 69,
+    "text": "Thomas Tuchel wird noch wegen Meckerns verwarnt.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 70,
+    "text": "Der FC Bayern München verpatzt die Generalprobe vor dem Finalrückspiel in der Champions League bei Real Madrid und spürt auf Platz 2 stehend den Atem der Stuttgarter.",
+    "sentiment": "Negativ",
+    "target": "Bayern"
+  },
+  {
+    "index": 71,
+    "text": "Der VfB ist nur noch zwei Punkte hinter dem Rekordmeister und bringt den ein oder anderen Vater im Ländle ordentlich ins Schwitzen.",
+    "sentiment": "Positiv",
+    "target": "Gegner"
+  },
+  {
+    "index": 72,
+    "text": "Wenn ihr keine Fußball-Highlights mehr verpassen wollt, lasst ein Abo da und schaut mal hier.",
+    "sentiment": "Neutral",
+    "target": null
+  },
+  {
+    "index": 73,
+    "text": "Hier sind aktuelle Videos, klickt da auch gerne mal rein.",
+    "sentiment": "Neutral",
+    "target": null
+  }
+]
